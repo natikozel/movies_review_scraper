@@ -1,2 +1,5 @@
 beautifulsoup4
 requests
+selenium
+webdriver_manager
+lxml

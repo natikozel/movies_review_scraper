@@ -1,577 +1,607 @@
 {
-  "movie_name": "Interstellar",
+  "movie_name": "interstellar",
   "movie_id": "interstellar_2014",
-  "total_reviews": 57,
+  "total_reviews": 200,
   "reviews": [
     {
-      "text": "[A] gorgeous, heartbreaking epic.",
-      "rating": "5.0/5",
-      "author": "Kevin Maher",
-      "publication": "Times (UK)",
-      "date": "Sep 27, 2024",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "[A] gorgeous, heartbreaking epic."
     },
     {
-      "text": "Humbling and epic in scope, designed and conceptualised brilliantly, but a tad too stand-off-ish emotionally. While the father-daughter dynamic works in parts, the Cooper–Brand relationship is never given the right treatment and collapses.",
-      "rating": null,
-      "author": "Akhil Arora",
-      "publication": "AkhilArora.com",
-      "date": "Oct 17, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Humbling and epic in scope, designed and conceptualised brilliantly, but a tad too stand-off-ish emotionally. While the father-daughter dynamic works in parts, the Cooper–Brand relationship is never given the right treatment and collapses."
     },
     {
-      "text": "This is a film where complex concepts of quantum physics and powerful human emotions are inextricably intertwined and the ghost that haunts the farmhouse has both a scientific explanation and a sense of supernatural power.",
-      "rating": null,
-      "author": "Sean Axmaker",
-      "publication": "Stream on Demand",
-      "date": "Sep 9, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "This is a film where complex concepts of quantum physics and powerful human emotions are inextricably intertwined and the ghost that haunts the farmhouse has both a scientific explanation and a sense of supernatural power."
     },
     {
-      "text": "\"Interstellar\" pushes the limits for personal interpretation of both science and fiction. Both elements are wildly heightened to a bold scale to address the internal opposites between logic and spectacle, science and sentiment, and brains and emotion.",
-      "rating": "4.0/5",
-      "author": "Don Shanahan",
-      "publication": "Every Movie Has a Lesson",
-      "date": "Sep 4, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "\"Interstellar\" pushes the limits for personal interpretation of both science and fiction. Both elements are wildly heightened to a bold scale to address the internal opposites between logic and spectacle, science and sentiment, and brains and emotion."
     },
     {
-      "text": "…uses sci-fi to go beyond into the philosophical and spiritual beyond that few other epics can reach….",
-      "rating": "4.0/5",
-      "author": "Eddie Harrison",
-      "publication": "film-authority.com",
-      "date": "Jul 27, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "…uses sci-fi to go beyond into the philosophical and spiritual beyond that few other epics can reach…."
     },
     {
-      "text": "Nolan’s most openly emotional film, he fully lived up to his “Stanley Kubrick’s eye and Steven Spielberg’s heart” identity with this grand sci-fi epic about the sheer force of will that we have for those we love.",
-      "rating": null,
-      "author": "Cory Woodroof",
-      "publication": "For the Win (USA Today)",
-      "date": "Jul 20, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Nolan’s most openly emotional film, he fully lived up to his “Stanley Kubrick’s eye and Steven Spielberg’s heart” identity with this grand sci-fi epic about the sheer force of will that we have for those we love."
     },
     {
-      "text": "Interstellar utilizes science in a way that strives for authenticity in a science-fiction thriller and it's why we're still discussing the Christopher Nolan film today.",
-      "rating": "4.5/5",
-      "author": "Danielle Solzman",
-      "publication": "Solzy at the Movies",
-      "date": "Jul 18, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Interstellar utilizes science in a way that strives for authenticity in a science-fiction thriller and it's why we're still discussing the Christopher Nolan film today."
     },
     {
-      "text": "As Robert Bresson once said, “I’d rather people feel a film before understanding it.” Interstellar moved me, and I didn’t find myself fact checking the science so I could complain on Twitter.",
-      "rating": null,
-      "author": "Q.V. Hough",
-      "publication": "Vague Visages",
-      "date": "Jun 23, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "As Robert Bresson once said, “I’d rather people feel a film before understanding it.” Interstellar moved me, and I didn’t find myself fact checking the science so I could complain on Twitter."
     },
     {
-      "text": "Staggeringly beautiful, bafflingly complex, this is proper event cinema.",
-      "rating": null,
-      "author": "Wendy Ide",
-      "publication": "Times (UK)",
-      "date": "Apr 4, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Staggeringly beautiful, bafflingly complex, this is proper event cinema."
     },
     {
-      "text": "The film demands quite a bit of time from its viewers too, but its big ideas and wondrous sights are ample reward.",
-      "rating": null,
-      "author": "Edward Porter",
-      "publication": "Sunday Times (UK)",
-      "date": "Feb 27, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "The film demands quite a bit of time from its viewers too, but its big ideas and wondrous sights are ample reward."
     },
     {
-      "text": "When Mann appears to explain man, it collapses under the weight of a repeated thesis that doesn’t merit such explicit, redundant reiteration.",
-      "rating": null,
-      "author": "Vadim Rizov",
-      "publication": "Filmmaker Magazine",
-      "date": "Jan 24, 2023",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "When Mann appears to explain man, it collapses under the weight of a repeated thesis that doesn’t merit such explicit, redundant reiteration."
     },
     {
-      "text": "It’s a contemplative adventure and an emotional exploration that captivated me from its opening moments.",
-      "rating": "5.0/5",
-      "author": "Keith Garlington",
-      "publication": "Keith & the Movies",
-      "date": "Aug 22, 2022",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "It’s a contemplative adventure and an emotional exploration that captivated me from its opening moments."
     },
     {
-      "text": "Rarely do epics of this scope and intelligence reach theaters anymore; such serious commercial filmmaking seems like a market almost exclusively maintained by Christopher Nolan.",
-      "rating": "5.0/5",
-      "author": "Brian Eggert",
-      "publication": "Deep Focus Review",
-      "date": "Jun 30, 2022",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Rarely do epics of this scope and intelligence reach theaters anymore; such serious commercial filmmaking seems like a market almost exclusively maintained by Christopher Nolan."
     },
     {
-      "text": "While not all-together perfect, the film represents a monumental cinematic achievement that deserves to be placed high within the caliber of Nolan’s filmography.",
-      "rating": "4.5/5",
-      "author": "Josh Parham",
-      "publication": "Next Best Picture",
-      "date": "May 27, 2022",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "While not all-together perfect, the film represents a monumental cinematic achievement that deserves to be placed high within the caliber of Nolan’s filmography."
     },
     {
-      "text": "The inherent message of the film brings hope, but it can definitely get waterlogged by intellectual speak and long-winded scenes.",
-      "rating": "3.0/5",
-      "author": "Therese Lacson",
-      "publication": "Nerdophiles",
-      "date": "Oct 9, 2021",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "The inherent message of the film brings hope, but it can definitely get waterlogged by intellectual speak and long-winded scenes."
     },
     {
-      "text": "The film is indeed a sight to behold -- and one that demands to be seen on the biggest possible screen.",
-      "rating": null,
-      "author": "Kip Mooney",
-      "publication": "Central Track",
-      "date": "Aug 10, 2021",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "The film is indeed a sight to behold -- and one that demands to be seen on the biggest possible screen."
     },
     {
-      "text": "Nolan reaches for the stars with beautifully composed shots and some mind-bending special effects, but the dime store philosophy of the story never achieves lift off.",
-      "rating": "3.0/5",
-      "author": "Richard Crouse",
-      "publication": "Richard Crouse",
-      "date": "Feb 2, 2021",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Nolan reaches for the stars with beautifully composed shots and some mind-bending special effects, but the dime store philosophy of the story never achieves lift off."
     },
     {
-      "text": "Audiences are sure to lose their suspensions of disbelief over the nearly impenetrable climax.",
-      "rating": "2.5/5",
-      "author": "Mike Massie",
-      "publication": "Gone With The Twins",
-      "date": "Dec 4, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Audiences are sure to lose their suspensions of disbelief over the nearly impenetrable climax."
     },
     {
-      "text": "...an often insanely ambitious science fiction epic that that remains mesmerizing for most of its (admittedly overlong) running time...",
-      "rating": "5.0/5",
-      "author": "David Nusair",
-      "publication": "Reel Film Reviews",
-      "date": "Sep 20, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "...an often insanely ambitious science fiction epic that that remains mesmerizing for most of its (admittedly overlong) running time..."
     },
     {
-      "text": "Scientists will debate, theologians will contemplate, philosophers will wonder, and cinema lovers will bask in the glory of another remarkable Christopher Nolan achievement.",
-      "rating": "4.4/5",
-      "author": "Richard Propes",
-      "publication": "TheIndependentCritic.com",
-      "date": "Sep 12, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_all",
-      "page": 1
+      "text": "Scientists will debate, theologians will contemplate, philosophers will wonder, and cinema lovers will bask in the glory of another remarkable Christopher Nolan achievement."
     },
     {
-      "text": "With all the rampant think pieces questioning the probability of every science fiction film that comes out, it's comforting to across a movie that doesn't really claim to have any of the answers.",
-      "rating": null,
-      "author": "Candice Frederick",
-      "publication": "Reel Talk Online",
-      "date": "Sep 1, 2017",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "A big-budget reprise of ideas Nolan has been exploring since the beginning of his career. Not only is it a film about the passage of time, it's also a film about memory."
     },
     {
-      "text": "Interstellar, though ambitious and thrilling at points, is too complicated and doesn't reach its full potential.",
-      "rating": null,
-      "author": "Dwight Brown",
-      "publication": "National Newspaper Publishers Association",
-      "date": "Mar 21, 2017",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "None of these characters feel fully-fledged... for a film so rife with schmaltzy musings on the meaning of life, it's alarming how lacking it is in this department."
     },
     {
-      "text": "It's his 'White Album,' overlong and overwritten, corny and self-important, and also a great movie. And yes, it can be all of those things at once.",
-      "rating": null,
-      "author": "Jason Bailey",
-      "publication": "Flavorwire",
-      "date": "Jun 18, 2016",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Interstellar is not Christopher Nolan's best film but what I will say is that you can't deny his ambition."
     },
     {
-      "text": "This is one of the most beautiful films I have ever seen.",
-      "rating": "5.0/5",
-      "author": "Richard Roeper",
-      "publication": "Chicago Sun-Times",
-      "date": "Aug 21, 2015",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "As spectacular as it is flawed."
     },
     {
-      "text": "There are many words to describe Interstellar. Entertainment isn't one of them.",
-      "rating": "1.0/5",
-      "author": "Scott Marks",
-      "publication": "San Diego Reader",
-      "date": "Jan 6, 2015",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Interstellar is not only a grand space adventure worthy of the big screen, it's also a powerfully emotional story about the bond between a father and daughter, and how that love can drive one to attempt the impossible."
     },
     {
-      "text": "This is not only a tremendously exciting space adventure... It's also a rich and thoughtful meditation on time and space and gravity.",
-      "rating": "4.5/5",
-      "author": "David Stratton",
-      "publication": "At the Movies (Australia)",
-      "date": "Jan 5, 2015",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "One of the boldest science-fiction movies I've ever seen, both in narrative and visual terms. [Full review in Spanish]"
     },
     {
-      "text": "\"Interstellar\" is a grand undertaking, but in shooting for the stars, it loses its footing. It goes to infinity and beyond, when infinity would have been plenty.",
-      "rating": null,
-      "author": "Adam Graham",
-      "publication": "Detroit News",
-      "date": "Jan 5, 2015",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "It was a blockbuster movie-going experience."
     },
     {
-      "text": "Having set out to be a journey into what can hardly be depicted at all, Interstellar must find oblique ways of suggesting further imperceptible dimensions of the real. It is worth the journey to see what Nolan has constructed as a model of the unknowable.",
-      "rating": null,
-      "author": "Geoffrey O'Brien",
-      "publication": "Film Comment Magazine",
-      "date": "Dec 19, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "I guess the take away is all you need is love... and morse code?"
     },
     {
-      "text": "After the first hour, with its poignant depiction of humanity's decline, Interstellar always seems to be rebuilding its momentum, offering plenty to think about but little to hold on to.",
-      "rating": "2.5/5",
-      "author": "Ben Sachs",
-      "publication": "Chicago Reader",
-      "date": "Nov 21, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Interstellar is, all in all, a very fine science fiction film."
     },
     {
-      "text": "[O]nce our explorers pass into another galaxy...things take on a new dimension of banality and the film, however magnificently conceived in visual terms, becomes just another space adventure.",
-      "rating": null,
-      "author": "Jonathan Romney",
-      "publication": "Film Comment Magazine",
-      "date": "Nov 17, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Interstellar is 120 minutes of good movie stuffed into 170 minutes."
     },
     {
-      "text": "It's a film I didn't exactly enjoy and can't say I would recommend. And yet as an event, as a singular movie-watching opportunity, it's undoubtedly worthwhile.",
-      "rating": "2.5/5",
-      "author": "Christy Lemire",
-      "publication": "ChristyLemire.com",
-      "date": "Nov 16, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Interstellar is Nolan at his most humane. It's a good look for him."
     },
     {
-      "text": "If it's spectacle you want, then Interstellar delivers, particularly when viewed in Nolan's preferred 70mm Imax format.",
-      "rating": null,
-      "author": "Mark Kermode",
-      "publication": "Observer (UK)",
-      "date": "Nov 9, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Overall, Interstellar looks nice but ultimately lacks substance. Nolan essentially loses his way by going to space."
     },
     {
-      "text": "Interstellar may be a preposterous epic, but it is an epic nonetheless.",
-      "rating": null,
-      "author": "Christopher Orr",
-      "publication": "The Atlantic",
-      "date": "Nov 7, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "The space voyage is easily one of Nolan's most thought-provoking films yet. It's definitely his most ambitious."
     },
     {
-      "text": "The Nolans plant some actual characters onto that landscape, but it's too arid for anything interesting to grow.",
-      "rating": null,
-      "author": "Wesley Morris",
-      "publication": "Grantland",
-      "date": "Nov 7, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "As far as a masterful visualization of space and an exploration of profound theory, it belongs on a shortlist of must see films which it's comparably akin to... But Nolan's film falls short in other realms, namely the human component."
     },
     {
-      "text": "Interstellar is thrilling to watch across its moments but ultimately unmemorable; I feel it slipping away from me even now.",
-      "rating": null,
-      "author": "Andrew O'Hehir",
-      "publication": "Salon.com",
-      "date": "Nov 7, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "It's as grand as it is introspective and as grounded as it is existential. By the end of the nearly three-hour running time - it goes by in a flash - you feel as if you've experienced something that is so rarely captured on film."
     },
     {
-      "text": "Interstellar is as cinematically epic as it is dramatically intimate.",
-      "rating": null,
-      "author": "Lisa Kennedy",
-      "publication": "Denver Post",
-      "date": "Nov 7, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Christopher Nolan more than deserves however much money the studios are willing to keep giving him to make these brainy beautiful blockbusters."
     },
     {
-      "text": "As emphatically as Nolan writes PROSE PROSE PROSE PROSE PROSE, in the largest possible font, it never verges into poetry.",
-      "rating": null,
-      "author": "Steven D. Greydanus",
-      "publication": "National Catholic Register",
-      "date": "Nov 7, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Preposterous, pseudointellectual, poorly constructed, clichéd, impenetrably masculine, goofy and possessed of an indecipherable ending, Interstellar is the mother of all misfires."
     },
     {
-      "text": "Interstellar is sufficiently grand and challenging to bear comparison with those two touchstones of mind-bending epic sci-fi: Kubrick's 2001: A Space Odyssey and Tarkovsky's Solaris.",
-      "rating": "4.0/5",
-      "author": "Nicholas Barber",
-      "publication": "BBC.com",
-      "date": "Nov 6, 2014",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_critic",
-      "page": 1
+      "text": "Moreso than any of his previous projects, Interstellar left me largely confounded, wondering if Nolan had finally \"lost it.\""
     },
     {
-      "text": "A big-budget reprise of ideas Nolan has been exploring since the beginning of his career. Not only is it a film about the passage of time, it's also a film about memory.",
-      "rating": null,
-      "author": "Siddhant Adlakha",
-      "publication": "IGN Movies",
-      "date": "Sep 3, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_fresh",
-      "page": 1
+      "text": "The old saying \"shoot for the moon - even if you miss you'll land among the stars\" has never rung quite as true as it does here."
     },
     {
-      "text": "Interstellar is not Christopher Nolan's best film but what I will say is that you can't deny his ambition.",
-      "rating": "4.0/5",
-      "author": "Kelechi Ehenulo",
-      "publication": "Confessions From A Geek Mind",
-      "date": "Jul 16, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_fresh",
-      "page": 1
+      "text": "There is absolutely a breathlessness to Interstellar, although perhaps too much of that is huffing and puffing."
     },
     {
-      "text": "None of these characters feel fully-fledged... for a film so rife with schmaltzy musings on the meaning of life, it's alarming how lacking it is in this department.",
-      "rating": "2.5/5",
-      "author": "Stephen A. Russell",
-      "publication": "The New Daily (Australia)",
-      "date": "Aug 26, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "I found it emotionally moving and... what I wanted in a good sci-fi movie."
     },
     {
-      "text": "Interstellar is 120 minutes of good movie stuffed into 170 minutes.",
-      "rating": null,
-      "author": "Chris McCoy",
-      "publication": "Memphis Flyer",
-      "date": "Jan 9, 2020",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "Interstellar may not be perfect, but tent-pole filmmaking with such ambition and grandeur is always worth celebrating."
     },
     {
-      "text": "Overall, Interstellar looks nice but ultimately lacks substance. Nolan essentially loses his way by going to space.",
-      "rating": "3.5/5",
-      "author": "Katie Smith-Wong",
-      "publication": "Flick Feast",
-      "date": "Nov 20, 2019",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "With the likes of Anne Hathaway, Jessica Chastain, Michael Caine, Casey Affleck, Ellen Burstyn and John Lithgow as supporting players, it is redundant to say that the ensemble adds so much more to a film that boasts excellence in all departments."
     },
     {
-      "text": "Preposterous, pseudointellectual, poorly constructed, clichéd, impenetrably masculine, goofy and possessed of an indecipherable ending, Interstellar is the mother of all misfires.",
-      "rating": null,
-      "author": "Ryan Syrek",
-      "publication": "The Reader (Omaha, NE)",
-      "date": "Jul 30, 2019",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "A contrived science fiction film without authenticity, emotionally and narratively."
     },
     {
-      "text": "A contrived science fiction film without authenticity, emotionally and narratively.",
-      "rating": null,
-      "author": "Amanda Greever",
-      "publication": "The Daily Times (Tennessee)",
-      "date": "Feb 2, 2019",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "A celestial tapestry of space exploration, time bender and heartfelt human story, it earns its place among the stars."
     },
     {
-      "text": "Literally reaches for the stars -- and comes up short. Despite the best efforts of a talented cast and writer/director Christopher Nolan, this film just can't overcome a script with black hole-size plot craters.",
-      "rating": null,
-      "author": "Micheal Compton",
-      "publication": "Bowling Green Daily News",
-      "date": "Jan 25, 2019",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "Literally reaches for the stars -- and comes up short. Despite the best efforts of a talented cast and writer/director Christopher Nolan, this film just can't overcome a script with black hole-size plot craters."
     },
     {
-      "text": "What is wrong with the movie - some of the messages are lathered on so thickly... yet the Nolan brothers assume that all viewers have a keen grasp of quantum physics, relativity, time dimensions and gravity.",
-      "rating": null,
-      "author": "Rosalynn Try-Hane",
-      "publication": "Battle Royale With Cheese",
-      "date": "Aug 22, 2018",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "Interstellar is impressive. It is superbly made, and combines compelling thought about everything from ecology to the nature of time to a child's belief in ghosts into something cohesive and mostly engrossing."
     },
     {
-      "text": "Nolan's refreshing love affair with self-determination goes too far.",
-      "rating": null,
-      "author": "Megan Basham",
-      "publication": "WORLD",
-      "date": "Mar 17, 2018",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "The summary work of Nolan: apotheosis of his signature where he attempts to merge the philosophical and emotional in entertaining genre packages."
     },
     {
-      "text": "Big Ideas served in a movie that is ultimately unsatisfying.",
-      "rating": null,
-      "author": "Sarah Marrs",
-      "publication": "Cinesnark",
-      "date": "Oct 18, 2017",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "It's the rare combination of a film that's both enjoyable in the theater and afterward, hashing through it over a drink"
     },
     {
-      "text": "Nolan does (to his credit) and his failure to engage us as fully as he intends... takes us to infinity and beyond, but it's likely you cared more about Buzz Lightyear than you will about anyone in Interstellar.",
-      "rating": null,
-      "author": "Eleanor Ringel Cater",
-      "publication": "Saporta Report (Atlanta)",
-      "date": "Jun 28, 2017",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "Interstellar magnifies Nolan's style to a tremendous degree, but that also means enlarging his own flaws too."
     },
     {
-      "text": "Naturally, Nolan's desire to unite high and low culture doesn't always pay off, yet even when he gets pretentious, I don't hate him for it. Better a filmmaker who fails while overreaching than one who has a hit with Transformers.",
-      "rating": null,
-      "author": "John Powers",
-      "publication": "Vogue",
-      "date": "Apr 26, 2017",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "For this critic, Nolan hits shy of the mark for cinematic brilliance but still manages to land a visually stunning entertainment in its own right."
     },
     {
-      "text": "Interstellar has more of absolutely everything: more plot, more (stupid) words, more acting and much more bad acting (Anne Hathaway) than nearly all the year's films put together, as well as the most idiotic storyline of the decade.",
-      "rating": null,
-      "author": "Camilla Long",
-      "publication": "Sunday Times (UK)",
-      "date": "Feb 28, 2017",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "Succeeds on a level that has been largely foreign to the celluloid-loving director: the emotional."
     },
     {
-      "text": "Perhaps it would have been wiser to trim back on several of the ideas and present a more cohesive, not to mention coherent, story.",
-      "rating": "3.0/5",
-      "author": "George Byrne",
-      "publication": "The Herald (Ireland)",
-      "date": "Jun 6, 2016",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "The planets in the new galaxies are creatively different yet familiar, beautiful and ugly, habitable but not habitable. They have their own histories and realities and have no interest in being colonised by the US of A."
     },
     {
-      "text": "Too literal-minded, too conspicuous to leave us with a sense of doubt and apprehension.",
-      "rating": null,
-      "author": "Kong Rithdee",
-      "publication": "Bangkok Post",
-      "date": "May 11, 2016",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "The enchantment of a Christopher Nolan film, the sheer majesty of it, if you will, is surrendering to it."
     },
     {
-      "text": "When the essential property of film forces us to believe in an illusion, [Nolan] has become the least-spiritual director in contemporary cinema.",
-      "rating": null,
-      "author": "Peter Labuza",
-      "publication": "The Film Stage",
-      "date": "Mar 2, 2016",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "Interstellar is an ambitious story, and while the theme of love transcends time and space is a bit shoehorned into the script, it still rings true. Matthew McConaughey delivers one of the finest pieces of acting on film."
     },
     {
-      "text": "I can't remember an apocalyptic film that's taken less interest in this planet as it's destroyed.",
-      "rating": null,
-      "author": "Eileen Jones",
-      "publication": "The Jacobin",
-      "date": "Feb 26, 2016",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "I think the reason why I connected so deeply with it is the extent to which Nolan evokes iconic moments from silent films."
     },
     {
-      "text": "This is a film rife with mistakes that even a rookie director wouldn't make. How this ended up being made by Nolan blows my mind.",
-      "rating": null,
-      "author": "John Rico",
-      "publication": "About.com",
-      "date": "Oct 3, 2015",
-      "movie_id": "interstellar_2014",
-      "source": "HTML_rotten",
-      "page": 1
+      "text": "What is wrong with the movie - some of the messages are lathered on so thickly... yet the Nolan brothers assume that all viewers have a keen grasp of quantum physics, relativity, time dimensions and gravity."
+    },
+    {
+      "text": "The result is a mess. But it's a beautiful mess, and one that I wouldn't want you to miss for the world."
+    },
+    {
+      "text": "Watching Christopher Nolan fall short is still more exciting than watching most other directors succeed."
+    },
+    {
+      "text": "Nolan's refreshing love affair with self-determination goes too far."
+    },
+    {
+      "text": "...visually spectacular, complex, and both intellectually and emotionally stimulating...[Full review in Spanish]"
+    },
+    {
+      "text": "Visually striking, with an impressive cast... [Full review in Spanish]"
+    },
+    {
+      "text": "Christopher Nolan's spectacular film is filled with frustration, anger, and guilt, and also strives for acceptance and even redemption."
+    },
+    {
+      "text": "Eye-popping visuals, an ambitious narrative, and a heart-racing soundtrack; one of Nolan's best"
+    },
+    {
+      "text": "Interstellar is why we go to the movies."
+    },
+    {
+      "text": "This intergalactic extravaganza is clearly in a class by itself."
+    },
+    {
+      "text": "Big Ideas served in a movie that is ultimately unsatisfying."
+    },
+    {
+      "text": "With all the rampant think pieces questioning the probability of every science fiction film that comes out, it's comforting to across a movie that doesn't really claim to have any of the answers."
+    },
+    {
+      "text": "Interstellar is a beautiful, irritating, awe-inspiring mess. It's the kind of movie Hollywood simply doesn't make any more - and that's exactly why you should see it."
+    },
+    {
+      "text": "Nolan does (to his credit) and his failure to engage us as fully as he intends... takes us to infinity and beyond, but it's likely you cared more about Buzz Lightyear than you will about anyone in Interstellar."
+    },
+    {
+      "text": "It's flawed, certainly, but its vision is undeniably appealing and ultimately the film's saving grace."
+    },
+    {
+      "text": "A film made with meticulousness and ambition, that achieves its tasks both narrative and visual with singular efficiency and grandiloquence that never feels forced. [Full review in Spanish]"
+    },
+    {
+      "text": "Naturally, Nolan's desire to unite high and low culture doesn't always pay off, yet even when he gets pretentious, I don't hate him for it. Better a filmmaker who fails while overreaching than one who has a hit with Transformers."
+    },
+    {
+      "text": "Interstellar, though ambitious and thrilling at points, is too complicated and doesn't reach its full potential."
+    },
+    {
+      "text": "Interstellar has more of absolutely everything: more plot, more (stupid) words, more acting and much more bad acting (Anne Hathaway) than nearly all the year's films put together, as well as the most idiotic storyline of the decade."
+    },
+    {
+      "text": "It is a wondrously beautiful movie, with intense sci-fi sequences, a solid and talented cast, and even some thought-provoking ideas. This is not one to be missed."
+    },
+    {
+      "text": "Christopher Nolan is incredibly good at making science-fiction movies for people who think they don't like sci-fi."
+    },
+    {
+      "text": "Interstellar never feels overly long despite its almost three hour running time. It also packs an emotional wallop, if you let it."
+    },
+    {
+      "text": "It's his 'White Album,' overlong and overwritten, corny and self-important, and also a great movie. And yes, it can be all of those things at once."
+    },
+    {
+      "text": "Can we fly a spaceship through a galactic wormhole to Saturn? We haven't even put a man on Mars yet! It's another 342,077,666.43 miles from Mars to Saturn! Fuggeddaboudit!"
+    },
+    {
+      "text": "Perhaps it would have been wiser to trim back on several of the ideas and present a more cohesive, not to mention coherent, story."
+    },
+    {
+      "text": "Interstellar feels like a collection of arresting moments and ideas that don't quite hang together."
+    },
+    {
+      "text": "The result is a flawed but highly engaging experience that is as frustrating as it is astonishing."
+    },
+    {
+      "text": "A blockbuster that's profound, poignant and exhilarating."
+    },
+    {
+      "text": "Too literal-minded, too conspicuous to leave us with a sense of doubt and apprehension."
+    },
+    {
+      "text": "Nolan's Interstellar waxes poetic about the universality of love and lingers beautifully on worlds beyond ours."
+    },
+    {
+      "text": "A dynamic left-right combo of spectacle and heart that efficiently covers over the screenplay's various cracks and crevices."
+    },
+    {
+      "text": "Interstellar needs to be seen on the biggest screen you can get your eyes on for maximum impact."
+    },
+    {
+      "text": "When the essential property of film forces us to believe in an illusion, [Nolan] has become the least-spiritual director in contemporary cinema."
+    },
+    {
+      "text": "This epic film will still leave its mark on our collective memories, for it succeeds in affecting us. However, a bit of humor and humility would have been appreciated in this journey, which takes itself far too seriously."
+    },
+    {
+      "text": "I can't remember an apocalyptic film that's taken less interest in this planet as it's destroyed."
+    },
+    {
+      "text": "This is a film rife with mistakes that even a rookie director wouldn't make. How this ended up being made by Nolan blows my mind."
+    },
+    {
+      "text": "This is one of the most beautiful films I have ever seen."
+    },
+    {
+      "text": "[Interstellar] is a mighty science fiction epic built upon seriously shaky science. Yet that's hardly the point when this strives so hard, so achingly, to be profound. And very nearly is too."
+    },
+    {
+      "text": "Interstellar may be a failure on a story level, but Nolan's visual virtuosity is still enough to take your breath away and root you to your chair."
+    },
+    {
+      "text": "Let's be plain. Christopher Nolan has made a lopsided soufflé of a film, but one with such fine ingredients you can hardly complain about the shape when you're enjoying the taste."
+    },
+    {
+      "text": "Interstellar dares it viewers to come along on a perilous adventure that is immersive, impressive, and intelligent."
+    },
+    {
+      "text": "Nolan is a well-appointed mainstream fabulist who uses a great deal of money and technology to no great artistic purpose."
+    },
+    {
+      "text": "...after building up the drama of personal sacrifice, it feels too much like a cheat no matter how many endings are tacked on before the credits..."
+    },
+    {
+      "text": "It's just a really weird film, the strangest and most misguided fake-Spielberg picture since Super 8."
+    },
+    {
+      "text": "Visual splendor does not entirely make up for failures in plotting and characterization."
+    },
+    {
+      "text": "Interstellar is a frustratingly flawed film that reaches for the stars but winds up lost in space."
+    },
+    {
+      "text": "Interstellar is chockablock with philosophical ideas, visual effects and theoretical physics from Nolan and his brother, Jonathan, who co-wrote the script."
+    },
+    {
+      "text": "Interstellar is a grand gesture in every way. And yet, it's Nolan's most humane film to date."
+    },
+    {
+      "text": "For all the themes intended to rocket our minds into a futuristic escape plan, it's too overloaded with hopelessness and bent logic to get off the ground."
+    },
+    {
+      "text": "Nolan is one of the few directors with the ambition to tackle big topics -- like the fate of humanity or our need to explore -- and the artistic clout to bring that vision to a mass audience."
+    },
+    {
+      "text": "There are many words to describe Interstellar. Entertainment isn't one of them."
+    },
+    {
+      "text": "This sort of hammering, a determination that you'll \"get it\", distracts from Interstellar's effort to transport."
+    },
+    {
+      "text": "Though the family ties don't quite hold, Interstellar gives us an epic of space travel as desperate necessity, at a time when its science fiction hits perilously close to home."
+    },
+    {
+      "text": "You'll feel the cold on the Hoth-like ice planet. It's pure movie magic -- impressive and astonishing and deserving of all the out-of-this-world hyperbole. Too bad the rest of it is mostly empty space."
+    },
+    {
+      "text": "While it definitely feels as though Nolan over-reached and under-edited, there's enough eye candy and emotion to keep you from being bored."
+    },
+    {
+      "text": "This is a Nolan film, so nothing is simple -- or quick to the point. At nearly three hours, the film piles on the twists, wonky physics, heartfelt speeches and pseudoscience."
+    },
+    {
+      "text": "Watching Nolan's latest attempt to create something artistic, intelligent and entertaining on such a massive scale, I couldn't help but think that with \"Interstellar,\" he's outsmarted himself."
+    },
+    {
+      "text": "\"Interstellar\" is flawed, but has the kind of scope that makes going to movies fun."
+    },
+    {
+      "text": "I urge you to stop seeking out information on this film, and instead wait until this Thursday and see it, on the biggest screen within reach. You won't be sorry."
+    },
+    {
+      "text": "McConaughey and his co-stars do a terrific job of underplaying the tech-nobabble and selling their individual moments... and Nolan's trademark big-picture confidence propels Interstellar through its near-three-hour running time with breathless style."
+    },
+    {
+      "text": "You go in to Interstellar hoping to be mind-blown, thrilled, and smartened-up. Although it's beautifully made, brainy and sometimes insanely gorgeous, you may find yourself wondering what the big whoop was all about."
+    },
+    {
+      "text": "As undeniably ambitious and technically accomplished as it is bloated, ponderous and ludicrous, Interstellar finds Christopher Nolan struggling in the shadow of Kubrick, Malick and other visionary filmic philosophers."
+    },
+    {
+      "text": "It's an enthralling, provocative, ambitious film."
+    },
+    {
+      "text": "Interstellar's themes are universal and some of the dialogue really resonates too."
+    },
+    {
+      "text": "I learnt a lot about wormholes and, while I can be entranced by the idea of saving the human race, I want a little bit of drama to go with it."
+    },
+    {
+      "text": "This is not only a tremendously exciting space adventure... It's also a rich and thoughtful meditation on time and space and gravity."
+    },
+    {
+      "text": "\"Interstellar\" is a grand undertaking, but in shooting for the stars, it loses its footing. It goes to infinity and beyond, when infinity would have been plenty."
+    },
+    {
+      "text": "That the universe contains phenomena eons beyond us while at the same time intimately close is a beautiful concept and Interstellar seeks to orchestrate its own moment of revelation."
+    },
+    {
+      "text": "Interstellar is a visual feast that explores the universe and an intimate drama that explores why love and devotion are qualities that make the human race worth saving."
+    },
+    {
+      "text": "There's a certain clumsiness to Nolan's longest and most personal film, a kind of earnest self-seriousness that opens it to parody and snark. But at its center beats a human heart."
+    },
+    {
+      "text": "It's a fairly s----y science-fiction movie, but as a metaphor for love it's kind of great."
+    },
+    {
+      "text": "Having set out to be a journey into what can hardly be depicted at all, Interstellar must find oblique ways of suggesting further imperceptible dimensions of the real. It is worth the journey to see what Nolan has constructed as a model of the unknowable."
+    },
+    {
+      "text": "Big on ideas and concepts but falls apart in the 3rd act."
+    },
+    {
+      "text": "A graceful, stirring epic and while it may not set new standards for the genre, it does give today's audiences a reminder of what visionary filmmaking looks like."
+    },
+    {
+      "text": "A remarkable achievement in filmmaking that will have you on the edge of your seat"
+    },
+    {
+      "text": "Despite some awkward pacing, easy sentimentality, and pandering it's still hard to resist. It's not just Nolan's ambition that should be admired. He actually pulls off scene after scene of unforgettable drama in colossal scale, both in space and on Earth."
+    },
+    {
+      "text": "After the first hour, with its poignant depiction of humanity's decline, Interstellar always seems to be rebuilding its momentum, offering plenty to think about but little to hold on to."
+    },
+    {
+      "text": "Ultimately, Interstellar shoots for the stars but barely gets us past the soundstage."
+    },
+    {
+      "text": "Christopher Nolan's latest exercise in devising narrative lines that run laboriously in different locations and on multiple timescales to no great effect, other than to tell you that love will find a way."
+    },
+    {
+      "text": "The sentimentality and Hollywoodized convenience of the storytelling prevent this mostly admirable film from achieving the escape velocities of Kubrick or Tarkovsky."
+    },
+    {
+      "text": "[O]nce our explorers pass into another galaxy...things take on a new dimension of banality and the film, however magnificently conceived in visual terms, becomes just another space adventure."
+    },
+    {
+      "text": "A bombast-and-crisis megamovie, rocket-fuelled by gobbledygeek. The pummelling of plot turns and ratcheting of emotion-wrenches rarely relent. Forgets that we mere humans don't yet possess infinite patience for hyper-epic hokum."
+    },
+    {
+      "text": "It's a film I didn't exactly enjoy and can't say I would recommend. And yet as an event, as a singular movie-watching opportunity, it's undoubtedly worthwhile."
+    },
+    {
+      "text": "nothing if not grandly ambitious, and while that ambition is certainly admirable, especially in an industry choking on increasingly interchangeable big-budget franchises and starving for original ideas, it is also part of the film's downfall."
+    },
+    {
+      "text": "There's no denying that director Christopher Nolan's challenging space odyssey is exquisitely made. He's one of painfully few filmmakers whose every effort fills me with a sense of awe."
+    },
+    {
+      "text": "A combination of spectacular special effects, marginal physics and grindingly slow treacle, McConaughey pulls this one out of the fire."
+    },
+    {
+      "text": "The movie is complex and maddening, filled with concepts over the heads of most mere mortals, yet grounded in barely enough humanity to stimulate our senses."
+    },
+    {
+      "text": "Some of what ensues in a galaxy far, far away is gripping, but other sequences are prosaic."
+    },
+    {
+      "text": "Interstellar contains its fair share of heart-in-mouth moments, the previously untapped corners of space providing ample opportunity to mine fresh spectacle."
+    },
+    {
+      "text": "The pace is gripping, the central performances compelling and the action sequences thrilling."
+    },
+    {
+      "text": "Good special effects and acting but I didn't understand one bit of the plot. It is all Geek to me."
+    },
+    {
+      "text": "The spectacle is far more satisfying than the story ... Gorgeous, infuriating, exciting, confusing, stirring, boring, it's the film that's got it all! Totally worth your twenty bucks. Whether it's worth three hours of your time will be up to you."
+    },
+    {
+      "text": "Not your usual Christopher Nolan film. It is epic, has a sharp-eyed view of the future, and characters with real human emotions. I really like this ambitious, thought-provoking, uplifting film."
+    },
+    {
+      "text": "There's something weirdly touching about the movie's corny proclamations, because they contrast so sharply with the hell scapes Nolan keeps showing us."
+    },
+    {
+      "text": "With Interstellar, Nolan builds on the high-concept blockbuster template forged so impressively by his 2010 work Inception."
+    },
+    {
+      "text": "While the ride is a bumpy one and the destination is a bit of a letdown, getting there is a trip."
+    },
+    {
+      "text": "Interstellar is much like space itself - a beautiful, promising void."
+    },
+    {
+      "text": "The spirit of exploration and discovery lives in Interstellar and that alone makes it a cinematic trip worth taking."
+    },
+    {
+      "text": "There is no sound in space, but 'Interstellar' blasts its music, hammers in three voiceovers its centennial birthday boy Dylan Thomas message, and overstays its welcome."
+    },
+    {
+      "text": "An unsatisfying blend of Gravity, 2001: A Space Odyssey, Solaris and The Collected Poems Of Dylan Thomas."
+    },
+    {
+      "text": "Even more mind-blowing than his 'Inception,' Christopher Nolan's 'Interstellar' emphasizes the importance of love in a science-fiction tale."
+    },
+    {
+      "text": "If a movie is outsized in its ambitions to an absurd, awe-inspiring degree, how much credit does it get for only making it, oh, 75 percent of the way there?"
+    },
+    {
+      "text": "If it's spectacle you want, then Interstellar delivers, particularly when viewed in Nolan's preferred 70mm Imax format."
+    },
+    {
+      "text": "It's an experience."
+    },
+    {
+      "text": "Cornpone existentialism ... Overlong, talky and, depending on the crisis, either dopey or pretentious ... a New Age-y, fuzzy-headed sci-fi'er that borrows liberally from Kubrick, 'Contact' and Nolan's own \"Inception.\""
+    },
+    {
+      "text": "After stretching the boundaries of incomprehension with Inception, a narrative arc that challenges yet remains accessible is a welcome relief."
+    },
+    {
+      "text": "This is probably the most audacious science fiction film anyone has ever made or even tried to make."
+    },
+    {
+      "text": "'Interstellar' is really great science fiction. It tugs at our heartstrings while exploring our humanity, and at the same time it blows our minds with the wonders and complexities of intergalactic space travel."
+    },
+    {
+      "text": "I'm not too proud to admit I couldn't follow the convoluted storyline... Think, a remake of Gravity with a bunch of polysyllabic brainiacs borrowed from The Big Bang Theory."
+    },
+    {
+      "text": "What makes Interstellar one of the best, most enthralling, intelligent and moving science-fiction films of modern cinema is not so much the inter-galactic journey it takes you on as the emotional journey."
+    },
+    {
+      "text": "Nolan's attempt at trumping Kubrick's ultimate trip falls short because it lacks the old master's laser-like focus and magnetic solemnity."
+    },
+    {
+      "text": "It intelligently and in a masterful cinematic way weaves together a story that explores both the cosmic world and the real world."
+    },
+    {
+      "text": "The general feeling I'm left with after seeing Interstellar (is) a sensation of indecision."
+    },
+    {
+      "text": "Ultimately, it is human emotions not quantum physics that propels Nolan's movie to its destination."
+    },
+    {
+      "text": "While [...] imperfect in many ways, the whole proves to be far more than the sum of its parts."
+    },
+    {
+      "text": "Heartfelt Story, Great Visuals, Science Overkill"
+    },
+    {
+      "text": "It's deeply flawed but also wholly absorbing, and it marks Nolan as one of our most ambitious, go-for-broke directors, unafraid to attempt Sistine Chapel ceilings while his fellow filmmakers are working with Crayolas."
+    },
+    {
+      "text": "The combination of NO green screen, incredible practical effects, Zimmer's score and a solid emotional core makes this Nolan's most complete flick to date. I had major nerd tears! See in 70mm IMAX film!"
+    },
+    {
+      "text": "Leaving aside the flaws as film (underdeveloped characters, etc.), it is worse as a message. Deriding agriculture and hyping space exploration is even more fascist than \"The Dark Knight Rises\"."
+    },
+    {
+      "text": "Christopher Nolan can do whatever the hell he likes. He's earned that right now. And if he uses that clout for films like Interstellar, we all win."
+    },
+    {
+      "text": "Whenever Christopher Nolan has something to say, it pays to listen."
+    },
+    {
+      "text": "Its strengths are as gargantuan and overpowering as its mighty flaws, and just as impossible to miss."
+    },
+    {
+      "text": "Ambitious and inspired visually, thematically and emotionally, Nolan's space odyssey may not complete its mission, but its shot at the stars is no less awesome."
+    },
+    {
+      "text": "This film is meant to be Nolan's 2001: A Space Odyssey, but he's tilting at windmills here. Still, Interstellar is worth seeing."
+    },
+    {
+      "text": "For all its sci-fi trappings...Interstellar comes down to one thing, and one thing alone: the notion of following your heart. Yes, it really is that simple."
+    },
+    {
+      "text": "Interstellar may be a preposterous epic, but it is an epic nonetheless."
+    },
+    {
+      "text": "The film is confident enough to take us on a thrilling adventure witho ut resorting to huge action sequences, in which the spectacle is delivered on an intergalactic scale, but from a very human point of view."
+    },
+    {
+      "text": "Ambitious intergalactic drama focuses on a father's promise."
+    },
+    {
+      "text": "The Nolans plant some actual characters onto that landscape, but it's too arid for anything interesting to grow."
+    },
+    {
+      "text": "Not Christopher Nolan's best film by a long shot, yet also proof that 'not Christopher Nolan's best film' is still better and more thrilling than many directors' finest work."
+    },
+    {
+      "text": "Interstellar is an imaginative movie, but a heavy-handed mix of personal sacrifice and theoretical physics doesn't leave much room for subtle storytelling."
+    },
+    {
+      "text": "If humanistic pop science is a religion, then Christopher Nolan is its high priest and Interstellar its rapture story."
+    },
+    {
+      "text": "Interstellar is thrilling to watch across its moments but ultimately unmemorable; I feel it slipping away from me even now."
+    },
+    {
+      "text": "Dazzling, frightening and thrilling. Pure cinematic magic. But the philosophical points presented - love and survival - are contradictory."
+    },
+    {
+      "text": "In Christopher Nolan's Interstellar, sci-fi fans are treated to a true cinematic anomaly: an impeccably crafted slice of escapism driven by scientific concepts that fascinate and thrill in equal measure."
+    },
+    {
+      "text": "Interstellar is as cinematically epic as it is dramatically intimate."
+    },
+    {
+      "text": "Marrying the brains of \"Inception\" with the epic splendor of \"The Dark Knight,\" Christopher Nolan's \"Interstellar\" asks vastly important brain-scratching questions, inspires your forward thinking and treats you to one hell of a mind-altering thrill ride."
+    },
+    {
+      "text": "Interstellar is escapism in its purist form."
+    },
+    {
+      "text": "Interstellar is a marvel of congruency from the opening shot to the final frame."
+    },
+    {
+      "text": "Nolan's Vision Exceeds his Grasp."
+    },
+    {
+      "text": "Nolan lays out a narrative path between Odysseus, Albert Einstein and Buck Rogers, then paints it with bold cinematic brushstrokes inspired by the masters-Stanley Kubrick, Steven Spielberg, John Ford."
+    },
+    {
+      "text": "Interstellar is not a terrible movie, it's just such a chore."
+    },
+    {
+      "text": "This majestic film retains a human heart."
+    },
+    {
+      "text": "It is dazzling to look at, properly intelligent, and, when you can follow what's going on, profoundly thought-provoking."
     }
   ]
 }

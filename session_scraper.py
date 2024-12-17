@@ -7,6 +7,13 @@ import argparse
 from urllib.parse import quote
 from http.cookiejar import LWPCookieJar
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
+from selenium.webdriver.common.action_chains import ActionChains
 
 class RTSessionScraper:
     def __init__(self):
@@ -170,83 +177,46 @@ class RTSessionScraper:
             print(f"Response content: {response.text if response else 'No response'}")
             return None
 
-    def get_reviews(self, movie_id, num_reviews=100):
-        """Get reviews using HTML scraping with pagination."""
-        reviews = []
-        seen_reviews = set()
+    def get_reviews(self, movie_name, num_reviews=100):
+        """Get reviews for a movie."""
+        try:
+            # Search for the movie
+            movie_id = self._search_movie(movie_name)
+            if not movie_id:
+                print(f"Could not find movie: {movie_name}")
+                return []
 
-        # First verify the movie ID
-        if not self._verify_movie_id(movie_id):
-            print(f"Could not verify movie ID: {movie_id}")
+            # Verify movie ID
+            if not self._verify_movie_id(movie_id):
+                print(f"Invalid movie ID: {movie_id}")
+                return []
+
+            print(f"\nFetching reviews for movie: {movie_name} (ID: {movie_id})")
+
+            # Construct the reviews URL
+            base_url = f"https://www.rottentomatoes.com/m/{movie_id}/reviews"
+
+            # Use Selenium to get reviews with Load More button functionality
+            reviews = self._get_reviews_with_selenium(base_url, num_reviews)
+
+            # Save reviews to JSON file
+            output_file = f"{movie_name.lower().replace(' ', '_')}_reviews.json"
+            review_data = {
+                "movie_name": movie_name,
+                "movie_id": movie_id,
+                "total_reviews": len(reviews),
+                "reviews": reviews
+            }
+
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump(review_data, f, indent=2, ensure_ascii=False)
+            print(f"\nSaved {len(reviews)} reviews to {output_file}")
+
             return reviews
 
-        # Use verified movie ID from verification
-        verified_id = getattr(self, 'verified_movie_id', movie_id)
-        print(f"Using verified movie ID: {verified_id}")
-
-        # Updated review sections with correct paths
-        review_sections = [
-            {'type': 'all', 'url': f"/m/{verified_id}/reviews"},
-            {'type': 'critic', 'url': f"/m/{verified_id}/reviews?type=top_critics"},
-            {'type': 'fresh', 'url': f"/m/{verified_id}/reviews?sort=fresh"},
-            {'type': 'rotten', 'url': f"/m/{verified_id}/reviews?sort=rotten"}
-        ]
-
-        for section in review_sections:
-            if len(reviews) >= num_reviews:
-                break
-
-            page = 1
-            consecutive_empty_pages = 0
-            while len(reviews) < num_reviews and consecutive_empty_pages < 2:
-                url = f"{self.base_url}{section['url']}"
-                if page > 1:
-                    url = f"{url}&page={page}" if '?' in url else f"{url}?page={page}"
-
-                print(f"Fetching {section['type']} reviews page {page} for {verified_id}")
-                try:
-                    response = self._get_with_retry(url)
-                    if not response or response.status_code != 200:
-                        print(f"Failed to get page {page} for {section['type']}")
-                        break
-
-                    new_reviews = self._extract_reviews_from_html(response.text)
-                    if not new_reviews:
-                        print(f"No reviews found on page {page} for {section['type']}")
-                        consecutive_empty_pages += 1
-                        continue
-
-                    review_count_before = len(reviews)
-                    for review in new_reviews:
-                        review_text = review['text'].strip()
-                        if review_text and review_text not in seen_reviews and len(review_text) > 10:
-                            seen_reviews.add(review_text)
-                            review['movie_id'] = verified_id
-                            review['source'] = f"HTML_{section['type']}"
-                            review['page'] = page
-                            reviews.append(review)
-                            print(f"Found review {len(reviews)}/{num_reviews} ({section['type']} page {page})")
-
-                    if len(reviews) == review_count_before:
-                        print(f"No new unique reviews found on page {page} for {section['type']}")
-                        consecutive_empty_pages += 1
-                    else:
-                        consecutive_empty_pages = 0
-
-                    page += 1
-                    time.sleep(random.uniform(2, 3))
-
-                except Exception as e:
-                    print(f"Error during HTML scraping for {verified_id}: {e}")
-                    break
-
-                if page > 15:  # Safety limit
-                    print(f"Reached maximum page limit for {section['type']}")
-                    break
-
-            if len(reviews) >= num_reviews:
-                break
-
+        except Exception as e:
+            print(f"Error getting reviews: {e}")
+            return []
         print(f"Found {len(reviews)} unique reviews")
         return reviews[:num_reviews]
 
@@ -291,6 +261,144 @@ class RTSessionScraper:
         except Exception as e:
             print(f"Error extracting reviews from API: {e}")
             return [], None
+
+    def _get_reviews_with_selenium(self, url, num_reviews=100):
+        """Get reviews using Selenium with proper button clicking."""
+        reviews = []
+        seen_reviews = set()
+
+        try:
+            # Set up Chrome options
+            chrome_options = Options()
+            chrome_options.add_argument('--headless')
+            chrome_options.add_argument('--no-sandbox')
+            chrome_options.add_argument('--disable-dev-shm-usage')
+            chrome_options.add_argument('--window-size=1920,1080')
+            chrome_options.add_argument('--disable-gpu')
+            chrome_options.add_argument('--disable-extensions')
+
+            # Initialize driver with longer page load timeout
+            driver = webdriver.Chrome(options=chrome_options)
+            driver.set_page_load_timeout(30)
+            driver.get(url)
+            time.sleep(3)  # Initial load wait
+
+            print(f"\nCollecting reviews for movie (target: {num_reviews})")
+
+            # Create WebDriverWait object for explicit waits
+            wait = WebDriverWait(driver, 10)
+
+            while len(reviews) < num_reviews:
+                # Extract current reviews
+                page_reviews = self._extract_reviews_from_html(driver.page_source)
+                print(f"\nFound {len(page_reviews)} potential review containers")
+
+                # Process new reviews
+                for review in page_reviews:
+                    review_key = f"{review.get('author', '')}:{review.get('date', '')}"
+                    if review_key and review_key not in seen_reviews:
+                        seen_reviews.add(review_key)
+                        reviews.append(review)
+                        print(f"Found review {len(reviews)}/{num_reviews} with author: {review.get('author', 'Unknown')}, "
+                              f"publication: {review.get('publication', 'Unknown')}, rating: {review.get('rating', 'None')}")
+
+                if len(reviews) >= num_reviews:
+                    break
+
+                try:
+                    # Save page source for debugging
+                    with open('debug_page.html', 'w', encoding='utf-8') as f:
+                        f.write(driver.page_source)
+                    print("\nSaved page source to debug_page.html")
+
+                    # Scroll to bottom
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                    time.sleep(2)
+
+                    # Debug: Print all buttons and their text
+                    print("\nListing all buttons on page:")
+                    buttons = driver.find_elements(By.TAG_NAME, 'button')
+                    for idx, button in enumerate(buttons):
+                        try:
+                            print(f"Button {idx}: Text='{button.text}', Class='{button.get_attribute('class')}', ID='{button.get_attribute('id')}'")
+                        except:
+                            print(f"Button {idx}: <failed to get attributes>")
+
+                    # Try multiple button detection strategies
+                    button_found = False
+                    load_more_button = None
+
+                    # Strategy 1: By text content (case insensitive)
+                    if not button_found:
+                        for button in buttons:
+                            try:
+                                button_text = button.text.lower()
+                                if 'load more' in button_text or 'show more' in button_text:
+                                    load_more_button = button
+                                    print(f"Found button by text: '{button_text}'")
+                                    button_found = True
+                                    break
+                            except:
+                                continue
+
+                    # Strategy 2: By class containing 'load-more'
+                    if not button_found:
+                        try:
+                            load_more_button = driver.find_element(By.CSS_SELECTOR, '[class*="load-more"]')
+                            print("Found button by class containing 'load-more'")
+                            button_found = True
+                        except:
+                            print("Button not found by class")
+
+                    # Strategy 3: By aria-label
+                    if not button_found:
+                        try:
+                            load_more_button = driver.find_element(By.CSS_SELECTOR, '[aria-label*="Load"] button')
+                            print("Found button by aria-label")
+                            button_found = True
+                        except:
+                            print("Button not found by aria-label")
+
+                    if button_found and load_more_button:
+                        try:
+                            # Scroll to button
+                            driver.execute_script("arguments[0].scrollIntoView({behavior: 'smooth', block: 'center'});", load_more_button)
+                            time.sleep(2)
+
+                            # Try clicking
+                            try:
+                                load_more_button.click()
+                                print("Clicked button using Selenium click")
+                            except:
+                                driver.execute_script("arguments[0].click();", load_more_button)
+                                print("Clicked button using JavaScript click")
+
+                            # Wait for new content
+                            time.sleep(3)
+                            new_reviews = self._extract_reviews_from_html(driver.page_source)
+                            if len(new_reviews) > len(page_reviews):
+                                print(f"Successfully loaded more reviews: {len(new_reviews)} > {len(page_reviews)}")
+                            else:
+                                print("No new reviews loaded after clicking")
+                                break
+                        except Exception as e:
+                            print(f"Error clicking button: {str(e)}")
+                            break
+                    else:
+                        print("Could not find Load More button using any strategy")
+                        break
+
+                except Exception as e:
+                    print(f"Error during review loading: {str(e)}")
+                    break
+
+        except Exception as e:
+            print(f"Error during review fetching: {str(e)}")
+        finally:
+            if 'driver' in locals():
+                driver.quit()
+
+        return reviews[:num_reviews]
 
     def _extract_reviews_from_html(self, html_content):
         """Extract reviews from HTML content with improved parsing."""
@@ -345,13 +453,12 @@ class RTSessionScraper:
                     if text and len(text) > 10:
                         review = {
                             'text': text,
-                            'rating': rating,
+                            # 'rating': rating,
                             'author': author,
-                            'publication': publication,
-                            'date': date
+                            # 'publication': publication,
+                            # 'date': date
                         }
                         reviews.append(review)
-                        print(f"Found review {len(reviews)} with author: {author}, publication: {publication}, rating: {rating}")
 
                 except Exception as e:
                     print(f"Error processing individual review: {e}")
