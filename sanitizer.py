@@ -18,5 +18,8 @@ def sanitize_reviews_json(input_file, output_file=None):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-# Example usage
-sanitize_reviews_json('interstellar_reviews.json')
+
+
+if __name__ == '__main__':
+    sanitize_reviews_json('star_wars_reviews.json')
+    sanitize_reviews_json('the_lord_of_the_rings_reviews.json')

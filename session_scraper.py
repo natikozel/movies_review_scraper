@@ -14,6 +14,11 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import TimeoutException, ElementClickInterceptedException
 from selenium.webdriver.common.action_chains import ActionChains
+from sanitizer import sanitize_reviews_json
+from collections import namedtuple
+import os
+
+Args = namedtuple('Args', ['movie_name', 'num_reviews', 'output'])
 
 class RTSessionScraper:
     def __init__(self):
@@ -21,6 +26,7 @@ class RTSessionScraper:
         self.search_url = f"{self.base_url}/search"
         self.session = requests.Session()
         self.session.cookies = LWPCookieJar()
+        self.movie_details = {}
 
         # Realistic browser headers
         self.headers = {
@@ -67,7 +73,174 @@ class RTSessionScraper:
             })
         return True
 
-    def _verify_movie_id(self, movie_id):
+    def _extract_movie_details(self, soup, movie_og_name):
+        """Extract additional movie details from the movie page and fetch poster from TMDB."""
+        movie_details = {}
+        
+        try:
+            # Extract total rating (1-10)
+            # Looking at actual HTML structure where score is displayed as a percentage
+            score_elems = soup.select('.scoreboard__score, [data-qa="critics-score"], .audience-score, .mop-ratings-wrap__percentage')
+            for elem in score_elems:
+                try:
+                    text = elem.get_text().strip()
+                    if '%' in text:
+                        rating_value = float(text.strip('%')) / 10
+                        movie_details['total_rating'] = round(rating_value, 1)
+                        print(f"Found rating: {movie_details['total_rating']}")
+                        break
+                except ValueError:
+                    continue
+            
+            # We'll update the poster URL later using TMDB API
+            
+            # Extract release year
+            # Looking at the metadata section which has this information
+            metadata_elems = soup.select('[slot="metadataProp"]')
+            for elem in metadata_elems:
+                text = elem.get_text().strip()
+                # For release year
+                year_match = re.search(r'Released\s+\w+\s+\d+,\s+(\d{4})', text)
+                if year_match:
+                    movie_details['release_year'] = int(year_match.group(1))
+                    print(f"Found release year: {movie_details['release_year']}")
+                    break
+            
+            # Extract duration
+            for elem in metadata_elems:
+                text = elem.get_text().strip()
+                # For duration
+                duration_match = re.search(r'(\d+)h\s+(\d+)m', text)
+                if duration_match:
+                    hours = int(duration_match.group(1))
+                    mins = int(duration_match.group(2))
+                    movie_details['duration'] = hours * 60 + mins
+                    print(f"Found duration: {movie_details['duration']} minutes")
+                    break
+            
+            # Extract genres
+            genre_elems = soup.select('[slot="metadataGenre"]')
+            if genre_elems:
+                genres = []
+                for elem in genre_elems:
+                    genre = elem.get_text().strip()
+                    if genre.endswith('/'):
+                        genre = genre[:-1]  # Remove trailing slash
+                    genres.append(genre)
+                if genres:
+                    movie_details['genres'] = genres
+                    print(f"Found genres: {', '.join(movie_details['genres'])}")
+            
+            # Extract synopsis
+            synopsis_elem = soup.select_one('.synopsis-wrap [data-qa="synopsis-value"], [slot="description"] [slot="content"]')
+            if synopsis_elem:
+                movie_details['synopsis'] = synopsis_elem.get_text().strip()
+                print(f"Found synopsis: {movie_details['synopsis'][:50]}...")
+            
+            # Extract popcornmeter (audience score) as popularity on a 1-10 scale
+            popcorn_elems = soup.select('[slot="collapsedAudienceScore"], [slot="audienceScore"], .audience-score')
+            for elem in popcorn_elems:
+                try:
+                    text = elem.get_text().strip()
+                    if '%' in text:
+                        percentage = int(text.strip('%'))
+                        # Convert to 1-10 scale
+                        movie_details['popularity'] = round(percentage / 10, 1)
+                        print(f"Found popcornmeter (popularity): {percentage}% -> {movie_details['popularity']} (1-10 scale)")
+                        break
+                except ValueError:
+                    continue
+            
+            # If we couldn't find the popcornmeter, try other methods
+            if 'popularity' not in movie_details:
+                # Look for audience score in other formats
+                audience_elems = soup.select('.mop-ratings-wrap__percentage--audience, .audience-score, [data-qa="audience-score"]')
+                for elem in audience_elems:
+                    try:
+                        text = elem.get_text().strip()
+                        match = re.search(r'(\d+)%', text)
+                        if match:
+                            percentage = int(match.group(1))
+                            # Convert to 1-10 scale
+                            movie_details['popularity'] = round(percentage / 10, 1)
+                            print(f"Found popcornmeter (popularity): {percentage}% -> {movie_details['popularity']} (1-10 scale)")
+                            break
+                    except (ValueError, AttributeError):
+                        continue
+            
+            # Fetch poster from TMDB API
+            movie_name = soup.select_one('meta[property="og:title"]')
+            if movie_name:
+                movie_name = movie_name.get('content', '').split(' - Rotten')[0].strip()
+            else:
+                movie_name = soup.select_one('h1[slot="title"]')
+                if movie_name:
+                    movie_name = movie_name.get_text().strip()
+            
+            if movie_name and 'release_year' in movie_details:
+                tmdb_poster = self._get_tmdb_poster(movie_og_name, movie_details.get('release_year'))
+                if tmdb_poster:
+                    movie_details['poster_url'] = tmdb_poster
+                    print(f"Found TMDB poster URL: {movie_details['poster_url']}")
+                else:
+                    # Fallback to RT poster
+                    poster_elem = soup.select_one('img[slot="poster"], img.posterImage, img[data-qa="movie-poster-image"]')
+                    if poster_elem and poster_elem.has_attr('src'):
+                        movie_details['poster_url'] = poster_elem['src']
+                        print(f"Fallback to RT poster URL: {movie_details['poster_url']}")
+            
+            print(f"Extracted movie details: {', '.join(movie_details.keys())}")
+            
+        except Exception as e:
+            print(f"Error extracting movie details: {e}")
+        
+        return movie_details
+
+    def _get_tmdb_poster(self, movie_name, year=None):
+        """Fetch movie poster from TMDB API."""
+        try:
+            tmdb_api_key = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhMTA2YzUxZDIzZTlkYjQ4OGI0MDc4YjA0ODIwMzdhZiIsIm5iZiI6MTc0MzI1OTUzOC44ODIsInN1YiI6IjY3ZTgwNzkyNmIzNjdkNDY5NTY3YmZhNCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.xs8URWnkdu6teP6FooMttGgpyfF5qgym8wj1kjLBiKU"
+            
+            # Construct the URL with the movie name and optional year
+            search_url = f"https://api.themoviedb.org/3/search/movie?query={quote(movie_name)}"
+            if year:
+                search_url += f"&year={year}"
+            search_url += "&language=en-US"
+            
+            # Set up headers
+            headers = {
+                'Authorization': f'Bearer {tmdb_api_key}',
+                'Content-Type': 'application/json'
+            }
+            
+            print(f"Searching TMDB for movie: {movie_name} ({year if year else 'no year'})")
+            response = requests.get(search_url, headers=headers)
+            
+            if response.status_code == 200:
+                data = response.json()
+                
+                if data.get('results') and len(data['results']) > 0:
+                    # If there are multiple results, get the most popular one
+                    if len(data['results']) > 1:
+                        # Sort by popularity (highest first)
+                        sorted_results = sorted(data['results'], key=lambda x: x.get('popularity', 0), reverse=True)
+                        poster_path = sorted_results[0].get('poster_path')
+                    else:
+                        poster_path = data['results'][0].get('poster_path')
+                    
+                    if poster_path:
+                        poster_url = f"https://image.tmdb.org/t/p/original{poster_path}"
+                        print(f"Found TMDB poster: {poster_url}")
+                        return poster_url
+            
+            print(f"No poster found on TMDB for {movie_name}")
+            return None
+        
+        except Exception as e:
+            print(f"Error fetching TMDB poster: {e}")
+            return None
+
+    def _verify_movie_id(self, movie_id, movie_og_name):
         """Verify movie exists and get canonical ID."""
         try:
             url = f"{self.base_url}/m/{movie_id}"
@@ -80,9 +253,17 @@ class RTSessionScraper:
                     canonical_url = canonical_link['href']
                     self.verified_movie_id = canonical_url.split('/m/')[-1].strip('/')
                     print(f"Found verified movie ID: {self.verified_movie_id}")
+                    
+                    # Extract additional movie details
+                    self.movie_details = self._extract_movie_details(soup, movie_og_name=movie_og_name)
+                    
                     return True
 
                 self.verified_movie_id = movie_id
+                
+                # Extract additional movie details
+                self.movie_details = self._extract_movie_details(soup, movie_og_name=movie_og_name)
+                
                 return True
 
             print(f"Movie page not found for ID: {movie_id}")
@@ -177,7 +358,7 @@ class RTSessionScraper:
             print(f"Response content: {response.text if response else 'No response'}")
             return None
 
-    def get_reviews(self, movie_name, num_reviews=100):
+    def get_reviews(self, movie_name, movie_og_name, num_reviews=100):
         """Get reviews for a movie."""
         try:
             # Search for the movie
@@ -187,7 +368,7 @@ class RTSessionScraper:
                 return []
 
             # Verify movie ID
-            if not self._verify_movie_id(movie_id):
+            if not self._verify_movie_id(movie_id, movie_og_name):
                 print(f"Invalid movie ID: {movie_id}")
                 return []
 
@@ -207,6 +388,11 @@ class RTSessionScraper:
                 "total_reviews": len(reviews),
                 "reviews": reviews
             }
+            
+            # Add movie details if available
+            if self.movie_details:
+                for key, value in self.movie_details.items():
+                    review_data[key] = value
 
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(review_data, f, indent=2, ensure_ascii=False)
@@ -528,35 +714,66 @@ class RTSessionScraper:
 
         return reviews
 
-def main():
+def main(args):
     """Main function to run the scraper from command line."""
-    parser = argparse.ArgumentParser(description='Scrape movie reviews from Rotten Tomatoes')
-    parser.add_argument('movie_name', type=str, help='Name of the movie to scrape reviews for')
-    parser.add_argument('--num_reviews', type=int, default=100, help='Number of reviews to scrape (default: 100)')
-    parser.add_argument('--output', type=str, help='Output JSON file name (optional)')
-
-    args = parser.parse_args()
-
     scraper = RTSessionScraper()
     movie_id = scraper._search_movie(args.movie_name)
 
     if movie_id:
-        output_file = args.output or f"{args.movie_name.lower().replace(' ', '_')}_reviews.json"
-        reviews = scraper.get_reviews(movie_id, args.num_reviews)
+        # Create data directory if it doesn't exist
+        if not os.path.exists('data'):
+            os.makedirs('data')
+            print("Created 'data' directory for storing JSON files")
 
+        # Set output file path in the data directory
+        output_file = args.output or f"data/{args.movie_name.lower().replace(' ', '_')}_reviews.json"
+        temp_file = f"data/temp_{args.movie_name.lower().replace(' ', '_')}_reviews.json"
+        
+        # Get reviews
+        reviews = scraper.get_reviews(movie_name=args.movie_name, num_reviews=args.num_reviews, movie_og_name=args.movie_name)
+        
+        # Create the base output data
         output_data = {
             "movie_name": args.movie_name,
             "movie_id": movie_id,
             "total_reviews": len(reviews),
             "reviews": reviews
         }
+        
+        # Add movie details if they were collected
+        if hasattr(scraper, 'movie_details') and scraper.movie_details:
+            print("\nAdding movie details to output data:")
+            for key, value in scraper.movie_details.items():
+                print(f"  - {key}: {value}")
+                output_data[key] = value
 
-        with open(output_file, 'w', encoding='utf-8') as f:
+        # Save to temporary file first
+        with open(temp_file, 'w', encoding='utf-8') as f:
             json.dump(output_data, f, indent=2, ensure_ascii=False)
-
-        print(f"\nReviews saved to: {output_file}")
+        
+        # Sanitize and save to final output file
+        sanitize_reviews_json(temp_file, output_file)
+        
+        # Remove the temporary file as we only want to keep the sanitized version
+        os.remove(temp_file)
+        
+        print(f"\nSanitized reviews saved to: {output_file}")
     else:
         print(f"Failed to find movie: {args.movie_name}")
 
 if __name__ == '__main__':
-    main()
+    # List of 100 popular movies from different genres and eras
+    movies = [
+    
+    ]
+
+    # Process each movie
+    for movie in movies:        
+        args = Args(
+            movie_name=movie, 
+            num_reviews=500, 
+            output=f"data/{movie.lower().replace(' ', '_')}_reviews.json"
+        )
+        main(args)
+        # Add a delay between requests to avoid overwhelming the server
+        time.sleep(random.uniform(2, 5))

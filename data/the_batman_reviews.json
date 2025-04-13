@@ -1,0 +1,17 @@
+{
+  "movie_name": "The Batman",
+  "movie_id": "the_batman",
+  "total_reviews": 0,
+  "reviews": [],
+  "release_year": 2022,
+  "duration": 176,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "synopsis": "Batman ventures into Gotham City's underworld when a sadistic killer leaves behind a trail of cryptic clues. As the scale of the perpetrator's plans become clear, he must bring justice to the abuse of power and corruption that plagues the metropolis.",
+  "popularity": 8.7,
+  "poster_url": "https://image.tmdb.org/t/p/original/74xTEgt7R36Fpooo50r9T25onhq.jpg"
+}
