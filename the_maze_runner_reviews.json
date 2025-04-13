@@ -1,0 +1,707 @@
+{
+  "movie_name": "The Maze Runner",
+  "movie_id": "the_maze_runner",
+  "total_reviews": 172,
+  "reviews": [
+    {
+      "text": "The Maze Runner was much better than expected...",
+      "author": "JD Duran"
+    },
+    {
+      "text": "...benefits strongly from O’Brien’s charismatic performance and a smattering of above-average action sequences...",
+      "author": "David Nusair"
+    },
+    {
+      "text": "A clearly told, broadly appealing, nicely creepy science fiction thriller.",
+      "author": "Grant Watson"
+    },
+    {
+      "text": "Despite strong performances and a fascinating setup, it feels like a typical episode of Lost in which more questions are asked instead of answered—except here, there's no promise of a new episode next week.",
+      "author": "Brian Eggert"
+    },
+    {
+      "text": "The Maze Runner doesn't have the cheeriest of presentations, but the film is able to be its own thing. And, for dystopian young adult novel adaptations, that's saying a lot these days.",
+      "author": "Cory Woodroof"
+    },
+    {
+      "text": "Makes comments about the dangers of conformity and the virtues of bravery and loyalty and does appear to be headed into some twisty-turny territory should the next part of the story get made.",
+      "author": "Richard Crouse"
+    },
+    {
+      "text": "Smarter than most, thematically interesting, and unique enough to make it stand out in a crowded landscape.",
+      "author": "Brent McKnight"
+    },
+    {
+      "text": "Logic and any adherence to common sense falls to the wayside.",
+      "author": "Nicholas Bell"
+    },
+    {
+      "text": "As director Wes Ball builds the eeriness around the complex entrapment of a community of boys living a Lord Of The Flies type existence, he is ably aided by imaginative and well-executed production design and special effects.",
+      "author": "Udita Jhunjhunwala"
+    },
+    {
+      "text": "Despite featuring a somewhat cliched narrative, Wes Ball's The Maze Runner delivers unusual attention to character and world development, producing unforeseen engagement and bringing new depth to a tired subgenre.",
+      "author": "Cameron Ward"
+    },
+    {
+      "text": "Despite its familiar tropes, the film boasts a strong cast, numerous heart-in-mouth action moments, and a truly terrifying monster... making it a solid and thoroughly enjoyable little adventure story.",
+      "author": "Paula Fleri-Soler"
+    },
+    {
+      "text": "It's intriguing enough that I'm now anticipating the next installment, The Scorch Trials.",
+      "author": "Nathalia Aryani"
+    },
+    {
+      "text": "It's as if you are watching a television show with a season-ending cliffhanger, but the difference is you have to wait more than a year.",
+      "author": "Micheal Compton"
+    },
+    {
+      "text": "Without backstory it's impossible to care about these boys, so, instead of characters we can root for, we get archetypes.",
+      "author": "Di Golding"
+    },
+    {
+      "text": "There's a big difference between being mysterious and being ambiguous, but The Maze Runner seems to be under the impression that they're the same thing.",
+      "author": "Jennifer Heaton"
+    },
+    {
+      "text": "In a field of YA fiction that relies heavily on cliches and Big Messages about Big Things, it's is a welcome change of pace that subverts more cliches than it adheres to.",
+      "author": "Johnny Gayzmonic"
+    },
+    {
+      "text": "Sure, the movie is derivative and ends on a somewhat sour note. But following a long line of tepid popcorn flicks in 2014, The Maze Runner is more notable for what it does right than what it does wrong.",
+      "author": "Leah Pickett"
+    },
+    {
+      "text": "...all the good done by the movie is destroyed by its incredibly generic and disappointing ending. [Full Review in Spanish]",
+      "author": "Sebastian Zavala Kahn"
+    },
+    {
+      "text": "Even after having seen the movie, I still feel like I know nothing about the world being presented here",
+      "author": "Robert Kojder"
+    },
+    {
+      "text": "Overall, The Maze Runner is a solid piece of science fiction that features an interesting story and some compelling visuals.",
+      "author": "Josh Terry"
+    },
+    {
+      "text": "The climax might seem underwhelming for some but the build-up is a sure-shot winner. Deserves a sequel...",
+      "author": "Renuka Vyavahare"
+    },
+    {
+      "text": "This film, based on a best-selling young-adult novel, works so well because the story comes without the traits that viewers have come to associate with young-adult fiction.",
+      "author": "John Lui"
+    },
+    {
+      "text": "The Maze Runner is a well told story in its own right, but many of the parts will be familiar. That said, this cross between the Lord of the Flies and The Hunger Games leaves you wanting more.",
+      "author": "Francesca Rudkin"
+    },
+    {
+      "text": "The Maze Runner isn't the birth or death of YA but rather, its extension. You travel through so many twists and tunnels only to end up exactly where you began.",
+      "author": "Heather Dockray"
+    },
+    {
+      "text": "What will lift this series, from the mire of other Young Adult adaptations, will be less of a focus on style in favor of the substance underneath that surpasses matching jumpsuits and fancy team nicknames.",
+      "author": "Brooke Corso"
+    },
+    {
+      "text": "The Maze Runner is better and more tightly constructed than a simple cash-in. It's a well-paced adventure-thriller with an intoxicating sense of mystery and the chutzpah to take huge leaps with its fictional world.",
+      "author": "Danielle Riendeau"
+    },
+    {
+      "text": "The adaptation of the book was an evident continuation for its success and in the film, we see, once again, a quick production: pretty by the promotional envelope and completely failed in the attempt of content. [Full review in Spanish]",
+      "author": "Nicolás Ruiz"
+    },
+    {
+      "text": "As 'yoof' films go... it's an entertaining watch and doesn't take too much investment.",
+      "author": "Becky Suter"
+    },
+    {
+      "text": "[\"The Maze Runner\"] never delivers on its early potential, quickly falling down a chute of one-note characters and painfully sparse storytelling.",
+      "author": "J. Olson"
+    },
+    {
+      "text": "The real fun comes in navigating the puzzle, with solving it more the icing on top of a promising, multi-layered franchise cake.",
+      "author": "Nathan Bartlebaugh"
+    },
+    {
+      "text": "...neither as good as The Hunger Games nor as dull as the Divergent series, The Maze Runner has the same secret weapon utilized by MTV's Teen Wolf show: Dylan O'Brien.",
+      "author": "Kevin A. Ranson"
+    },
+    {
+      "text": "Wes Ball does a good job of establishing his world and making the maze an imposing place to spend time.",
+      "author": "Martin Roberts"
+    },
+    {
+      "text": "A charismatic lead helps tamp down the more generic elements of the story of a young man forced to scour a seemingly-endless maze to find a way out for everyone trapped against their will.",
+      "author": "Wesley Lovell"
+    },
+    {
+      "text": "You get less than a full explanation at the end about what it all was about. Never mind, we already know that a sequel is on the way.",
+      "author": "Paul Chambers"
+    },
+    {
+      "text": "A well-executed thriller and is certainly the best YA adaptation since the last 'Hunger Games' film.",
+      "author": "Bruce Bennett"
+    },
+    {
+      "text": "... may ultimately be a better film when examined in the context of its potential successors, but taken on its own, it's a puzzling tease.",
+      "author": "Todd Jorgenson"
+    },
+    {
+      "text": "It's briskly-paced, well acted and action packed. And as this is mostly a boys-only affair, we don't get bogged down by a tiresome romance.",
+      "author": "Andy Lea"
+    },
+    {
+      "text": "Shows an impressive turn of speed in places but runs out of puff before the finishing line.",
+      "author": "Jason Best"
+    },
+    {
+      "text": "One of the best of the current spate of Young Adult novel-inspired dystopian teen dramas...",
+      "author": "John Beifuss"
+    },
+    {
+      "text": "The Maze Runner generally has ambitious production values, is well edited and boasts a thumping score. Think of it as Lord Of the Flies meets Alien.",
+      "author": "Graham Young"
+    },
+    {
+      "text": "It does provide flawed-but-fun entertainment for a young male audience, a la some kind of Dude-vergent.",
+      "author": "Liam Maguren"
+    },
+    {
+      "text": "Generally redeemed by feature first-timer Wes Ball's forthright action sequences.",
+      "author": "Mark Kermode"
+    },
+    {
+      "text": "Whither post-apocalyptic young adult sci-fi? With two movies to go, Hunger Games already feels overly familiar.",
+      "author": "Tara Brady"
+    },
+    {
+      "text": "A sub-par YA adaptation that gets too bogged down in its own mechanics to adequately establish compelling characters or drama.",
+      "author": "Joe Cunningham"
+    },
+    {
+      "text": "Trying desperately to focus on the themes of free will, responsibility and death (several major characters have a gruesome fate), all I could think about was cheap vodka.",
+      "author": "Charlotte O'Sullivan"
+    },
+    {
+      "text": "The dynamics of the group and the mystery of what is really going on are enough to sustain the momentum of The Maze Runner.",
+      "author": null
+    },
+    {
+      "text": "The latest in a long line of teen fantasies, The Maze Runner is a cagey dystopian thriller that tries to make a virtue of its limitations but becomes samey and tedious after a while.",
+      "author": "Paul Whitington"
+    },
+    {
+      "text": "In the annals of dystopian young-adult franchises, The Maze Runner is less than totes amazeballs.",
+      "author": "Kate Muir"
+    },
+    {
+      "text": "There's nothing particularly original or insightful to set this teen-dystopia thriller apart from the crowd, but strong characters will build some anticipation for the next instalment in the franchise.",
+      "author": "Rich Cline"
+    },
+    {
+      "text": "The Hunger Games meets Lord of the Flies in this fast-paced and enjoyably moody teen thriller adapted from the bestselling novel by James Dashner.",
+      "author": "Stella Papamichael"
+    },
+    {
+      "text": "It's Lord Of The Flies meets Lost, but in a good way.",
+      "author": "Mark Adams"
+    },
+    {
+      "text": "Yet more celibate chiselled hotties in some ritualised game-playing future world, who discover that they are in some super-special way different, or divergent, or exceptional.",
+      "author": "Peter Bradshaw"
+    },
+    {
+      "text": "It's a well-made adventure with great energy and considerable style, but it's essentially a maze without an exit.",
+      "author": "Helen O'Hara"
+    },
+    {
+      "text": "Utter garbage. The kids will love it.",
+      "author": "Adam Woodward"
+    },
+    {
+      "text": "It may not quite a-Maze you, but for its fanbase, it will no doubt be a Runner-way hit.",
+      "author": "John Nugent"
+    },
+    {
+      "text": "[I haven't] read any of the books but was gripped from the get-go ...",
+      "author": "Robbie Collin"
+    },
+    {
+      "text": "Bland and generic beyond the small pleasures of its theme-park-ride-esque thrills and its half-intriguing, half-infuriating mystery.",
+      "author": "MaryAnn Johanson"
+    },
+    {
+      "text": "There remains a lot of potential in here for future productions, particularly given the credentials of the cast on board.",
+      "author": "Stefan Pape"
+    },
+    {
+      "text": "Teenagers are getting it in the neck again, in the latest dystopian Young Adult literary sensation to get the Hollywood treatment.",
+      "author": "Cath Clarke"
+    },
+    {
+      "text": "Amassing tension ahead of a solid pay-off, it'll leave you hungry for the next installment.",
+      "author": "Matt Maytum"
+    },
+    {
+      "text": "The Maze Runner moves at a reasonably enjoyable pace, taking us from CGI-heavy set-piece to set-piece and only occasionally stumbling.",
+      "author": "Katherine McLaughlin"
+    },
+    {
+      "text": "Dystopia is no cakewalk, but apparently it's going to be especially hard on teenagers.",
+      "author": "Siobhan Synnot"
+    },
+    {
+      "text": "It's all familiar territory, but it's realized with flair.",
+      "author": "Bruce Diones"
+    },
+    {
+      "text": "A solid B-movie version of the big YA franchises, less pretentious and glossy.",
+      "author": "Lori Hoffman"
+    },
+    {
+      "text": "A movie so utterly joyless that it makes all recent fantasies about young adults trapped in shattered worlds look like excursions through Mr. Roger's Neighborhood.",
+      "author": "David Keyes"
+    },
+    {
+      "text": "They're good-looking young people in a futuristic dystopia. They could change their future if only they could remember something. They live primitive lives and must vie against a largely unseen foe.",
+      "author": "Linda Cook"
+    },
+    {
+      "text": "An improvement over run-of-the-mill movies of its type. The screenplay is generally intelligent, characters are surprisingly well-defined, and the acting is above average.",
+      "author": "Ken Hanke"
+    },
+    {
+      "text": "[The ending is] an overly complicated and confusing turn of events that raises more questions than it answers-frustrating in a flick that's nearly all mystery.",
+      "author": "Annlee Ellingson"
+    },
+    {
+      "text": "The Maze Runner is a slickly plot-driven flick that delivers the basic sense of adventure that is sometimes missing from its relentlessly brooding cinematic progenitor.",
+      "author": "Gary Dowell"
+    },
+    {
+      "text": "The film is fine as long as the maze remains a mystery. When those nutty explanations arrive at the end, it all falls apart.",
+      "author": "Robert Roten"
+    },
+    {
+      "text": "The Maze Runner is a terrific mystery adventure that employs that wonderful, age-old technique of putting you at one with the characters.",
+      "author": "Jim Schembri"
+    },
+    {
+      "text": "There's a version of this story that has some keen insights on the formation of traditions and taboos... but The Maze Runner does not come within leagues of being that version.",
+      "author": "Tim Brayton"
+    },
+    {
+      "text": "I think I have a touch of apocalepsy -- excessive sleepiness caused by prolonged exposure to three- and four-part series in which adolescents rebel against oppressive governments represented by esteemed actors.",
+      "author": "Wesley Morris"
+    },
+    {
+      "text": "There is an underlying clash of philosophies that is as compelling in its all but subliminal presentation as the dashes through the maze, and the revelations, which come thick and fast",
+      "author": "Andrea Chase"
+    },
+    {
+      "text": "The Maze Runner might seem at first to have echoes of Lord Of The Flies, with its community of boys forced to survive in the wild. But it seems to have ingredients of a World War II POW movie, of The Great Escape or Stalag 13.",
+      "author": "Philippa Hawker"
+    },
+    {
+      "text": "The increasing sameness of these films (an evil future society, a young hero/heroine who must both confront the authorities and escape from them) is becoming pretty familiar.",
+      "author": "David Stratton"
+    },
+    {
+      "text": "While Ball's direction is confident and some of the performances are strong, the movie itself is laden with exposition and terminology and doesn't really pick up steam until halfway through the movie.",
+      "author": "Max Nicholson"
+    },
+    {
+      "text": "It's not that The Maze Runner represents anything like \"the death of cinema,\" but it crosses the Rubicon into utter exhaustion. All the more depressing that the film itself is mostly very good.",
+      "author": "Corey Atad"
+    },
+    {
+      "text": "The special effects and the mystery of their surroundings are sufficient for sustaining interest.",
+      "author": "David Kaplan"
+    },
+    {
+      "text": "It never captured my fancy or had much depth.",
+      "author": "Dennis Schwartz"
+    },
+    {
+      "text": "I smell popcorn. I smell franchise.",
+      "author": "Elias Savada"
+    },
+    {
+      "text": "The Maze Runner leans heavily on its premise, to the detriment of individual characters, but still succeeds as one of Hollywood's better young adult adaptations.",
+      "author": "Ben Kendrick"
+    },
+    {
+      "text": "Is the true enemy this all-testosterone Lord of the Flies clan? Nah, faulting your fellow kids is so 1950s. For the millennials, adults gotta be to blame",
+      "author": "Amy Nicholson"
+    },
+    {
+      "text": "The bad news is that this is not the next Hunger Games. The good news is that it's no Divergent either.",
+      "author": "Mike McGranaghan"
+    },
+    {
+      "text": "Having not read the book, I was hoping for a more satisfying payoff than the one I got. Then again, maybe the filmmakers are saving the answers for the sequel.",
+      "author": "Chris Nashawaty"
+    },
+    {
+      "text": "The Maze Runner's story only really works if viewers live in the moment and react to the characters' immediate and intense fears and trials, rather than analyzing the situation that produced them.",
+      "author": "Tasha Robinson"
+    },
+    {
+      "text": "In the wasteland of the near-future, anyone can rise to greatness. Every kid with a BA in History is a budding regional warlord, every barista a potential Master or Blaster.",
+      "author": "Pete Vonder Haar"
+    },
+    {
+      "text": "One could wish the picture were less thematically anemic...but there's something to be said for the nifty concept and pure adrenaline, when it kicks in.",
+      "author": "Peter Canavese"
+    },
+    {
+      "text": "For its first five minutes, The Maze Runner succeeds in drawing you into its strange world. Sadly, it never gets better than that kinetic opening, and it quickly becomes a bore to look at and a chore to sit through.",
+      "author": "Perry Seibert"
+    },
+    {
+      "text": "Dystopian tale offers high-stakes action, mystery for teens.",
+      "author": "Sandie Angulo Chen"
+    },
+    {
+      "text": "Another shaky-cam dystopian fable based on some godforsaken YA novel? No, thank you.",
+      "author": "James Verniere"
+    },
+    {
+      "text": "Dark, dangerous and uncommonly thrilling, The Maze Runner is that rarest and most satisfying of series starters - one that keeps you on the edge of your seat and leaves you eagerly awaiting the next installment.",
+      "author": "Isaac Feldberg"
+    },
+    {
+      "text": "I'm on board with finding out what happens next. Can there be a bigger compliment?",
+      "author": "Sean O'Connell"
+    },
+    {
+      "text": "The Maze Runner is clever, absorbing and good for both teens and parents -- until that silly reveal.",
+      "author": "Christian Toto"
+    },
+    {
+      "text": "There are only three maze sequences in the movie... Were there more maze runs in the book? Worse, the latter maze runs are largely green screen affairs.",
+      "author": "Fred Topel"
+    },
+    {
+      "text": "Comes from a teen-focused post apocalyptic book. They call it speculative fiction. I call it much less than a MAZE ing.",
+      "author": "Gary Wolcott"
+    },
+    {
+      "text": "The Maze Runner is a superior entry in Hollywood's onslaught of adolescents versus future dystopia films. It's interesting, well acted, well directed, and delivers a highly original outcome.",
+      "author": "Julian Roman"
+    },
+    {
+      "text": "The young cast as a whole is an engaging group who elevate a simple story into something that stands out from the pack of YA adaptations.",
+      "author": "Rebecca Murray"
+    },
+    {
+      "text": "The Maze Runner is a surprisingly solid movie, and its fans should generate enough interest to keep the series running.",
+      "author": "Daniel Eagan"
+    },
+    {
+      "text": "The movie whets the viewer's appetite, and then offers up nothing but loose ends and strained credulity.",
+      "author": "Jim Slotek"
+    },
+    {
+      "text": "Frantic yet utterly familiar sci-fi fantasy, filled with twists and turns.",
+      "author": "Susan Granger"
+    },
+    {
+      "text": "Have we reached dystopia overload yet?",
+      "author": "Kurt Loder"
+    },
+    {
+      "text": "There's no denying the film has a unique concept that works quite well for it. (Full Content Review for Parents also available)",
+      "author": "Jim Judy"
+    },
+    {
+      "text": "The premise seems both smart and intriguing, but the film directed by Wes Ball bears many of the cruder markings of YA fiction.",
+      "author": "Kate Taylor"
+    },
+    {
+      "text": "It's bleak business, and as it hurries toward its explosive, expository conclusion, the film becomes nonsensical, too.",
+      "author": "Steven Rea"
+    },
+    {
+      "text": "Ball's film might be derivative, but it's also intense and entertaining enough to leave audiences hungry for the inevitable sequel so clearly set up by its cliffhanger ending.",
+      "author": "Mike Scott"
+    },
+    {
+      "text": "It presumes nothing and works hard to make us respect it, a sign of good filmmaking first and franchise building second.",
+      "author": "Rob Vaux"
+    },
+    {
+      "text": "A handsomely-made film is ultimately undone by its own too-silly sci-fi storyline and script leaping off the screen and running madly off in all directions.",
+      "author": "James Rocchi"
+    },
+    {
+      "text": "With some good acting performances, some very horror-movie sensibilities, a good mystery and a solid dystopian aesthetic, The Maze Runner trilogy is off to a great start.",
+      "author": "Tim Martain"
+    },
+    {
+      "text": "Anyone looking for an escapist ride through a post-apocalyptic landscape might have fun mapping this latest experiment in mass marketing and source -material-to-potential-audience ratios.",
+      "author": "Katherine Monk"
+    },
+    {
+      "text": "The inevitable sequel may sort out some of this mess. In the meantime, filmmakers beware: When your story is called The Maze Runner, it's got to be pretty hard not to write yourself into a corner.",
+      "author": "Chris Knight"
+    },
+    {
+      "text": "The film relies too much on the power of its mystery to keep us entertained. But the deeper we go with the Maze Runner, the less interesting his story becomes.",
+      "author": "Kirk Baird"
+    },
+    {
+      "text": "Constructed as a mystery, its various layers gradually unpeeling with each new discovery, the film eschews a lot of early exposition in exchange for a deliberate build-up. This first installment is certainly promising enough to warrant a continuation.",
+      "author": "Dustin Putman"
+    },
+    {
+      "text": "This is a film that thrives on its mystery. It's a pretty good one, too...",
+      "author": "Mark Dujsik"
+    },
+    {
+      "text": "Packed with thrills, daring surprises and compelling performances, this is no mere 'Hunger Games' imitator. 'The Maze Runner' sprints to the finish line at the forefront of the YA franchises ready to take the baton from Katniss and company.",
+      "author": "Jeffrey Lyles"
+    },
+    {
+      "text": "If you are looking for the next HUNGER GAMES, this isn't near to that level, but you could do worse.",
+      "author": "JimmyO"
+    },
+    {
+      "text": "It may not be the next \"Hunger Games\" but this new adaptation of a young adult novel offers enough to keep viewers enthralled.",
+      "author": "John Hanlon"
+    },
+    {
+      "text": "A worthy addition to the genre, an absorbing drama with surprising turns and even more surprising resonance to contemporary conflicts.",
+      "author": "Nell Minow"
+    },
+    {
+      "text": "It feels like a teen rip-off of Lost, and that's no bad thing for a while.",
+      "author": "William Bibbiani"
+    },
+    {
+      "text": "Makes room for a crummy ending that's not content to give ticket buyers their money's worth, but demand they immediately save up for sequel.",
+      "author": "Brian Orndorf"
+    },
+    {
+      "text": "Despite the film's title, not enough time is spent in the maze itself, and its mysteries, as well as who created it and forced these boys to try to survive within it, are barely touched on until the end.",
+      "author": "Anders Wright"
+    },
+    {
+      "text": "Teens should eat up this fantasy's scenery-chewing angst and doom, and the hopeful tale of survival and empowerment (to be continued in the inevitable sequel or sequels).",
+      "author": "Ethan Gilsdorf"
+    },
+    {
+      "text": "A well-acted and intelligent thriller/futuristic sci-fi romp.",
+      "author": "Bill Zwecker"
+    },
+    {
+      "text": "The maze is intriguing, the creatures are terrifying and the action scenes are of the \"stuff whipping around and moving so fast it's hard to tell what's going on\" variety. But, when the maze's mysteries are unlocked... it feels like a cheat.",
+      "author": "Dale Roe"
+    },
+    {
+      "text": "Despite a strong opening and riveting first 45 minutes, The Maze Runner devolves into one of the weakest post-apocalyptic Young Adult movies to reach theaters in recent years.",
+      "author": "James Berardinelli"
+    },
+    {
+      "text": "Much of The Maze Runner feels not like a post-apocalyptic action fantasy but an out-and-out horror film.",
+      "author": "Scott Mendelson"
+    },
+    {
+      "text": "Director Wes Ball and his outstanding young cast work unusually hard to counter the derivative feel.",
+      "author": "Elizabeth Weitzman"
+    },
+    {
+      "text": "It's burdened with banal dialogue and a laughably dumb endgame that squeezes the life out of its superior parts.",
+      "author": "Linda Barnard"
+    },
+    {
+      "text": "Gets the vision and the grit of the source material but finally feels more like a long trailer than an involving movie.",
+      "author": "Sheri Linden"
+    },
+    {
+      "text": "By keeping its cards so close, \"The Maze Runner\" remains compelling.",
+      "author": "Ben Kenigsberg"
+    },
+    {
+      "text": "Ball has created balance between a thin but solid script and first-rate action -- and he doesn't waste a frame doing it.",
+      "author": "Rick Bentley"
+    },
+    {
+      "text": "Ball is deft, though, at evoking claustrophobia of every kind, whether in the open-air prison of the Glade or the actual tight spaces of the Maze. And he elicits a hair-trigger performance from O'Brien.",
+      "author": "Michael Sragow"
+    },
+    {
+      "text": "\"The Maze Runner,\" as a film, is free of texture, nuance, or dimensionality. And those wishing for the kind of visceral excitement and subtle socio-political commentary of \"The Hunger Games\" will be found desperately wanting.",
+      "author": "Drew Taylor"
+    },
+    {
+      "text": "Everything looks great, from the cast to the setting to the beasties, and the pacing gives the characters room to live and breathe.",
+      "author": "Matthew Lickona"
+    },
+    {
+      "text": "It essentially just leads us into another maze but it feels like running into a brick wall. That's entertainment?",
+      "author": "Laura Clifford"
+    },
+    {
+      "text": "\"The Maze Runner\" isn't based on a video game, but you could be forgiven for thinking otherwise.",
+      "author": "Sara Stewart"
+    },
+    {
+      "text": "A mostly entertaining adventure that plays like \"Lord of the Flies\" meets \"Cube\" meets an intelligent design lecture.",
+      "author": "Jon Niccum"
+    },
+    {
+      "text": "Sure, \"The Maze Runner\" unravels a few mysteries, but it spins even more. Thomas, as it happens, isn't the only one dying of curiosity here. As the closing credits roll, you likely will be, too.",
+      "author": "Michael O'Sullivan"
+    },
+    {
+      "text": "Its entire running time is devoted to setup for a payoff that never arrives.",
+      "author": "Josh Bell"
+    },
+    {
+      "text": "Though it sometimes feels calculated and mechanical, it's also solid, well crafted and entertaining.",
+      "author": "Rafer Guzman"
+    },
+    {
+      "text": "There's a DIY feel to The Maze Runner that's mildly refreshing; you can imagine kids trying this at home.",
+      "author": "Steve Persall"
+    },
+    {
+      "text": "Is there room at the multiplex for yet another entry in the young adult/dystopia/survival genre? Those who hunger for more could do worse than \"The Maze Runner,\" based on the first book in James Dashner's trilogy.",
+      "author": "Cynthia Dickison"
+    },
+    {
+      "text": "Wes Ball's film version of the popular young-adult novel by James Dashner never makes much sense. Perhaps it would make more if you have read the book, but until they start handing out free copies before the movie starts, that cannot be a requirement.",
+      "author": "Bill Goodykoontz"
+    },
+    {
+      "text": "Like Jean-Paul Sartre's No Exit-tentialism, but more crowded and with the musk of bottled-up testosterone.",
+      "author": "Richard Corliss"
+    },
+    {
+      "text": "The writers seem to have been reared in the \"Lost\" school of storytelling, happy to pile on three more questions for every answer.",
+      "author": "Peter Hartlaub"
+    },
+    {
+      "text": "A sci-fi thriller set in a vaguely post-apocalyptic future must create a fully drawn universe to thoroughly captivate the viewer. But Maze Runner feels only partially formed.",
+      "author": "Claudia Puig"
+    },
+    {
+      "text": "Though hardly a champion-quality entrant in this crowded YA field, it crosses the finish line winded but game.",
+      "author": "Frank Swietek"
+    },
+    {
+      "text": "Given that a grandiose premise underpins the entire story, it's unfortunate just how bloodless this entire film (read: setup for parts two and three) actually is.",
+      "author": "Colin Fraser"
+    },
+    {
+      "text": "What's intriguing about \"The Maze Runner\"-for a long time, at least-is the way it tells us a story we think we've heard countless times before but with a refreshingly different tone and degree of detail.",
+      "author": "Christy Lemire"
+    },
+    {
+      "text": "The overall production design - including the opening titles - looks a lot more like TV than a feature film.",
+      "author": "Jordan Hoffman"
+    },
+    {
+      "text": "There's a pleasantly low-fi, bare-bones kind of storytelling here, at least before the movie's mysteries are boringly explained - another apocalypse to parse.",
+      "author": "Jake Coyle"
+    },
+    {
+      "text": "A curious blend of our newly acquired taste for dystopia alongside a healthy sprinkling of Lord of the Flies, the film offers familiar pleasures without prompting the sense of having already been here before.",
+      "author": "Richard Larson"
+    },
+    {
+      "text": "I was quite riveted.",
+      "author": "Bilge Ebiri"
+    },
+    {
+      "text": "Like too many big-screen treatments of best-selling dystopian novels, you half-watch it while thinking about when fall TV comes back and what to eat for dinner.",
+      "author": "Matt Pais"
+    },
+    {
+      "text": "The Maze Runner bucks the conventions of its genre by functioning as a pure cliffhanger machine, fueled by mystery instead of melodrama.",
+      "author": "A.A. Dowd"
+    },
+    {
+      "text": "Rare is the movie based on a best-seller that is vastly superior to the book that inspired it. \"The Maze Runner\" is just such a rarity.",
+      "author": "Soren Andersen"
+    },
+    {
+      "text": "It's the best of the Hunger Games wannabes we've seen so far.",
+      "author": "William Goss"
+    },
+    {
+      "text": "The Maze Runner isn't flashy but Ball makes the Glade a believably intimidating place, part Lord of the Flies with a touch of The Hunger Games.",
+      "author": "Travis Hopson"
+    },
+    {
+      "text": "The acting is solid, but inevtiably \"The Maze Runner\" doesn't feel that satisying to complete.",
+      "author": "Kristian Harloff"
+    },
+    {
+      "text": "It's ending may feel underwhelming, but the fun of a maze is never in it's completion, right?",
+      "author": "Mark Ellis"
+    },
+    {
+      "text": "I couldn't help getting hooked by the combination of fine acting, intriguing premise and riveting scenery -- even if the story, at times, was a bit too easy.",
+      "author": "Tony Hicks"
+    },
+    {
+      "text": "The Maze Runner doesn't eff around... Finally, a YA adaptation that even Michael Haneke or Gaspar Noé might enjoy.",
+      "author": "Simon Miraudo"
+    },
+    {
+      "text": "I just wish it didn't feel like it had been made with a checklist open next to it, each box ticked, because storytelling should always trump franchise management, no matter how nimble.",
+      "author": "Drew McWeeny"
+    },
+    {
+      "text": "The Maze Runner establishes its intriguing premise within a matter of minutes and it held my attention for its full two hour running time.",
+      "author": "Matthew Toomey"
+    },
+    {
+      "text": "It doesn't quite have the bite or originality of The Hunger Games, but there are parallels in this first of a new sci-fi action fantasy franchise about survival in a controlled environment",
+      "author": "Louise Keller"
+    },
+    {
+      "text": "The sophistication of The Hunger Games and its sequels is setting a benchmark that none of the series' rivals has yet managed to match. This one doesn't change anything.",
+      "author": "Sandra Hall"
+    },
+    {
+      "text": "Merges LORD OF THE FLIES and THE HUNGER GAMES in a way that feels fresh, fun and surprisingly dangerous.",
+      "author": "Devin Faraci"
+    },
+    {
+      "text": "The dark, concrete corridors of the maze provide the venue for one exciting action sequence, but beyond these superficial thrills, there's little emotional weight to the film.",
+      "author": "Simon Reynolds"
+    },
+    {
+      "text": "A dystopian sci-fi thriller whose fast pace and appealing cast just about make up for a lack of really engaging drama.",
+      "author": "John Hazelton"
+    },
+    {
+      "text": "As world-creation YA pictures go, \"The Maze Runner\" feels refreshingly low-tech and properly story-driven, based on James Dashner's popular 2009 fantasy novel.",
+      "author": "Ella Taylor"
+    },
+    {
+      "text": "Consistently engaging, although never outright challenging.",
+      "author": "Justin Lowe"
+    },
+    {
+      "text": "It's an intriguing premise, at first anyway, but the more we learn about Thomas and Teresa's shared nightmarish memories, and the closer the movie gets to its requisite \"to be continued\" climax, the less interesting it all seems.",
+      "author": "Alonso Duralde"
+    }
+  ],
+  "release_year": 2014,
+  "duration": 113,
+  "genres": [
+    "Sci-Fi",
+    "Adventure",
+    "Action",
+    "Mystery & Thriller"
+  ],
+  "age_rating": "PG-13",
+  "synopsis": "Thomas (Dylan O'Brien), a teenager, arrives in a glade at the center of a giant labyrinth. Like the other youths dumped there before him, he has no memory of his previous life. Thomas quickly becomes part of the group and soon after demonstrates a unique perspective that scores him a promotion to Runner status -- those who patrol the always-changing maze to find an escape route. Together with Teresa (Kaya Scodelario), the only female, Thomas tries to convince his cohorts that he knows a way out.",
+  "popularity": 6.8,
+  "poster_url": "https://image.tmdb.org/t/p/original/ode14q7WtDugFDp78fo9lCsmay9.jpg"
+}

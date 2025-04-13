@@ -1,0 +1,773 @@
+{
+  "movie_name": "American Beauty",
+  "movie_id": "american_beauty",
+  "total_reviews": 189,
+  "reviews": [
+    {
+      "text": "With its clever and thought-provoking exploration of middle-class life, American Beauty continues to ignite conversations and debates, setting it apart from many other films",
+      "author": "Mark Johnson"
+    },
+    {
+      "text": "[It's] a movie that years from now will end up on the lists of greatest movies ever made. It's a complete original, at once hugely entertaining and deeply thoughtful, combining comedy, tragedy and philosophy in surprising and gratifying ways.",
+      "author": "Joanna Connors"
+    },
+    {
+      "text": "It's a love story, a tale of redemption, a drama of unraveling lifestyles and psychological corrosion, and a poetic tragedy, all wrapped up together.",
+      "author": "Mike Massie"
+    },
+    {
+      "text": "[The skewed morality] is not a happy note. But it is a powerful one. That's the thing that makes American Beauty such a compelling feature even now.",
+      "author": "Tim Stevens"
+    },
+    {
+      "text": "...a particularly embittered entry in the suburban satire genre.",
+      "author": "Josh Larsen"
+    },
+    {
+      "text": "American Beauty (1999) is a tragic, absurdist, satirical and dark domestic tale - and the debut feature film of British-London theatrical-stage director Sam Mendes.",
+      "author": "Tim Dirks"
+    },
+    {
+      "text": "As faux-deep Oscar bait goes, American Beauty is as broad and predictable as an episode of Three's Company.",
+      "author": "Steven Hyden"
+    },
+    {
+      "text": "American Beauty wields its title as a double-edged sword -- as a profoundly harsh and ironic assertion of misplaced values and wasted lives on one side; but as a subtle statement of hope and kindness on the other",
+      "author": "Dennis King"
+    },
+    {
+      "text": "We never really see the downtrodden nature of Burnham's life pre-awakening, we just take it as a given from Burnham's own sarcastic narration.",
+      "author": "PJ Nabarro"
+    },
+    {
+      "text": "The highly entertaining dark comedy American Beauty uses its cardboard characters very well.",
+      "author": "Andy Spletzer"
+    },
+    {
+      "text": "...magnificent, fresh, debatable, funny and tragicomic. [Full Review in Spanish]",
+      "author": "Israel Paredes"
+    },
+    {
+      "text": "American Beauty is deeply disturbing, acerbically funny, brilliantly acted, breathtakingly original and highly sophisticated.",
+      "author": "Paul Clinton (CNN.com)"
+    },
+    {
+      "text": "A tightly coiled rage seethes beneath the pretty surface of American Beauty, a wickedly funny black comedy directed by newcomer Sam Mendes.",
+      "author": "Ann Hornaday"
+    },
+    {
+      "text": "This is Spacey's best performance since he took home an Oscar for The Usual Suspects.",
+      "author": "Jeff Strickler"
+    },
+    {
+      "text": "This seriocomic autopsy of middle-class virtue has the capacity to startle and surprise, and a gift for finding grim humor at the heart of tragedy.",
+      "author": "Bill Gallo"
+    },
+    {
+      "text": "This engrossing centrepiece meshes with subplots involving Burnham's dysfunctional family and unbalanced neighbours, in a virtuoso study of isolation, repression and fulfilment. Mendes infuses the lush visuals and lyrical script with dramatic panache.",
+      "author": "Ed Potton"
+    },
+    {
+      "text": "The writing is acidically amusing without ever trying to conceal the loneliness at the heart, the direction a perfect frame for the characters and the wonderful performances that create them.",
+      "author": "Margaret Pomeranz"
+    },
+    {
+      "text": "Kevin Spacey is the greatest actor of his generation, hands down, no contest.",
+      "author": "Scott Nash"
+    },
+    {
+      "text": "The film is stunningly poignant, and when first time cinema director Mendes turns his hands to the serious aspects of the disintegration of human souls, the funny lurches to the profound with hardly a flicker of disruption.",
+      "author": "Natalie Stone"
+    },
+    {
+      "text": "Mendes loves his performers, framing their big moments with suburban metaphors and dizzily poetic fantasies.",
+      "author": "Steve Persall"
+    },
+    {
+      "text": "With its parade of neurotics, psychotics, bigots and deceivers, American Beauty is an endlessly rewatchable black comedy.",
+      "author": "Marc Lee"
+    },
+    {
+      "text": "A truly beautiful, poignant and brilliantly funny film, it doesn't get much better than this.",
+      "author": "Megan Spencer"
+    },
+    {
+      "text": "It took a British stage director to create the ultimate movie about the American family.",
+      "author": "Robert Nuñez"
+    },
+    {
+      "text": "Why, then, did I enjoy it so little? Because of its unrelenting self-importance: American Beauty wants us to know, in every shot at every turn, just how clever and mercilessly cutting it is.",
+      "author": "Joe Morgenstern"
+    },
+    {
+      "text": "Kevin Spacey gives the performance of his life.",
+      "author": "Rex Reed"
+    },
+    {
+      "text": "Alan Ball's script is a terrific piece of material, and Mendes responds directly to its subversive, provocative vision of a curdled American Dream.",
+      "author": "John Hartl"
+    },
+    {
+      "text": "Mendes manages to give individuality and distinction to some extremely familiar material.",
+      "author": "Philip French"
+    },
+    {
+      "text": "Disturbing, bleak, thought-provoking.",
+      "author": "David Sterritt"
+    },
+    {
+      "text": "American Beauty approaches a manic, almost cartoonish edge without falling over. Both Spacey and Bening use extraordinary comic timing to bring these very sad, lost characters to life.",
+      "author": "Jami Bernard"
+    },
+    {
+      "text": "[The filmmakers'] attacks on real-estate agents, corporate America and suburbia aren't so much shooting fish in a barrel as they are shooting fish in a shallow dish.",
+      "author": "Jay Boyar"
+    },
+    {
+      "text": "Flaws and all, this is intelligent, exhilarating, effervescent film-making, and a remarkable debut from Sam Mendes.",
+      "author": "Peter Bradshaw"
+    },
+    {
+      "text": "Boldly challenging our sympathies, [Lester] somehow wins them because, to borrow a phrase, he's a man in full.",
+      "author": "Richard Schickel"
+    },
+    {
+      "text": "The hairpin turns from farce to melodrama, from satire to bathos, are fresh and deftly navigated, but almost every one of the underlying attitudes is smug and easy.",
+      "author": "David Edelstein"
+    },
+    {
+      "text": "Mendes and screenwriter Alan Ball, both making their feature debuts, resort to a few heavy-handed tactics to get their points across, but their sheer audacity is so exhilarating it hardly matters.",
+      "author": "Scott Tobias"
+    },
+    {
+      "text": "Beauty is never less than fascinating and always visually stunning.",
+      "author": "Leah Rozen"
+    },
+    {
+      "text": "British theatre director Sam Mendes made an astonishing film debut with this sublime black comedy about midlife crises.",
+      "author": "Lorien Haynes"
+    },
+    {
+      "text": "In their scathing portrayal of middle-class anxiety, screenwriter Alan Ball and director Sam Mendes create an average Joe determined to unearth the carefully buried truths of his life.",
+      "author": "Serena Donadoni"
+    },
+    {
+      "text": "American Beauty is a profoundly satisfying piece of cinema which works its way inside you, grabs hold of your heart and simply refuses to let go.",
+      "author": "Total Film Staff"
+    },
+    {
+      "text": "This amazing and impassioned fantasia about American loneliness begins as satire and ends with a vision of the sublime.",
+      "author": "David Denby"
+    },
+    {
+      "text": "Spacey's sharply metallic voice has never sounded more bitter and sardonic that is does when spitting out Ball's bile-charged dialogue.",
+      "author": "Malcolm Johnson"
+    },
+    {
+      "text": "American Beauty was a deserving best picture and Lester's rich existential journey and social commentary of modern America peels away the inauthentic and superficial to reveal the epic allure in a bleak suburbia.",
+      "author": "Blake Howard"
+    },
+    {
+      "text": "Cripplingly broad, with network-sitcom beats dressed in R-rated threads... [endorses] a particularly adolescent male point of view.",
+      "author": "Tim Brayton"
+    },
+    {
+      "text": "Powerful acting, great story, but far too mature for kids.",
+      "author": "Nell Minow"
+    },
+    {
+      "text": "The flaws that exist in American Beauty are effortlessly overcome by a cast that blossoms. Spacey in particular exhibits a rare wit and gravitas with Lester's weary frowns and cutting smirks, proving his mettle in this career peak performance.",
+      "author": "Radheyan Simonpillai"
+    },
+    {
+      "text": "It's daring in that it sympathizes with a protagonist who's a pederast though its portrait of an American family on the brink of collapse is essentially a cartoon",
+      "author": "Ed Gonzalez"
+    },
+    {
+      "text": "One of the most startling, brilliant pictures to come out of a major studio in many years.",
+      "author": "Film4 Staff"
+    },
+    {
+      "text": "An elusive and allusive work of art that won't be pinned down easily.",
+      "author": "Rob Gonsalves"
+    },
+    {
+      "text": "Recently, Happiness and Election have taken pot shots at suburban morals and ethics, but none has hit so close to the bone and so on-target as American Beauty.",
+      "author": "Joe Lozito"
+    },
+    {
+      "text": "It's like Norman Bates getting good advice from Mother.",
+      "author": "Walter Chaw"
+    },
+    {
+      "text": "As the latest mainstream movie symptom of our premillennial malaise, American Beauty is so brilliantly acted, written, directed and visualized that for all its despondency and despair, it is a lot of fun.",
+      "author": "Andrew Sarris"
+    },
+    {
+      "text": "An incisive if over-the-top take on familial dysfunction.",
+      "author": "Wesley Lovell"
+    },
+    {
+      "text": "Above all, \"American Beauty\" is about finding peace and a sense of wonder in the least likely of places, such as your inner torment or, failing that, perhaps a floating plastic bag.",
+      "author": "Phil Villarreal"
+    },
+    {
+      "text": "Brit Sam Mendes makes an impressive directorial debut with a glossy, well-acted satire of the American burbs, a theatrically stylized meditation that combines the zeitgeist of 1950s Eisnehower with that of 1990s Clinton.",
+      "author": "Emanuel Levy"
+    },
+    {
+      "text": "Dark, intelligent, scandalous, emotional, and truthful -- one of the year's best.",
+      "author": "Jeffrey M. Anderson"
+    },
+    {
+      "text": "Director Mendes guides an artful path between desire and self-disgust, playing youth against experience, male against female.",
+      "author": "Tom Charity"
+    },
+    {
+      "text": "This is what movies are all about.",
+      "author": "Robin Clifford"
+    },
+    {
+      "text": "Complexity, say quite a few of my colleagues. Lies, I say.",
+      "author": "Stuart Klawans"
+    },
+    {
+      "text": "As the world changed in the past five years, so did the relevance of American Beauty.",
+      "author": "Dragan Antulov"
+    },
+    {
+      "text": "A stylish film about an American family that pretends to be moral and enlightened, but revels in its mean-spirited sarcasm and its championing of self-interest.",
+      "author": "Jeffrey Overstreet"
+    },
+    {
+      "text": "Like Network in the 1970s and Ordinary People in the '80s, American Beauty is a scathing reflection of contemporary American life.",
+      "author": "Judith Egerton"
+    },
+    {
+      "text": "Spacey's style and delivery save the film time after time.",
+      "author": "John R. McEwen"
+    },
+    {
+      "text": "Filled with moments of uncommon intelligence, sensitivity, truth and wit, American Beauty is an instant American classic.",
+      "author": "Brent Simon"
+    },
+    {
+      "text": "It is a great film and will definitely be regarded as one of the best films of the 90's ... right next to Titanic.",
+      "author": "Anthony Miele"
+    },
+    {
+      "text": "Time and again, you fear Mendes won't be able to sustain such a confident shuffling of his pack, but somehow he does, and for once the result is a genuine surprise.",
+      "author": "Kevin Jackson"
+    },
+    {
+      "text": "There's so much right -- and so much wrong -- with this lauded, scathing look at suburban discontent.",
+      "author": "James Rocchi"
+    },
+    {
+      "text": "An uncompromising, sometimes uncomfortable, but utterly exhilarating movie, easily the best yet this year.",
+      "author": "Margaret A. McGurk"
+    },
+    {
+      "text": "An astonishingly assured first feature from transatlantic theater whiz kid Sam Mendes.",
+      "author": "Ella Taylor"
+    },
+    {
+      "text": "Moves from mirthful to moody and to downright overwrought near the climax.",
+      "author": "Bob Thompson"
+    },
+    {
+      "text": "It challenges and disturbs as it invigorates and entertains.",
+      "author": "Louis B. Hobson"
+    },
+    {
+      "text": "...a novelistic integrity, a cool black comic sensibility and, at its core, a raw throbbing monster of a busted heart.",
+      "author": "Philip Martin"
+    },
+    {
+      "text": "Shrouded in ugliness despite brilliant performances by Bening and Spacey.",
+      "author": "Betty Jo Tucker"
+    },
+    {
+      "text": "When all is said and done, doesn't really offer anything new.",
+      "author": "Jason Clark"
+    },
+    {
+      "text": "Mendes has assembled \"American Beauty\" from other groundbreaking films. His ambition lies in the way he presents \"American Beauty\" as a modern version of the major films he copies.",
+      "author": "Jeffrey Westhoff"
+    },
+    {
+      "text": "A great, tremendously entertaining experience. I only wish there were more films this satisfying.",
+      "author": "Edward Guthmann"
+    },
+    {
+      "text": "A história é uma pequena metralhadora giratória que não se preocupa em poupar alguns dos mais arraigados valores do american way of life.",
+      "author": "Pablo Villaça"
+    },
+    {
+      "text": "There is beauty to which this movie is stone cold blind: beauty it tramples on as ignorantly as Buddy Kane or Col. Fitts.",
+      "author": "Steven D. Greydanus"
+    },
+    {
+      "text": "[A] near-masterpiece.",
+      "author": "Peter Keough"
+    },
+    {
+      "text": "This is definitely a knife-to-the-heart movie -- the kind whose potent effect is easy to feel yet hard to describe.",
+      "author": "Rick Groen"
+    },
+    {
+      "text": "It may take several viewings of this extraordinary film to mine all of its spiritual riches.",
+      "author": "Frederic and Mary Ann Brussat"
+    },
+    {
+      "text": "From the opening moment we know we're in the hands of gifted, assured, focussed filmmakers.",
+      "author": "Rich Cline"
+    },
+    {
+      "text": "Les recomiendo leer entre líneas, la realidad mostrada es devastadora, demasiado \"bella\" y \"ordinaria\" para algunos...",
+      "author": "Alex Ramirez"
+    },
+    {
+      "text": "The kind of artful defiance that Hollywood is usually too timid to deliver: a jolting comedy that makes you laugh till it hurts.",
+      "author": "Peter Travers"
+    },
+    {
+      "text": "As ever, Spacey is brilliant with his edgy, almost psychotic creation, delivering Alan Ball's quick-witted script in superb, deadpan fashion.",
+      "author": "Kevin Lewin"
+    },
+    {
+      "text": "Cinematographer Conrad L. Hall uses shadows and the color red to startling effect, and director Sam Mendes moves around his characters so assuredly, I realized you don't even need dialogue to follow the plot.",
+      "author": "Chris Phillips"
+    },
+    {
+      "text": "A film which turns the microscope on the human condition in all its ragged glory.",
+      "author": "Andrew Howe"
+    },
+    {
+      "text": "It wants to be an original beauty so much that it doesn't realize just how plain and ordinary it really is.",
+      "author": "Chuck Rudolph"
+    },
+    {
+      "text": "Belleza Americana es el espejo de una sociedad que ha querido vivir engañada durante décadas y que ahora comienza a despertar a la realidad",
+      "author": "Jorge Avila Andrade"
+    },
+    {
+      "text": "It is the screenplay, that penetrating, character-driven screenplay, that surely makes American Beauty one of the best (if not the best) films this year.",
+      "author": "Jim Chastain"
+    },
+    {
+      "text": "a visually extravagant, entrancingly dark comedy about how people fall apart and build walls of angst between each other",
+      "author": "James Kendrick"
+    },
+    {
+      "text": "There are six main characters and another half-dozen smaller parts in American Beauty. All of them are well written and well acted.",
+      "author": "Marty Mapes"
+    },
+    {
+      "text": "Compelling to watch, full of black humor, evocative imagery and wrenching sadness.",
+      "author": "Eric D. Snider"
+    },
+    {
+      "text": "Kevin Spacey gives a performance, in what may be one of the great films of our time, that will surely garner him an Academy Award nomination.",
+      "author": "Mac Verstandig"
+    },
+    {
+      "text": "American Beauty accomplishes in a mere two hours, what many movies and sequels all year long have not; it makes the viewer reason and empathize with the great American Family.",
+      "author": "Rhonda Baughman"
+    },
+    {
+      "text": "I'd have preferred that this realization be stumbled across by means other than pot and lust, still, a great film.",
+      "author": "Ross Anthony"
+    },
+    {
+      "text": "Simultaneously gripping and frustrating, American Beauty is the best film of the year that irritated the hell out of me.",
+      "author": "Scott Renshaw"
+    },
+    {
+      "text": "Peers between the white picket fenceposts of suburbia to reveal emotional toxicity and unexpected grace.",
+      "author": "Randall King"
+    },
+    {
+      "text": "A dark comical masterpiece.",
+      "author": "Christopher Brandon"
+    },
+    {
+      "text": "The film struggles with its mood swings and is marred by its own tonal and thematic inconsistencies.",
+      "author": "Wesley Morris"
+    },
+    {
+      "text": "American Beauty is a singular accomplishment so specifically keyed to Spacey's talents that it mandates going out on a limb to say it contains the performance that will ultimately be regarded as 'the one'.",
+      "author": "Mike Clark"
+    },
+    {
+      "text": "This film is solid gold.",
+      "author": "Urban Cinefile Critics"
+    },
+    {
+      "text": "Beauty is a blood-chilling dark comedy with unexpected moments of both fury and warmth, a strange, brooding and very accomplished film that sets us back on our heels from its opening frames.",
+      "author": "Kenneth Turan"
+    },
+    {
+      "text": "I can't remember the last time I've seen a mainstream, big-studio release this well-acted.",
+      "author": "Jeff Millar"
+    },
+    {
+      "text": "What American Beauty has to say isn't pretty, at least not in the conventional fashion, but it is a brilliant, exhilarating piece of filmmaking.",
+      "author": "Marc Savlov"
+    },
+    {
+      "text": "Superlatively well-made.",
+      "author": "Joe Baltake"
+    },
+    {
+      "text": "American Beauty is a comedy because we laugh at the absurdity of the hero's problems. And a tragedy because we can identify with his failure.",
+      "author": "Roger Ebert"
+    },
+    {
+      "text": "The obvious star is Spacey, who makes Lester such a human character that you can't help sympathizing with him, despite the many embarrassing gestures on his part.",
+      "author": "Jeff Vice"
+    },
+    {
+      "text": "Mendes can stake a claim alongside the likes of Kubrick and Egoyan as one whose cinematic vision both challenges and entertains.",
+      "author": "James Berardinelli"
+    },
+    {
+      "text": "An acerbic, darkly comic critique of how social conventions can lead people into false, sterile and emotionally stunted lives, American Beauty is a real American original.",
+      "author": "Todd McCarthy"
+    },
+    {
+      "text": "American Beauty offers one of the best ensemble casts you'll see in any American movie this year.",
+      "author": "Andrew O'Hehir"
+    },
+    {
+      "text": "You know you're in the hands of a true filmmaker when you feel invited, at every turn, to share his sense of entrancement. I got that feeling in just about every frame of American Beauty.",
+      "author": "Owen Gleiberman"
+    },
+    {
+      "text": "American Beauty is a very funny film that packs an unexpected emotional wallop.",
+      "author": "David Ansen"
+    },
+    {
+      "text": "One of the best films of the year.",
+      "author": "Jim Judy"
+    },
+    {
+      "text": "Because the film's visual conception and most of its performances have such disturbing power, in dreamlike fragments American Beauty is able to burrow inside the cliche to understand how it came to be.",
+      "author": "Carrie Rickey"
+    },
+    {
+      "text": "I think Lester Burnham is destined to become an iconic American character, one with a life well beyond the film that spawned him.",
+      "author": "MaryAnn Johanson"
+    },
+    {
+      "text": "American Beauty is a flat-out masterpiece, surely the best movie of the year; indeed, an all-time classic.",
+      "author": "Rod Dreher"
+    },
+    {
+      "text": "A terrific film about troubled souls.",
+      "author": "E! Staff"
+    },
+    {
+      "text": "This is a rare and outstanding film that deserves attention and will challenge some heady competition for a place as the best film of the year.",
+      "author": "Christopher Null"
+    },
+    {
+      "text": "[Beauty] is certainly adept at showing how awful life in the United States is at the moment -- and that's what gives it some bite. But it's no less adept at taking that awfulness and making it pleasurable to watch -- and that's what makes it entertaining.",
+      "author": "Jonathan Rosenbaum"
+    },
+    {
+      "text": "Silky, seductive and unsettling, American Beauty is an dazzling piece of movie-making, nimbly shifting from dark comedy to drama to horror to pure poetry and back again.",
+      "author": "Edward Johnson-Ott"
+    },
+    {
+      "text": "Though the film is outrageously entertaining, its relentless struggle to find social relevance becomes so heavy-handed that it leaves you feeling sucker-punched.",
+      "author": "Robert Payne"
+    },
+    {
+      "text": "Director Sam Mendes presents some memorable images, and moments of Kubrick class clarity, but the whole does not hang together.",
+      "author": "David Forsmark"
+    },
+    {
+      "text": "One of the edgiest movies of the year.",
+      "author": "Richard T. Jameson"
+    },
+    {
+      "text": "One of the great films of the decade.",
+      "author": "Eric Lurio"
+    },
+    {
+      "text": "Astounding.",
+      "author": "Rob Blackwelder"
+    },
+    {
+      "text": "There's so much to see in this movie that, with every blink, you'll miss something amazing. Something poignant. Something timeless.",
+      "author": "Alex Sandell"
+    },
+    {
+      "text": "American Beauty takes its place among the best family dramas of recent decades.",
+      "author": "Ted Anthony"
+    },
+    {
+      "text": "Worth seeing as a snapshot of American society at a peculiar juncture in its unfolding as an empire.",
+      "author": "Louis Proyect"
+    },
+    {
+      "text": "It's a picture with a great cool shiny surface, and it boasts superb actors, witty and iconoclastic writing, vigorous and imaginative direction and brilliantly stylized cinematography.",
+      "author": "Michael Wilmington"
+    },
+    {
+      "text": "This chronicle of suburban families imploding in slow motion contains genuine laughs, but they escape through clenched teeth.",
+      "author": "Maitland McDonagh"
+    },
+    {
+      "text": "With Lester as its guide, American Beauty peels away the layers of what passes for normalcy in contemporary suburbia to reveal the creepy-crawlies under the neatly trimmed lawns.",
+      "author": "Todd Anthony"
+    },
+    {
+      "text": "Moviemakers who feel betrayed by the cheery sitcoms of their adolescence can now take it out on all the rest of us and, as a bonus, get points for profundity too.",
+      "author": "Peter Rainer"
+    },
+    {
+      "text": "There's too much dead air around the dialogue and the comic pacing is nonexistent.",
+      "author": "J. Hoberman"
+    },
+    {
+      "text": "If you enjoy \"films\" then rush right out. Otherwise put it on your \"must rent\" list.",
+      "author": "Kamal  'The Diva' Larsuel"
+    },
+    {
+      "text": "The dark, deeply ironic ending, though given away by our narrator in the first few minutes of the movie, stays with you for weeks after it's all over.",
+      "author": "Eugene Novikov"
+    },
+    {
+      "text": "An original, a tour-de-force exhibition of acting missing from the movie screen so far this year.",
+      "author": "Bob Bloom"
+    },
+    {
+      "text": "There are times when \"American Beauty\" feels like it might be toppling over into melodrama, but Mendes grabs the reins and reels his actors in, generating power and a lot of perspiration in the process.",
+      "author": "David N. Butterworth"
+    },
+    {
+      "text": "Hilarious, slightly sick, and super-edgy.",
+      "author": "Peter Brunette"
+    },
+    {
+      "text": "As it detects increasingly vital signs of life behind the absurd surfaces that Mr. Mendes presents so beautifully, the film takes on a gravity to match its evil zest.",
+      "author": "Janet Maslin"
+    },
+    {
+      "text": "It never justifies the blatancy of its opening, and it never does anything to freshen what is only one more journey through familiar fortyish unfulfillment.",
+      "author": "Stanley Kauffmann"
+    },
+    {
+      "text": "It truly, honestly makes me see the beauty in the world, a goal not many films have achieved. In short, it gives me pause.",
+      "author": "Shay Casey"
+    },
+    {
+      "text": "The movie, despite its exaggerations and caricatures, does grip you, ever so slowly at first, and pull you in.",
+      "author": "John J. Puccio"
+    },
+    {
+      "text": "Hilarious, painful and brutally frank.",
+      "author": "Desson Thomson"
+    },
+    {
+      "text": "Kevin Spacey's work in the movie is the best film acting that he has ever done.",
+      "author": "Steve Rhodes"
+    },
+    {
+      "text": "Wildly funny and unpredictable.",
+      "author": "Michael Dequina"
+    },
+    {
+      "text": "an explanation of why I love the movies so much.",
+      "author": "Blake French"
+    },
+    {
+      "text": "The world's most honest sitcom.",
+      "author": "Scott Weinberg"
+    },
+    {
+      "text": "Despite the acting, which ranges mostly from good to terrific, Mendes is the real discovery here.",
+      "author": "Lawrence Toppman"
+    },
+    {
+      "text": "Easily one of the year's best films.",
+      "author": "Jason Kaufman"
+    },
+    {
+      "text": "This cinematic rose is truly the one to pick.",
+      "author": "Steve Schneider"
+    },
+    {
+      "text": "American Beauty mesmerizes because every moment, however caricatured, hits a nerve in each of us.",
+      "author": "Harvey S. Karten"
+    },
+    {
+      "text": "American Beauty is an American Classic.",
+      "author": "Nick Nunziata"
+    },
+    {
+      "text": "The real star of the film is Alan Ball's exceptional script, which continually reveals new, surprising layers in characters that initially seem like cartoonish types.",
+      "author": "Rene Rodriguez"
+    },
+    {
+      "text": "Exhibits a stable, consistent tone and style, using brilliant direction, incredible acting and a smart screenplay that balances the comedy with the morbidity.",
+      "author": "Widgett Walls"
+    },
+    {
+      "text": "Very clever, hugely entertaining.",
+      "author": "Ben Williams"
+    },
+    {
+      "text": "Savagely funny and sympathetically insightful.",
+      "author": "Joe Leydon"
+    },
+    {
+      "text": "Near-perfect.",
+      "author": "Duane Dudek"
+    },
+    {
+      "text": "Startling, brilliantly assembled.",
+      "author": "Philip Wuntch"
+    },
+    {
+      "text": "A heart breaking-retching-touching-intestine churner.",
+      "author": "Emily Blunt"
+    },
+    {
+      "text": "I think it unfolds as a profound masterpiece, then collapses in a muddle of probably unintentional, certainly unnecessary pessimism.",
+      "author": "Ian Mantgani"
+    },
+    {
+      "text": "Bening's performance is nothing short of exhilarating.",
+      "author": "Madeleine Williams"
+    },
+    {
+      "text": "Artful, wise and darkly witty.",
+      "author": "Jack Garner"
+    },
+    {
+      "text": "It is art that entertains and tells us something about ourselves.",
+      "author": "Elspeth Haughton"
+    },
+    {
+      "text": "American Beauty is a devastating motion picture of unconceivable power.",
+      "author": "Dustin Putman"
+    },
+    {
+      "text": "Surprising and enjoyable.",
+      "author": "Glenn Whipp"
+    },
+    {
+      "text": "Funny and highly entertaining.",
+      "author": "Steven Rosen"
+    },
+    {
+      "text": "At this point in the year, I'd readily call American Beauty one of the best movies of 1999. It is certainly the best-acted, with Kevin Spacey a standout among a stellar ensemble cast.",
+      "author": "Eleanor Ringel Cater"
+    },
+    {
+      "text": "A sitcom with a brain, though its depth is pretty synthetic.",
+      "author": "David Elliott"
+    },
+    {
+      "text": "Marvelous filmmaking on every level.",
+      "author": "Jeanne Aufmuth"
+    },
+    {
+      "text": "Nothing short of perfection.",
+      "author": "Jon Popick"
+    },
+    {
+      "text": "A millennial classic.",
+      "author": "Jay Carr"
+    },
+    {
+      "text": "A dynamite comedy-drama.",
+      "author": "William Arnold"
+    },
+    {
+      "text": "What, at first, promises to be an insightful satirical look at a suburban American family unravels into a familiar tale of infidelity and rebellion.",
+      "author": "Ed Kelleher"
+    },
+    {
+      "text": "Hilarious, cynical, disturbing, yet emotionally satisfying.",
+      "author": "Matt Easterbrook"
+    },
+    {
+      "text": "The language is brutal and lyrical.",
+      "author": "Cynthia Fuchs"
+    },
+    {
+      "text": "delights in confounding our expectations again and again... In its probe of what lies beneath the shiny surface of everday life, \"Beauty\" sometimes recalls David Lynch's \"Blue Velvet\" or his ground-breaking TV series \"Twin Peaks.\"",
+      "author": "James Sanford"
+    },
+    {
+      "text": "Bravo and roll out the Oscar nominations.",
+      "author": "Cornell & Petricelli"
+    },
+    {
+      "text": "An incisive, deliriously funny and profound vision of the American Dream hitting meltdown.",
+      "author": "Ian Nathan"
+    },
+    {
+      "text": "Original in story, interesting in premise, acted sharply by its well-rounded cast, directed in a manner made all the more absorbing, and edgy and humorous enough to keep me going.",
+      "author": "JoBlo"
+    },
+    {
+      "text": "I somehow liked the film more than I probably should have.",
+      "author": "Dennis Schwartz"
+    },
+    {
+      "text": "American Beauty is that rare instance where all the elements of a movie -- story, setting, acting, shot construction -- come together to convey its message.",
+      "author": "Annlee Ellingson"
+    },
+    {
+      "text": "If it is never really as profound as it seems to think it is, American Beauty is consistently entertaining.",
+      "author": "Robert Horton"
+    },
+    {
+      "text": "American Beauty brings a bracing blend of cunning, insight and compassion to the drama of a suburban family coming apart.",
+      "author": "Susan Stark"
+    },
+    {
+      "text": "Bitterly funny and beautifully crafted.",
+      "author": "Tom Block"
+    },
+    {
+      "text": "The movie is an impressive achievement, yes, but not always a deep and effective one.",
+      "author": "David Keyes"
+    },
+    {
+      "text": "You can't help but wonder how people find themselves trapped in situations where they have all their happiness and energy sucked right out of them. You can't help but wonder if it will happen to you.",
+      "author": "Scott A. Mantz"
+    },
+    {
+      "text": "Well-acted, reasonably insightful, and often laugh-out-loud funny.",
+      "author": "Bryant Frazer"
+    },
+    {
+      "text": "It's a black comedy that's supposed to be about the hollowness of the American dream, but in fact ... it reveals the moral and intellectual bankruptsy of Hollywood.",
+      "author": "Robert Roten"
+    },
+    {
+      "text": "Mendes has unquestionably got an eye.",
+      "author": "Mike D'Angelo"
+    },
+    {
+      "text": "It explores the endemic problems haunting many contemporary families: consumerism, unemployment, drugs, peer pressure, loneliness, discrimination and violence.",
+      "author": "Yazmin Ghonaim"
+    }
+  ],
+  "release_year": 1999,
+  "duration": 122,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "age_rating": "R",
+  "synopsis": "Lester Burnham (Kevin Spacey) is a gainfully employed suburban husband and father. Fed up with his boring, stagnant existence, he quits his job and decides to reinvent himself as a pot-smoking, responsibility-shirking teenager. What follows is at once cynical, hysterical, and, eventually, tragically uplifting.",
+  "popularity": 9.3,
+  "poster_url": "https://image.tmdb.org/t/p/original/s5PXkDqS8W3K4wCPNZBzf10zycw.jpg"
+}

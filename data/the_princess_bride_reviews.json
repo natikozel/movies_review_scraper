@@ -1,0 +1,17 @@
+{
+  "movie_name": "The Princess Bride",
+  "movie_id": "princess_bride",
+  "total_reviews": 0,
+  "reviews": [],
+  "release_year": 1987,
+  "duration": 98,
+  "genres": [
+    "Kids & Family",
+    "Adventure",
+    "Comedy"
+  ],
+  "age_rating": "PG",
+  "synopsis": "A fairy tale adventure about a beautiful young woman and her one true love. He must find her after a long separation and save her. They must battle the evils of the mythical kingdom of Florin to be reunited with each other. Based on the William Goldman novel \"The Princess Bride\" which earned its own loyal audience.",
+  "popularity": 9.4,
+  "poster_url": "https://image.tmdb.org/t/p/original/kTXxdNv44najTayFcrT487xWuDv.jpg"
+}

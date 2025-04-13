@@ -1,0 +1,733 @@
+{
+  "movie_name": "Fight Club",
+  "movie_id": "fight_club",
+  "total_reviews": 179,
+  "reviews": [
+    {
+      "text": "David Fincher created a masterpiece in this mind-bending psychological drama that features a star-studded cast with extraordinary twists.",
+      "author": "Ben Gibbons"
+    },
+    {
+      "text": "David Fincher's prescient rumination on manhood at the close of the 20th century was a revolutionary movie about revolutionary men in a time of complacence.",
+      "author": "Christopher Lloyd"
+    },
+    {
+      "text": "Fight Club feels like a declaration of artistic intent with an axe to grind. It comes across as a tour de force from director David Fincher, and aggressively courts controversy whilst remaining a truly riveting piece of work",
+      "author": "Martin Carr"
+    },
+    {
+      "text": "From the guitar roar on the Dust Brothers' opening title track through to the thundering drums of Pixies' Where Is My Mind? it is pure synapse-splitting sensory overload and the road that commercial cinema refused to take.",
+      "author": "Kevin Maher"
+    },
+    {
+      "text": "Fight Club did indeed fly over the heads of audiences expecting straight macho action thrills, as opposed to a mind-messing critique of the same, as well as capitalism, material acquisition, masculinity and other sacred cows of national identity.",
+      "author": "Dennis Harvey"
+    },
+    {
+      "text": "Fight Club is very, very, very good.",
+      "author": "Chuck Klosterman"
+    },
+    {
+      "text": "With an absolutely brilliant direction and execution, David Fincher uses Jim Uhls’ captivating, layered, unconventional screenplay to tackle themes such as consumerism, society’s behavior, and mental health.",
+      "author": "Manuel São Bento"
+    },
+    {
+      "text": "David Fincher’s adaptation of the Chuck Palahniuk novel is a shrewd and expertly crafted study of the male in crisis.",
+      "author": "Wendy Ide"
+    },
+    {
+      "text": "It seems like the male characters in Fight Club would be a whole lot happiernot to mention healthierif they could express respect and affection through the magic of gay sex.",
+      "author": "David Reddish"
+    },
+    {
+      "text": "The first rule of Fight Club, as we're constantly reminded, might not be to talk about it, but once seen, it is most certainly not forgotten, even 22 years on.",
+      "author": "James Croot"
+    },
+    {
+      "text": "Let's not get away from the fact that Fight Club is awesome.",
+      "author": "Sean Collier"
+    },
+    {
+      "text": "David Fincher is an interesting director whose films more often than not work for me, Fight Club is a notable exception.",
+      "author": "Sarah Brinks"
+    },
+    {
+      "text": "Shocking violence, utter chaos, spirited editing, and mindfuck finales can be found elsewhere. Pitt haranguing a squirrelly Norton everyman on consumerist ideals, however, is forever.",
+      "author": "Luke Hicks"
+    },
+    {
+      "text": "It's bold, it's gritty, it's rebellious, it's unapologetic, it takes risks, and it's narrator reflects the frustrations of many people.",
+      "author": "Marianna Neal"
+    },
+    {
+      "text": "Unsubtle subliminal messages pair with skewed perceptions to demonstrate overstressed stylization and a hopelessly circuitous plot.",
+      "author": "Mike Massie"
+    },
+    {
+      "text": "'Fight Club' examines David Fincher's portrait of toxic masculinity from the female gaze.",
+      "author": "Sezín Koehler"
+    },
+    {
+      "text": "Brad Pitt and Edward Norton are both perfect in David Fincher's anarchic, moody and violent film. [Full review in Spanish]",
+      "author": "Fico Cangiano"
+    },
+    {
+      "text": "Perhaps it is postmodern filmmaking, whatever that means. In any case, Fight Club remains the ugliest, most inhuman film since Natural Born Killers.",
+      "author": "Bob Thomas"
+    },
+    {
+      "text": "The film's tongue is far too firmly in its cheek at all points of its discourse to ever take its characters' actions too much at face value.",
+      "author": "PJ Nabarro"
+    },
+    {
+      "text": "The movie demands a certain attention and is not easily dismissed, but there is something deeply unsettling about a work that uncritically espouses brutality as a function of alienation and nonconformity.",
+      "author": "Patrick Z. McGavin"
+    },
+    {
+      "text": "Pitt dominates the screen every second he's on it, and it simultaneously represents his weirdest, funniest and most charismatic role of his career.",
+      "author": "Alan French"
+    },
+    {
+      "text": "Filmmaker David Fincher has, perhaps notoriously, infused Fight Club with a decidedly off-kilter sort of vibe that's reflected in its various attributes...",
+      "author": "David Nusair"
+    },
+    {
+      "text": "Mr Loaf was never better on screen than as the ill-fated, big-hearted Bob Paulson, the only warm character in a cold, cold movie.",
+      "author": "Leigh Paatsch"
+    },
+    {
+      "text": "An outrageous mixture of brilliant technique, puerile philosophizing, trenchant satire and sensory overload, Fight Club is the most incendiary movie to come out of Hollywood in a long time. It's a mess, but one worth fighting about.",
+      "author": "David Ansen"
+    },
+    {
+      "text": "Just when it's supposedly getting to grips with its theme, the movie goes utterly haywire and becomes yet another brainless, humourless bone-cruncher.",
+      "author": "Gilbert Adair"
+    },
+    {
+      "text": "Oh, for the time when men were men and were encouraged to beat the tar out of one another. That's the world \"Fight Club\" pines for.",
+      "author": "Jami Bernard"
+    },
+    {
+      "text": "Technically gorgeous... But it's such a wreck of tone and intellect.",
+      "author": "Tim Brayton"
+    },
+    {
+      "text": "Fight Club may be iconic and technically proficient, but it's more distant than perhaps any film to attain \"modern classic\" status.",
+      "author": "Brogan Morris"
+    },
+    {
+      "text": "It’s tremendously directed and performed with brio.",
+      "author": "Peter Bradshaw"
+    },
+    {
+      "text": "Wildly inventive, exceptionally cast and undeniably controversial, there's an endless list of subtexts and viewpoints which will fuel student pub debates for years.",
+      "author": null
+    },
+    {
+      "text": "A controversial satire and a contemporary classic.",
+      "author": "Richard Luck"
+    },
+    {
+      "text": "It is working American Beauty-Susan Faludi territory, that illiberal, impious, inarticulate fringe that threatens the smug American center with an anger that cannot explain itself, can act out its frustrations only in inexplicable violence.",
+      "author": "Richard Schickel"
+    },
+    {
+      "text": "Blistering, hallucinatory, often brilliant, the film by David Fincher is a combination punch of social satire and sociopathology.",
+      "author": "Carrie Rickey"
+    },
+    {
+      "text": "Fight Club is an arresting, eventually appalling excursion into social satire by way of punishing violence.",
+      "author": "Joe Morgenstern"
+    },
+    {
+      "text": "A movie that wants to keep its audience unsettled from beginning to end.",
+      "author": "Ann Hornaday"
+    },
+    {
+      "text": "We're meant to take the male bonding and the blood rituals as a protest against the sterility of corporate life and modern design, but Fincher's sadomasochistic kicks overwhelm any possible social critique.",
+      "author": "David Denby"
+    },
+    {
+      "text": "There's many levels of brilliance to this film, from the script to the acting to the cinematography to the overall directing.",
+      "author": "Kevin Carr"
+    },
+    {
+      "text": "This is American self-absorption at its finest.",
+      "author": "Jonathan Rosenbaum"
+    },
+    {
+      "text": "A shrewd, scintillating work rooted in an investigation of varying degrees of masculinity and extremism.",
+      "author": "Nick Schager"
+    },
+    {
+      "text": "Lurid, twisted, and violent. Not for kids.",
+      "author": "Charles Cassady"
+    },
+    {
+      "text": "where Taxi Driver sees the fallacy in canonizing Travis Bickle, Fight Club does it without irony.",
+      "author": "Walter Chaw"
+    },
+    {
+      "text": "The last great male-centric movie of the last millennium just arrived on a spectacular new Blu-ray disc for its 10th anniversary, providing the opportunity to relish every aspect of David Fincher's ultimate dissection of Gen-X masculinity. Fight Club",
+      "author": "Radheyan Simonpillai"
+    },
+    {
+      "text": "A complex, confused look at life in late-'90s America, David Fincher's blood-black comedy Fight Club remains one of the most divisive pictures of the past 20 years.",
+      "author": "Matt Noller"
+    },
+    {
+      "text": "Fight Club is still today a definitive film, a statement as strong as any rock anthem and twice as packed with power chords.",
+      "author": "Bill Gibron"
+    },
+    {
+      "text": "One of the seminal films of the 1990s...just as darkly funny, epic, and psychically wrenching as ever. [Blu-ray]",
+      "author": "Peter Canavese"
+    },
+    {
+      "text": "\"Fight Club\" is a cinematic Hail-Mary pass from David Fincher that the audience desperately wants to catch.",
+      "author": "Cole Smithey"
+    },
+    {
+      "text": "[A] bold, inventive, sustained adrenaline rush of a movie...",
+      "author": "David Rooney"
+    },
+    {
+      "text": "May also be yet another example of a book that was just fine as a book -- that didn't need to be made into a film.",
+      "author": "Rob Gonsalves"
+    },
+    {
+      "text": "I don't mind a film with a surprise ending but, rather than enhancing the film, the climactic revelation in Fight Club cancels out everything previously seen. In fact, the bitter end of the film is a hypocritical cop-out.",
+      "author": "Joe Lozito"
+    },
+    {
+      "text": "An exciting, dangerous, and intense story.",
+      "author": "Jeffrey M. Anderson"
+    },
+    {
+      "text": "It might not be as controversial as it was back in 1999, but it's definitely just as relevant.",
+      "author": "Jason Zingale"
+    },
+    {
+      "text": "Durden is so intense, focused and honestly violent that the messianic hold he has on his followers is palpable. It's one of the best things that Pitt has done and his performance helps to recommend the film.",
+      "author": "Robin Clifford"
+    },
+    {
+      "text": "One of the greatest films ever made",
+      "author": "Phil Villarreal"
+    },
+    {
+      "text": "Pitt bronco-rides through the movie, using many of the nutsy-dangerous mannerisms he previously unloosed in 12 Monkeys. It's the performance you'd expect Pitt to give, and still you can't take your eyes off it.",
+      "author": "Stuart Klawans"
+    },
+    {
+      "text": "...more clever and kinetic than it is profound, more a visceral movie than a think piece.",
+      "author": "Philip Martin"
+    },
+    {
+      "text": "In the future, all manner of society's ills in the future will be blamed on this movie. [But] this is a film that exposes evil, not one that glorifies it.",
+      "author": "Jeffrey Overstreet"
+    },
+    {
+      "text": "It's a movie with all the warmth of a refrigerated meat locker at midnight. And who wants to hang around there?",
+      "author": "Judith Egerton"
+    },
+    {
+      "text": "Lobs punishing combinations at the flabby midsection of life in the 1990s. But as the film wears on, it's apparent that Fincher can't deliver the knockout blow.",
+      "author": "Thomas Delapa"
+    },
+    {
+      "text": "This is a strange, agonized film--a darkly comic end-of-the-millennium fable with unforgettable performances and visuals. The writing is tight, smart and edgy; there's no question it hits a chord with our consumer-crazed lifestyle.",
+      "author": "Jim Shelby"
+    },
+    {
+      "text": "Undermines any seriousness it might have harbored with an avalanche of smirky cynicism designed to flatter the hipper-than-thou fantasies of adolescent moviegoers.",
+      "author": "David Sterritt"
+    },
+    {
+      "text": "If it had all continued in the vein explored in the first act, it might have become a great film. But the second act is pandering and the third is trickery.",
+      "author": "Roger Ebert"
+    },
+    {
+      "text": "“Fight Club” carries with it a lot of violent baggage, but the images and messages are so pervasive that we cannot help but be awed by its loud, obnoxious ideologies.",
+      "author": "Wesley Lovell"
+    },
+    {
+      "text": "Fight Club is not just a movie, but a wake up call to a disenfranchised generation sick of being told by advertising what to drive, wear, buy, smoke, drink and eat in order to be cool.",
+      "author": "Chris Gore"
+    },
+    {
+      "text": "What puts the fight in Fight Club is Fincher's visual wizardry.",
+      "author": "Tom Meek"
+    },
+    {
+      "text": "[Jack's] search may not necessarily be over at the end, but a new one by the audience may have commenced. Any film that makes you question yourself must be doing something right.",
+      "author": "Ron Wells"
+    },
+    {
+      "text": "Rock-'em, sock-'em, sharp satire is among the best films of the '90s.",
+      "author": "James Rocchi"
+    },
+    {
+      "text": "Although Pitt's acting brilliance comes through loud and clear in his most unsympathetic role to date, Fight Club belongs to Norton.",
+      "author": "Betty Jo Tucker"
+    },
+    {
+      "text": "If \"A Clockwork Orange\" was a bitter answer to the \"all you need is love\" message of the late 1960s, \"Fight Club\" is a brass-knuckled slap in the face to yuppiedom and its \"greed is good\" mantra.",
+      "author": "James Sanford"
+    },
+    {
+      "text": "Delivers a sucker punch to the audience and then pulls the rug out from under it. It is sensational.",
+      "author": "Bob Graham"
+    },
+    {
+      "text": "Film history will remember that Fight Club called us all to raise arms against our own complacency, not against the offices of credit card companies.",
+      "author": "David Poland"
+    },
+    {
+      "text": "Um retrato perturbador da inquietao do homem moderno.",
+      "author": "Pablo Villaça"
+    },
+    {
+      "text": "Fight Club is as curiously appealing as your first learned profanity and as dangerous as chewing a light bulb.",
+      "author": "Rumsey Taylor"
+    },
+    {
+      "text": "A mirror distorting the faces of those most eager to condemn it.",
+      "author": "Peter Keough"
+    },
+    {
+      "text": "[Fincher's] tooth and nail stylistics inherently obscure any point the film might be trying to make.",
+      "author": "Chuck Rudolph"
+    },
+    {
+      "text": "Fischner's ability to subvert expectation by delivering such an ultimately positive message is the film's greatest achievement.",
+      "author": "Jeremy Heilman"
+    },
+    {
+      "text": "This devil-may-care love of violence is part and parcel of America's shadow.",
+      "author": "Frederic and Mary Ann Brussat"
+    },
+    {
+      "text": "La pelcula es visualmente impresionante, pero es tambin impresionante en s...",
+      "author": "Alex Ramirez"
+    },
+    {
+      "text": "Its effectiveness lies in the timing of shock moments that invariably threaten to make you laugh, despite the political incorrectness of it all.",
+      "author": "Almar Haflidason"
+    },
+    {
+      "text": "Norton's performance is just shy of brilliant",
+      "author": "Andrew Howe"
+    },
+    {
+      "text": "An incendiary, psychotic film surely guaranteed to polarize both critics and audiences alike",
+      "author": "Marc Savlov"
+    },
+    {
+      "text": "This is movie that sears the nerves, that immediately draws a line in the dirt and demands that you stand on one side or the other.",
+      "author": "James Kendrick"
+    },
+    {
+      "text": "If you like movies like \"NBK\" and \"RD\" then you must see this movie. If you don't have a strong stomach and don't like violence. Stay home. Trust me on this.",
+      "author": "Kamal  'The Diva' Larsuel"
+    },
+    {
+      "text": "A funny, powerful, flashy, tragic film that plays with your perceptions and with your preconceptions about movies and society.",
+      "author": "Robert Roten"
+    },
+    {
+      "text": "The movie is not only anti-capitalism but anti-society, and, indeed, anti-God.",
+      "author": "Alexander Walker"
+    },
+    {
+      "text": "Physical violence may give the initial sting, but it's the film's psychological violence that leaves the lasting impression.",
+      "author": "Michael Dequina"
+    },
+    {
+      "text": "If you want a movie that makes sense and doesn't make you chuckle at its sophomoric satire, laugh this one right off your list.",
+      "author": "Desson Thomson"
+    },
+    {
+      "text": "Affliction is a better film, because it brings us into the hearts and minds of its characters rather than just bludgeoning us with its visions.",
+      "author": "Steven Rosen"
+    },
+    {
+      "text": "Terribly underwhelming.",
+      "author": "Tom Keogh"
+    },
+    {
+      "text": "Bloody mess of a guy film loses its battle to have any real meaning.",
+      "author": "Susan Stark"
+    },
+    {
+      "text": "Instead of a nasty story with life lessons, what we have is testosterone-driven lunatics who enjoy pain, the sight of blood, and hearing bones crunch. David Cronenberg might have succeeded with the material -- David Fincher doesn't.",
+      "author": "David Keyes"
+    },
+    {
+      "text": "An unhinged mess of a movie, with potentially dangerous ideas handled in a winking, cynical manner.",
+      "author": "KJ Doughton"
+    },
+    {
+      "text": "While one would not expect a film to include the sort of psychological and political analysis of Dostoyevsky's The Possessed, its total absence leaves the viewer with an inability to understand their motivations.",
+      "author": "Louis Proyect"
+    },
+    {
+      "text": "The movie may not float like a butterfly and sting like a bee, but Fight Club lands its share of haymakers.",
+      "author": "Todd Anthony"
+    },
+    {
+      "text": "A real go-for-the-throat satire tracking the rising tide of rage in America.",
+      "author": "Mark R. Leeper"
+    },
+    {
+      "text": "Taking every scene on an individual basis, it is often madly brilliant, but put it all together, and it is a pretentious, incoherent mess.",
+      "author": "Dustin Putman"
+    },
+    {
+      "text": "A challenging piece of work, a film demanding that its viewers look past what's on its surface and find something deeper.",
+      "author": "Shay Casey"
+    },
+    {
+      "text": "Fight Club is a work of prevailing violence.",
+      "author": "Mac Verstandig"
+    },
+    {
+      "text": "Even at its shallowest, the movie is fascinating to watch for its heat and movement.",
+      "author": "Tom Block"
+    },
+    {
+      "text": "Awe and admiration.",
+      "author": "Shawn Levy"
+    },
+    {
+      "text": "Edward Norton and Brad Pitt in what may be the performances of their careers.",
+      "author": "Steven Boone"
+    },
+    {
+      "text": "Exhilarating, visually astounding, thought-provoking and very, very funny.",
+      "author": "Bill Pearis"
+    },
+    {
+      "text": "The thing to keep in mind is, laugh.",
+      "author": "Glenn Whipp"
+    },
+    {
+      "text": "An original piece of filmmaking!",
+      "author": "Philip Wuntch"
+    },
+    {
+      "text": "The film may be violent and funny, but it's never simple.",
+      "author": "Chuck Walton"
+    },
+    {
+      "text": "See it or I'll have to fight you in the parking lot after work!",
+      "author": "JoBlo"
+    },
+    {
+      "text": "One of the best films of the last decade.",
+      "author": "Keith H. Brown"
+    },
+    {
+      "text": "[Fincher's] stunning visual style carries the film well past its faults.",
+      "author": "Madeleine Williams"
+    },
+    {
+      "text": "Fincher delves once again into the bowels of our uber-psyche -- quite literally in the propulsive, Dust Brothers-scored opening credits sequence -- and announces that a lot of us are walking very close to the edge.",
+      "author": "Scott Renshaw"
+    },
+    {
+      "text": "Certainly no movie in years has had this much subversive fun.",
+      "author": "Jay Carr"
+    },
+    {
+      "text": "Fight Club is not a glorification of violence. It is a deconstruction.",
+      "author": "Carlo Cavagna"
+    },
+    {
+      "text": "oth Norton and Pitt deliver knockout performances, relishing the wry, cruel nihilist humor.",
+      "author": "Susan Granger"
+    },
+    {
+      "text": "See this film with a friend so you can console one another afterwards.",
+      "author": "Widgett Walls"
+    },
+    {
+      "text": "Hardcore masterpiece.",
+      "author": "Scott Weinberg"
+    },
+    {
+      "text": "A stunning achievement, sure to be one of the most talked-about movies of the year.",
+      "author": "Ed Kelleher"
+    },
+    {
+      "text": "There isn't a slow moment in this film, and there's a surprise around every corner.",
+      "author": "Alex Sandell"
+    },
+    {
+      "text": "Fight Club is this generation's Clockwork Orange or Taxi Driver, a film of disturbing ideas that mainstream society and the mass media is going to have a hard time keeping in the ring.",
+      "author": "D.K. Holm"
+    },
+    {
+      "text": "It always surprises, never bores.",
+      "author": "Gemma Files"
+    },
+    {
+      "text": "Fincher, the director of Seven, leads you down a murky winding path of dark, dank cellars and alleys in which water drips incessantly and blood and sweat flow and coalesce as if choreographed by a Balanchine.",
+      "author": "Bob Bloom"
+    },
+    {
+      "text": "Fight Club confirms Edward Norton's ascent into the pantheon of actors like Robert DeNiro and Robert Duvall.",
+      "author": "Paula Nechak"
+    },
+    {
+      "text": "A particularly inventive and mind-blowing performance by Norton.",
+      "author": "Wesley Morris"
+    },
+    {
+      "text": "A thought-provoking mind-bender, a wake-up punch to our collective solar plexus.",
+      "author": "Jack Garner"
+    },
+    {
+      "text": "The Fight Club is an awesome man flick. Sorry girlies.",
+      "author": "Emily Blunt"
+    },
+    {
+      "text": "A bracing, mesmerizing, bitterly funny and deeply unsettling fable.",
+      "author": "Maitland McDonagh"
+    },
+    {
+      "text": "The brightly written script by Jim Uhls literally bursts with memorable lines that will have you laughing and thinking.",
+      "author": "Steve Rhodes"
+    },
+    {
+      "text": "Director David Fincher has solidified a place for himself as the penultimate director of the 90's.",
+      "author": "Scott A. Mantz"
+    },
+    {
+      "text": "Dark, brutal and very funny, Fight Club is one of the most mesmerizing films to come along in quite a while.",
+      "author": "Edward Johnson-Ott"
+    },
+    {
+      "text": "Brutal, bracing, funny.",
+      "author": "Glenn Lovell"
+    },
+    {
+      "text": "Director David Fincher's camera swoops and sails in and out of tiny spaces in an exhibitionistic and self-conscious effort to be slick and showy and mod.",
+      "author": "Mark Ramsey"
+    },
+    {
+      "text": "An extremely well-made but rather muddle-headed film that delivers a solid blow to the belly, yet does not stand up to rigorous intellectual examination.",
+      "author": "Dan Jardine"
+    },
+    {
+      "text": "It's really Norton's film, and he turns in a terrific performance that veers from intense to horrifying to likably comical and back again.",
+      "author": "Jeff Vice"
+    },
+    {
+      "text": "Rapid-fire sensory overload.",
+      "author": "Jim Lane"
+    },
+    {
+      "text": "Fight Club is a distinctively dense and often hilarious film, but in the end it's nonsense.",
+      "author": "Andrew O'Hehir"
+    },
+    {
+      "text": "While this film is strong in most of the critical areas, its overall vision is so violent, so bloody, and so hopeless, I simply cannot recommend it to anyone, myself included.",
+      "author": "Jim Chastain"
+    },
+    {
+      "text": "Pitt's best work since A River Runs Through It.",
+      "author": "Jeff Millar"
+    },
+    {
+      "text": "Fincher directs this chaotic fable with grace, urgency, and knockout stylistics.",
+      "author": "Bryant Frazer"
+    },
+    {
+      "text": "A fabulously berserk runaway train of a movie, David Fincher's Fight Club is post-MTV filmmaking at its most assured and courageous.",
+      "author": "Michael Atkinson"
+    },
+    {
+      "text": "If, as Fincher has said, this movie is supposed to be funny, then the joke's on us.",
+      "author": "Lisa Schwarzbaum"
+    },
+    {
+      "text": "Visually surrealistic, acted with integrity.",
+      "author": "Lawrence Toppman"
+    },
+    {
+      "text": "It's a compelling, entertaining film. Even when it's nihilistic, pessimistic and macabre, it's still eminently watchable and profound.",
+      "author": "Eric D. Snider"
+    },
+    {
+      "text": "Fight Club's long setup is the funniest stuff Fincher has ever directed, and it hits its corporate, materialistic target with better accuracy than Mike Judge's Office Space.",
+      "author": "Marty Mapes"
+    },
+    {
+      "text": "The cool charisma of Norton and Pitt is ... vital in seducing us, and both actors carry themselves confidently while speaking their dialogue with tough, throaty assurance.",
+      "author": "Ian Mantgani"
+    },
+    {
+      "text": "The director of Seven and The Game for the first time finds subject matter audacious enough to suit his lightning-fast visual sophistication, and puts that style to stunningly effective use.",
+      "author": "Janet Maslin"
+    },
+    {
+      "text": "This movie is almost hypnotically weird, and I liked it for that very reason. Not everyone will.",
+      "author": "Mike McGranaghan"
+    },
+    {
+      "text": "Extremely funny, surprisingly well-acted, and boldly designed -- at least until its steel-and-chrome souffl falls apart.",
+      "author": "J. Hoberman"
+    },
+    {
+      "text": "Laughably ludicrous.",
+      "author": "David Forsmark"
+    },
+    {
+      "text": "Cinematic pop art",
+      "author": "Bill Chambers"
+    },
+    {
+      "text": "Visin de los peligros psicolgicos en los que podemos caer gracias a nuestra tecnificada sociedad",
+      "author": "Jorge Avila Andrade"
+    },
+    {
+      "text": "This movie is dangerous.",
+      "author": "Cornell & Petricelli"
+    },
+    {
+      "text": "The Fight Club is a memorable and superior motion picture - a rare movie that does not abandon insight in its quest to jolt the viewer.",
+      "author": "James Berardinelli"
+    },
+    {
+      "text": "[Fincher's] Angry Young Man routine has never been more lively, more cleverly scripted, as well-acted or as nicely staged.",
+      "author": "Gary Thompson"
+    },
+    {
+      "text": "Fight Club rolls out its indictments and its Zen koans, but what it really resembles, perhaps unknowingly, is the squall of a whiny and essentially white-male generation that feels ruined by the privileges of women and a booming economy.",
+      "author": "Peter Rainer"
+    },
+    {
+      "text": "A wickedly funny assault on the soul-destroying nature of 20th-century consumerism",
+      "author": "John Hartl"
+    },
+    {
+      "text": "It's about being young, male and powerless against the pacifying drug of consumerism. It's about solitude, despair and bottled-up rage... It's about daring to imagine the disenfranchised reducing the world to rubble and starting over.",
+      "author": "Peter Travers"
+    },
+    {
+      "text": "A bloody, hilarious ride into the twisted recesses of the modern male psyche.",
+      "author": "Michael Wilmington"
+    },
+    {
+      "text": "Fight Club is a well-acted, well-directed film and will be on many top ten best films of the year lists. It will probably be on mine.",
+      "author": "Tony Toscano"
+    },
+    {
+      "text": "Fight Club combines a physical rush with an intelligent script and features wonderful performances of sharply-defined characters.",
+      "author": "Harvey S. Karten"
+    },
+    {
+      "text": "Norton gives one of the strongest performances of his career.",
+      "author": "Francesca Dinglasan"
+    },
+    {
+      "text": "Simply rough and thick! Even though it loses punch during its extended running time it is still a vibrant contribution to the film world",
+      "author": "Ross Anthony"
+    },
+    {
+      "text": "Fight Club is a fast paced rush of adrenaline boasting amazing performances from both Pitt and Norton.",
+      "author": "Andrew Manning"
+    },
+    {
+      "text": "This film kicks butt, and in doing so it also manages to suggest that your need for it and for other butt-kicking films is a late capitalist symptom of contemporary psychosis.",
+      "author": "Jonathan Beller and Rhonda Baughman"
+    },
+    {
+      "text": "Relentlessly funny.",
+      "author": "Robert Horton"
+    },
+    {
+      "text": "In the end, Fincher's brilliant film is, ironically, short in the cojones department.",
+      "author": "Adam Smith"
+    },
+    {
+      "text": "Crisis has never been so much fun.",
+      "author": "Ian Nathan"
+    },
+    {
+      "text": "What is also wonderful about it as a film is that it has the potential to foment real and not just reel discussion about our society, our values and the man-woman wars.",
+      "author": "Bruce Kirkland"
+    },
+    {
+      "text": "Crafted with great passion and wit.",
+      "author": "Graham Verdon"
+    },
+    {
+      "text": "Fight Club is a heady, brutal, raucously funny riot that sucks you into its right-brain fantasy.",
+      "author": "Duane Dudek"
+    },
+    {
+      "text": "If the first rule of Fight Club is 'Nobody talks about Fight Club,' a fitting subsection might be 'Why would anyone want to?'",
+      "author": "Kenneth Turan"
+    },
+    {
+      "text": "It has a power that cannot be denied. And its misogyny is only skin deep.",
+      "author": "MaryAnn Johanson"
+    },
+    {
+      "text": "Disturbing, often mesmerizing, occasionally funny and probably unlike anything else you've seen in a long time.",
+      "author": "Jim Judy"
+    },
+    {
+      "text": "Director Fincher knows atmosphere, and atmosphere is what you get.",
+      "author": "Christopher Null"
+    },
+    {
+      "text": "Along with the superior technical work, the movie shows off its three leads at their best.",
+      "author": "Steve Murray"
+    },
+    {
+      "text": "Fight Club is an empty shout of 'To hell with it all!'",
+      "author": "Jay Boyar"
+    },
+    {
+      "text": "...an incredibly brutal and pretentious film ostensibly about alienation in a modern desensitized world, a black comedy that entertains only on the most superficial level.",
+      "author": "John J. Puccio"
+    },
+    {
+      "text": "My main problem with Fight Club is that its mood and screenplay suggest an important film with something socially significant to say when in reality it's paper-thin stuff.",
+      "author": "Eugene Novikov"
+    },
+    {
+      "text": "The first half of Fight Club is wicked, venomous satire.",
+      "author": "Steve Schneider"
+    },
+    {
+      "text": "A likely front-runner at Oscar time in a number of categories, including Edward Norton for Best Actor, the movie is an inspired match of material and director.",
+      "author": "Judy Gerstel"
+    },
+    {
+      "text": "This was a lightweight film that mistakenly thinks it's in the heavyweight class.",
+      "author": "Dennis Schwartz"
+    },
+    {
+      "text": "Dares to question American values in the most inventive ways since Dr. Strangelove.",
+      "author": "Rob Blackwelder"
+    },
+    {
+      "text": "A misguided but visually entrancing film that works better as satire.",
+      "author": "Michael W. Phillips, Jr."
+    }
+  ],
+  "release_year": 1999,
+  "duration": 139,
+  "genres": [
+    "Mystery & Thriller",
+    "Drama"
+  ],
+  "age_rating": "R",
+  "synopsis": "A depressed man (Edward Norton) suffering from insomnia meets a strange soap salesman named Tyler Durden (Brad Pitt) and soon finds himself living in his squalid house after his perfect apartment is destroyed. The two bored men form an underground club with strict rules and fight other men who are fed up with their mundane lives. Their perfect partnership frays when Marla (Helena Bonham Carter), a fellow support group crasher, attracts Tyler's attention.",
+  "popularity": 9.6,
+  "poster_url": "https://image.tmdb.org/t/p/original/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+}

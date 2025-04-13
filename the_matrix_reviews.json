@@ -1,0 +1,858 @@
+{
+  "movie_name": "The Matrix",
+  "movie_id": "matrix",
+  "total_reviews": 210,
+  "reviews": [
+    {
+      "text": "Making a great film that's a psychedelic, kung-fu-inspired meditation on the human condition is a tall order. The Matrix delivers on all that & more.",
+      "author": "Nadir Samara"
+    },
+    {
+      "text": "“The Matrix” is the AI prophecy and wake-up call the human race is in dire need of. Watching the 2024 re-release is highly recommended.",
+      "author": "Mark Jackson"
+    },
+    {
+      "text": "An amazing cocktail of martial arts, shootouts, philosophy, romance, fantasy, revolutionary visual effects and perfect casting. “The Matrix” surprised us 25 years ago, and it continues to surprise us in the Year of Our Lord 2024. Full review in Spanish.",
+      "author": "Sebastian Zavala Kahn"
+    },
+    {
+      "text": "The Wachowskis proceed to turn the world as we know it into a virtual reality landscape with a 20th century tech-noir look (lit with a sickly green hue, like the glow of an old IBM computer screen) and the physics of a video game.",
+      "author": "Sean Axmaker"
+    },
+    {
+      "text": "A $60 million, high-tech assault on the senses and a pretentious insult to the mind.",
+      "author": "Dan DiNicola"
+    },
+    {
+      "text": "A cyberpunk thriller that's so much fun to watch, it could single-handedly reboot the genre.",
+      "author": "Christopher Brandon"
+    },
+    {
+      "text": "The Wachowskis seem to be saying that while state-of-the-art effects speak for themselves, loud and clear, there's still room amid all the kicking and shooting and shouting for the carefully observed human emotion.",
+      "author": "Bill Gallo"
+    },
+    {
+      "text": "Though The Matrix ultimately overdoses on gloom-and-doom grunge, over-elaborate cool and especially running time, it's just clever enough to enable [the Wachowskis] to nix the sophomore jinx following 1996's Bound.",
+      "author": "Mike Clark"
+    },
+    {
+      "text": "I know almost nothing of the intricate techniques that make The Matrix as eye-filling as it is brain-numbing, but I can tell you that... [its visuals] are wondrous to behold.",
+      "author": "Joe Morgenstern"
+    },
+    {
+      "text": "If you're looking for a good spring fix of existentialist sci-fi, look no further than The Matrix -- then do everything you can to look deeper than the skin-tight surface.",
+      "author": "Katherine Monk"
+    },
+    {
+      "text": "Although it's sometimes too confounding for its own good and a little heavy on the Zen-inspired techno-babble, The Matrix is a consistently absorbing assault on the senses.",
+      "author": "Michael D. Reid"
+    },
+    {
+      "text": "There's more form than content in The Matrix, but Bill Pope's swooping, noir-inflected cinematography is wonderfully complemented by Owen Paterson's inventive production design, a great soundtrack and the best fight choreography this side of Hong Kong.",
+      "author": "Manohla Dargis"
+    },
+    {
+      "text": "Give [the Wachowskis] an A for effort and three A's for those effects. The Matrix is a dazzlingly original visual adventure.",
+      "author": "Jack Mathews"
+    },
+    {
+      "text": "Casting the robotic Reeves as the hope of humanity may be this oppressively long, self-satisfied movie's funniest gag, but it doesn't really make the game any fun. It means we get stuck with the least interesting player.",
+      "author": "Terry Lawson"
+    },
+    {
+      "text": "The Matrix's pleasures are considerable, but they're all purely visceral, too, lacking the mythology that would have elevated the movie. The movie is best taken as the first entry in a brand-new genre: post-modern sci-fi pulp.",
+      "author": "Rene Rodriguez"
+    },
+    {
+      "text": "How could filmmakers who are so skilled and imaginative lose themselves (and us) in what feels like a college stab at Aldous Huxley metaphysics?",
+      "author": "Stephen Cole"
+    },
+    {
+      "text": "A futuristic paranoia extravaganza, it would seem to have far more appeal to an artificial intelligence than it would to human beings and other carbon-based life forms.",
+      "author": "Jay Boyar"
+    },
+    {
+      "text": "An interminable, sterile, exercise in cinematographic onanism.  [Full review in Spanish]",
+      "author": "Rene Jordan"
+    },
+    {
+      "text": "Like last year's Dark City, the effects and storyline of The Matrix plow through enough fresh territory to make it worth seeing.",
+      "author": "Gary Wolcott"
+    },
+    {
+      "text": "Visually, at least, The Matrix more than lives up to its billing. Writer-directors [the Wachowskis] seem to literally bring the screen to life with action scenes that define the word kinetic.",
+      "author": "Ron Weiskind"
+    },
+    {
+      "text": "The Matrix isn't a film that is acted, exactly, but Reeves and Fishburne are both just swell and Weaving is a lot of fun as bad Agent Smith. And some of the small ideas are intriguing ones. They're the stuff of which sci-fi classics are made.",
+      "author": "Jay Stone"
+    },
+    {
+      "text": "It's rare, and kind of touching, really, to see a lushly financed studio spectacular work so hard to keep everyone's attention. And with enough symbolism to keep online chat rooms busier than the day Babylon 5 was cancelled.",
+      "author": "Elvis Mitchell"
+    },
+    {
+      "text": "With pounding assurance, The Matrix scores as a real triumph of technical special-effects-driven filmmaking. Sad, though, that the Wachowskis end up letting the machines run away with the show.",
+      "author": "Dennis King"
+    },
+    {
+      "text": "A complete lack of story logic, coupled with the narrative's propensity for meandering mumbo-jumbo, makes this a movie best seen and not heard.",
+      "author": "Glenn Whipp"
+    },
+    {
+      "text": "I found The Matrix more interesting than a lot of other action films because the plot wasn't laid out simplistically just so the bad guys could get their comeuppance from the goodies.",
+      "author": "Margaret Pomeranz"
+    },
+    {
+      "text": "The Matrix asks you to root for the freedom-loving rebels against the robotic agents, but both seem equally mechanical.",
+      "author": "Mark Jenkins"
+    },
+    {
+      "text": "What could be heavy-handed or just plain corny ends up as good science fiction should -- provoking thought and eliciting questions about our Now by handing us a Future unthinkable but at the same time quite plausible.",
+      "author": "Ted Anthony"
+    },
+    {
+      "text": "Anyone caught in the act of taking The Matrix seriously definitely needs to reboot. But then, so what? It's jolly good fun anyway. That's because it's a sterling specimen of that new cinematic genre, cyber-twaddle.",
+      "author": "Jeff Simon"
+    },
+    {
+      "text": "While the new sci-fi thriller The Matrix won't win any prizes for its script or its acting, it may be the most outlandish feat of futurism since Blade Runner.",
+      "author": "Joe Williams"
+    },
+    {
+      "text": "What we are seeing here is the death of one kind of cinema and, possibly, the birth of another. One that's getting closer to the computer games that people play at home... The Matrix doesn't succeed on any other level except this.",
+      "author": "Alexander Walker"
+    },
+    {
+      "text": "The constant temptation during The Matrix is to giggle at its absurdity while marvelling at its visual verve. But in Wachowski world, giggling doesn't seem an unacceptable option. One leaves the cinema feeling raucous and light-headed.",
+      "author": "David Gritten"
+    },
+    {
+      "text": "There's much to relish in this virtuoso slice of sci-fi nonsense. Forget trying to follow the garbled plot; it's just a peg on which to drape all manner of visuals.",
+      "author": "Xan Brooks"
+    },
+    {
+      "text": "Superman's got nothing on indestructible Keanu Reeves... He's a lean, mean superhero in this excellent and often eye-boggling adventure in the cyberworld.",
+      "author": "Quentin Falk"
+    },
+    {
+      "text": "The Matrix is just the right film to put Keanu back on track; an exhilarating, exciting cyber thriller with all the brains of a headless chicken.",
+      "author": "Siobhan Synnot"
+    },
+    {
+      "text": "By the time you've reached the end of its breathtaking, mind-popping ride, the last thing you'll want to worry your head about is whether it made any sense.",
+      "author": "Mike Davies"
+    },
+    {
+      "text": "[It seems] the Wachowskis are part of the multimedia generation of filmmakers to whom technology is no longer the means but the end itself. In which case the future looks terminal.",
+      "author": "Andrew Anthony"
+    },
+    {
+      "text": "Rarely has a blockbuster been so enjoyable. Superbly staged and edited, it never loses its drive and intrigue. Reeves has come a long way as an actor since the woeful Johnny Mnemonic, and so has the entire cyberpunk genre on screen.",
+      "author": "Adrian Martin"
+    },
+    {
+      "text": "Some of the best science fiction of recent times have convinced us that something important is at stake in what happens to the characters. But the Wachowskis' plot seems to be in the service of the special effects rather than the other way around.",
+      "author": "Tom Ryan"
+    },
+    {
+      "text": "The visual effects are impressive, but the movie’s overall style is wearing... The cumulative effect is perversely deflationary: long before it’s over, the film has flushed the paranoia from its system.",
+      "author": "Dennis Lim"
+    },
+    {
+      "text": "An eye-popping but incoherent extravaganza of morphing and superhuman martial arts. Ultra-cool visuals that truly deliver something new to the sci-fi action lexicon will make this time-jumping thriller a must-see among genre fans.",
+      "author": "Todd McCarthy"
+    },
+    {
+      "text": "Tediously silly and way too long, this defiantly deadening cyber-fantasy is too illogical to be science fiction, too dark to amuse photography buffs and too dreary to entertain special-effects fanatics.",
+      "author": "Bob Ross"
+    },
+    {
+      "text": "Extremely good at translating comics to film, [the Wachowskis] know all the tricks of diversion. Their latest film, The Matrix, doesn't make a whit of sense but it's so much fun audiences won't care what they're supposed to learn.",
+      "author": "Bruce R. Miller"
+    },
+    {
+      "text": "As a special effects tour-de-force and example of producer Joel Silver's credo that nothing exceeds like excess, it exerts a campy, kinetic appeal. The Matrix is so awful, it's almost awesome.",
+      "author": "John Griffin"
+    },
+    {
+      "text": "An amazing-looking movie crammed with how-did-they-do-that special effects of startling inventiveness. As narrative, The Matrix can hardly be called original, but at least the Wachowskis rip off the best.",
+      "author": "Robert W. Butler"
+    },
+    {
+      "text": "The Wachowskis have created a film that is often thrilling to watch but maddening to think about. The plot is weak and the dialogue combines technical manual language with half-baked religious cant. But Weaving makes a deliciously detestable [villain].",
+      "author": "Malcolm Johnson"
+    },
+    {
+      "text": "This is a film so gorged on computer game aesthetics that the theatre seats ought to have joysticks... It's already a hit after one weekend in the U.S., but for me, \"Game Over\" was a long time coming.",
+      "author": "Paul Byrnes"
+    },
+    {
+      "text": "For a cyber-techno action thriller, though, the film lacks imagination.",
+      "author": "Jim Schembri"
+    },
+    {
+      "text": "Given a budget that encourages their kinesthetic skills, the filmmakers tend to go on a bit, but it's mostly a kind of quick, glancing hipness that's being indulged here. And that's a rare and welcome commodity in mass-market moviemaking these days.",
+      "author": "Richard Schickel"
+    },
+    {
+      "text": "It's not just that The Matrix is to overblown silliness as Mount Rushmore is to big stone heads. To demonstrate their power, the makers of this trailer/video game/theatrical come-on have taken something precious to me... and tossed it onto the fire.",
+      "author": "Stuart Klawans"
+    },
+    {
+      "text": "Hang on tight for a real mind-blower, with astonishing visual effects, frightening monsters and exciting stunt fights, as the film inexorably reveals the terrifying answer to \"What is the Matrix?\"",
+      "author": "Tom Sander"
+    },
+    {
+      "text": "The Matrix offers the most exhilaratingly inventive action sequences to come down the pike in years.",
+      "author": "Steven Rea"
+    },
+    {
+      "text": "It's to the credit of \"Matrix\" that descriptions of its plot have to be generic. It contains a ton of surprises and mostly makes sense on its own daffy terms.",
+      "author": "Gary Thompson"
+    },
+    {
+      "text": "[The Wachowskis] ought to get credit for the striking visual effects... Too bad the Wachowskis couldn’t plug all that hardware into a story able to sustain anyone’s interest past the first 30 minutes. Is it too late to take the other pill?",
+      "author": "Philip Booth"
+    },
+    {
+      "text": "The Matrix slams you back in your chair, pops open your eyes and leaves your jaw hanging slack in amazement. Though it stumbles occasionally into ponderous exposition and some unintentional giggles, it's a smashing entertainment.",
+      "author": "Shawn Levy"
+    },
+    {
+      "text": "Outside of the scenes of hysterical destruction and moderate suspense, the rhythms of The Matrix are positively languorous; where there isn't hard-core action, shots shift like water lapping against a disinterested shore.",
+      "author": "John Anderson"
+    },
+    {
+      "text": "Any description of this smart futuristic thriller is inadequate in conveying the striking visual wonders within.",
+      "author": "Sean P. Means"
+    },
+    {
+      "text": "Much of the time, you wonder what all the fighting is about. At 135 minutes, the movie seems longer than a millennium.",
+      "author": "Philip Wuntch"
+    },
+    {
+      "text": "Keanu is so vehemently semi-talented he's actually gotten to the point where he seems to be snickering at his own uncomprehending performances, right there in front of you.",
+      "author": "Paul Tatara"
+    },
+    {
+      "text": "The Matrix is a journey into a genuinely original vision of our cyber-future that will have you checking your own reality by the time it's over.",
+      "author": "Marshall Fine"
+    },
+    {
+      "text": "A smartly calibrated mix of thrills and thoughtfulness, The Matrix sends you out of the theater looking forward to the sequel. When was the last time you felt that way about a movie?",
+      "author": "Steve Murray"
+    },
+    {
+      "text": "The writing remains more intelligent than most thrillers, and the action is executed with such panache that even if you don't buy the reality of The Matrix, it's a helluva place to visit.",
+      "author": "Mark Caro"
+    },
+    {
+      "text": "The performances by Fishburne, Moss, and Hugo Weaving as a relentless agent are noteworthy, but the real stars of The Matrix are [the Wachowskis] and their slick, gothic future world.",
+      "author": "Tom Meek"
+    },
+    {
+      "text": "Supposedly, [the Wachowskis] have been working on The Matrix since before they made Bound. Unfortunately, they seem to have been busy adding to it rather than paring and simplifying. Their script manages to be both silly and dense.",
+      "author": "Jay Carr"
+    },
+    {
+      "text": "The Matrix became an achievement in blockbuster filmmaking as soon as it was released. It remains one of the most quotable, memorable, and enjoyable films to throw on for a few hours.",
+      "author": "Alan French"
+    },
+    {
+      "text": "By remaining so accessible yet thoughtful, The Matrix transcends its narrative downfalls through its influence and insight—characteristics that continue to define the Wachowskis' unique brand of ambitious entertainment.",
+      "author": "Brian Eggert"
+    },
+    {
+      "text": "The Matrix does a good job of repackaging Baudrillard’s critique of hyperreality, as well as riffing on Christ, Marx, Lewis Carroll, and L. Frank Baum.",
+      "author": "Bill Stamets"
+    },
+    {
+      "text": "A cinematic landscape without The Matrix would be as barren as the scorched earth above Zion.",
+      "author": "Danilo Castro"
+    },
+    {
+      "text": "The Wachowski sisters tackle the most gigantic questions known to humanity -- reality, identity, knowledge, causality, memory -- with a spirit of play.",
+      "author": "Brian Phillips"
+    },
+    {
+      "text": "Generally as intellectually rewarding as it is viscerally captivating.",
+      "author": "David Nusair"
+    },
+    {
+      "text": "While certain aspects have now lost their shine, either due to outdated CG or just being parodied so damn much, they can't take away from the original's pull, even in 2021.",
+      "author": "David Hogan"
+    },
+    {
+      "text": "Overall, for a complicated scenario, things are pretty tight story wise and the film noir feel adds to the aesthetics.",
+      "author": "James Croot"
+    },
+    {
+      "text": "To say that it must be seen for yourself is no understatement.",
+      "author": "Mike Massie"
+    },
+    {
+      "text": "I’d go so far as to boldly say it’s basically a perfect movie.",
+      "author": "Debbie Holloway"
+    },
+    {
+      "text": "Whoa! A film that without a doubt left its mark on cinema and pop culture. One of the best sci-fi films of all time. [Full review in Spanish]",
+      "author": "Fico Cangiano"
+    },
+    {
+      "text": "The Matrix isn't just a movie, it's an entire philosophy that also examines metamorphosis and personal transformation to mirror The Wachowskis' own personal journeys as trans women.",
+      "author": "Sezín Koehler"
+    },
+    {
+      "text": "The [Wachowskis] have \"borrowed\" bits from here, there, and everywhere, and they have ended up creating a two hour and fifteen minute jumble of cultural and philosophical references with violence to spare, but precious little clarity or logic.",
+      "author": "Kathi Maio"
+    },
+    {
+      "text": "The Matrix still stands up as a fiercely exciting and discombobulating futurist drama, which pioneered breathtaking \"bullet-time\" action sequences inspired by Asian martial arts.",
+      "author": "Peter Bradshaw"
+    },
+    {
+      "text": "The Matrix is an inner-circle sci-fi Hall of Famer, a visual trendsetter, and a cultural touchstone that remains culturally prominent today.",
+      "author": "Ben Lindbergh"
+    },
+    {
+      "text": "Neo offers Reeves the perfect combination of Ted Theodore Logan's curiosity and wonder, Johnny Utah's earnestness and the badassedness of Jack Traven.",
+      "author": "Adam Kempenaar"
+    },
+    {
+      "text": "The Matrix comes across as hallucinatory cinema. The success of the film is that these mesmerizing hallucinations tie in so intricately with the picture’s themes.",
+      "author": "Josh Larsen"
+    },
+    {
+      "text": "Full to the brim with eye-popping effects and \"How'd they do that?\" stuntwork, it yearns to have audiences be utterly enraptured in its created reality.",
+      "author": "Zaki Hasan"
+    },
+    {
+      "text": "It’s still just goofy fun, but its perspective reminds us that all voices need a seat at the table. The Kung Fu Awesome is just a way to connect to the bigger picture -- ludicrous and over-the-top, but reveling in an all-too-rare fresh perspective.",
+      "author": "Rob Vaux"
+    },
+    {
+      "text": "A technologically stunning movie that furthers the genre and features crowd-pleasing performances to go with the frequent scenes of gunplay and violence.",
+      "author": "David Hunter"
+    },
+    {
+      "text": "Extremely violent, extremely preposterous, extremely entertaining, The Matrix succeeds at two extremely difficult tasks: as a vast, exciting virtual-reality movie and as a defibrillator for Keanu Reeves' big screen career.",
+      "author": "Keith Simanton"
+    },
+    {
+      "text": "The effects are astonishing. It's funny, it's dark, it's smart and it's filled with guns, lots of guns. A landmark film and quite possibly the ultimate expression of cyberpunk.",
+      "author": "Film4 Staff"
+    },
+    {
+      "text": "The Matrix is a movie experience like no other, and experience is what it's all about. It explodes with dazzling visuals and a transcendent sense of excitement.",
+      "author": "Chris Kridler"
+    },
+    {
+      "text": "Thematically complex, yet intelligently integrating eastern philosophy, Lewis Carroll and ancient mysticism.",
+      "author": "Alan Jones"
+    },
+    {
+      "text": "[The Wachowskis] have gone further with the action genre than you'd have ever thought possible.",
+      "author": "Total Film Staff"
+    },
+    {
+      "text": "The Matrix is tough to explain, but then how much explaining does an amusement park ride require?",
+      "author": "Leah Rozen"
+    },
+    {
+      "text": "In its cavalier and wasteful manner, The Matrix, directed by the Chicago-based team of [the Wachowskis], achieves a brazenly chic high style -- black-on-black, airborne, spasmodic.",
+      "author": "David Denby"
+    },
+    {
+      "text": "As far as sheer spectacle goes, it's the most exciting thing to come along in quite a while. Where other films are done in by the freedom offered by computer effects, The Matrix integrates them beautifully.",
+      "author": "Keith Phipps"
+    },
+    {
+      "text": "Inspired by different sources (including Japanese anime), The Matrix is a new kind of movie, a visionary mixture of technology, philosophy and thrilling action.",
+      "author": "Emanuel Levy"
+    },
+    {
+      "text": "Exploding with spine-tingling, sensational special effects, The Matrix dazzles with sci-fi intrigue and mind-boggling technological concepts, effectively pitting perceptions of reality against fantasy, the future with the present.",
+      "author": "Louise Keller"
+    },
+    {
+      "text": "It's that balance between blockbuster-style action sequences and in-depth philosophical undertones that I've always admired about The Matrix.",
+      "author": "Leo Goldsmith"
+    },
+    {
+      "text": "It can be confusing for both the audience and the characters in the movie. But it's certainly an ideal pick for the kind of teen who wishes that video games could come to life.",
+      "author": "Nell Minow"
+    },
+    {
+      "text": "Exemplifies the idea that a sufficiently cool outcome justifies all of the tortured narrative it takes to get there.",
+      "author": "Tim Brayton"
+    },
+    {
+      "text": "Other than some caveats, this is an innovative and original science fiction entry...",
+      "author": "Felix Vasquez Jr."
+    },
+    {
+      "text": "There's still more surface here than substance, intriguing though that substance may be.",
+      "author": "John J. Puccio"
+    },
+    {
+      "text": "Dimension-hopping has never been so exhilarating and breathlessly lyrical as brilliant visuals and bracing Hong Kong action stunts punch through lengthy streams of technobabble.",
+      "author": "Mark Halverson"
+    },
+    {
+      "text": "Time and imitators have chipped away at The Matrix's aura of originality and innovation, but the movie remains rousing entertainment two decades later, and it looks better than ever in Dolby Cinema.",
+      "author": "Steve Biodrowski"
+    },
+    {
+      "text": "The paranoid details of the premise are thoroughly worked out; the characters and motives, much less so.",
+      "author": "Rob Gonsalves"
+    },
+    {
+      "text": "Us it the \"most dynamic sci-fi since Blade Runner\"? Hardly, as it rips off from other sources too much to have its own style. But its definitely one of the best sci-fi films in the last few years.",
+      "author": "Garth Franklin"
+    },
+    {
+      "text": "With an arsenal of cool f/x at their disposal, they've come up with a dizzyingly enjoyable junk movie that has just enough on its mind to keep the pleasure from being a guilty one.",
+      "author": "David Ansen"
+    },
+    {
+      "text": "There is no denying that fact that [the Wachowskis] have amazing imagination and vision. They direct the film with non-stop style and imbue each scene with enough eye-candy to make you stop noticing the gaping plot holes and lapses in logic.",
+      "author": "Joe Lozito"
+    },
+    {
+      "text": "There's not much humor to keep it all life-size, and by the final stretch it's become bloated, mechanical, and tiresome.",
+      "author": "Jonathan Rosenbaum"
+    },
+    {
+      "text": "An inventive science fiction idea that rivals the brilliant thinking behind such movies from last year as Dark City and The Truman Show.",
+      "author": "Jeffrey M. Anderson"
+    },
+    {
+      "text": "Weaving is engagingly odd as the rebels' arch enemy Smith, but even he can't hold the attention in what's finally yet another slice of overlong, high concept hokum.",
+      "author": "Geoff Andrew"
+    },
+    {
+      "text": "It's incredible.",
+      "author": "John Venable"
+    },
+    {
+      "text": "If you're curious where the next generation of auteurs is coming from, look in the art houses and look in The Matrix.",
+      "author": "Ron Wells"
+    },
+    {
+      "text": "The most impressive trick has nothing to do with deep thought or clever references, but how the Wachowskis were able to synthesize the raw material into one of the slammingest action films ever created.",
+      "author": "Phil Villarreal"
+    },
+    {
+      "text": "All I can say is wow. This movie took me by complete surprise. After all the recent sci-fi flops, I didn't expect anything good could come from Hollywood, especially a movie that taps into the computer culture. But The Matrix delivers in spades.",
+      "author": "Bullz-Eye Staff"
+    },
+    {
+      "text": "A tighter, cleaner story could only have helped The Matrix become one of the greats of its genre. I still like it a bunch.",
+      "author": "Robin Clifford"
+    },
+    {
+      "text": "The Matrix grabs you by the eyeballs, hypnotizes you into a state of visual ecstasy, and doesn't much care if your brain is following or not.",
+      "author": "Jeannette Catsoulis"
+    },
+    {
+      "text": "A wild ride, and worth the ticket price if only for the first-rate special effects. There's enough visionary work here to hold your attention for all 130 minutes.",
+      "author": "Jeffrey Overstreet"
+    },
+    {
+      "text": "A terrifically entertaining and satisfying production.",
+      "author": "Jesse Hassenger"
+    },
+    {
+      "text": "This film is triumph of style over substance.",
+      "author": "Dragan Antulov"
+    },
+    {
+      "text": "It is a problem with the film that its warnings are indistinguishable from its endorsements. You can read this either as ambivalence or vacuousness -- either way, any hint of magic is denied.",
+      "author": "Ryan Gilbey"
+    },
+    {
+      "text": "The problem with The Matrix is that the enormously talented [Wachowskis] think their playful premise has metaphysical implications.",
+      "author": "Leonard Schwarz"
+    },
+    {
+      "text": "A strikingly innovative action film. It’s also unabashedly derivative.",
+      "author": "Steven D. Greydanus"
+    },
+    {
+      "text": "This is not a brainless actioner that leaves your cerebrum pounding like the heavy metal tunes featured in the film. No, The Matrix is quite possibly the greatest video game film ever made without being based on an actual video game.",
+      "author": "Michael Brody"
+    },
+    {
+      "text": "The Matrix is a super-dupper sci-fi thriller that reveals the human imagination as a saving force in the universe.",
+      "author": "Frederic and Mary Ann Brussat"
+    },
+    {
+      "text": "For those who have been waiting for movies to catch up with the graphic possibilities of comic books, wait no longer: The Matrix is among us.",
+      "author": "Ray Conlogue"
+    },
+    {
+      "text": "Nestling next to The Terminator and Metropolis, this is one the finest sci-fi flicks ever made. What is The Matrix? It's genius. And yes, we admit, you do have to see it for yourself.",
+      "author": "Nev Pierce"
+    },
+    {
+      "text": "Soon it all degenerates into conventional armed combat... Never mind -- I'll just go on living in my little deluded paradise. As long as the steak is juicy and the beer is cold, I don't mind if it's all make-believe.",
+      "author": "John R. McEwen"
+    },
+    {
+      "text": "The least humane, least responsible, least pardonable movie I have ever seen.",
+      "author": "Nick Davis"
+    },
+    {
+      "text": "It is rare for special effects to aid story as much as they do here, and it is equally rare for a sci fi blockbuster to build as much premise and intrigue as this one.",
+      "author": "Luke Buckmaster"
+    },
+    {
+      "text": "Revolutionary sci-fi fable pits kung fu against evil robots.",
+      "author": "James Rocchi"
+    },
+    {
+      "text": "An ambitious, perception-bending metaphor for life at the end of the 20th century. It doesn't always make sense, but it seems to make sense, which is the key thing in science fiction.",
+      "author": "Jeffrey Westhoff"
+    },
+    {
+      "text": "Una fotografa interesante, un guin inteligente, actuaciones convincentes, una historia trepidante, un soundtrack fuerte y bien realizado",
+      "author": "Luis Martinez"
+    },
+    {
+      "text": "If the Wachowskis claim no originality of message, they are startling innovators of method. As with Bound, the film is a feast of unexpected fidgets and perspectives",
+      "author": "Philip Strick"
+    },
+    {
+      "text": "The Matrix soars with its feet in the air -- the rest crash-lands.",
+      "author": "Peter Travers"
+    },
+    {
+      "text": "The Wachowskis are bold and daring appropriators -- there's nothing they can't recycle.",
+      "author": "Chuck Rudolph"
+    },
+    {
+      "text": "I must admit I kind of enjoyed The Matrix and all of its escapist fun.",
+      "author": "Jim Chastain"
+    },
+    {
+      "text": "When the storyline finally comes into focus, the movie takes off and never looks back.",
+      "author": "James Kendrick"
+    },
+    {
+      "text": "A wildly cinematic futuristic thriller that is determined to overpower the imagination, The Matrix combines traditional science-fiction premises with spanking new visual technology in a way that almost defies description.",
+      "author": "Kenneth Turan"
+    },
+    {
+      "text": "This was a very pleasant surprise and I hope that The Matrix doesn't go down in my movie history as the only movie of this genre to treat black people with some dignity and respect.",
+      "author": "Kamal  'The Diva' Larsuel"
+    },
+    {
+      "text": "While The Matrix does have a murky, illogical plot, it is an ambitious film that questions the very nature of reality. It reminds us that we can be deceived if we rely on only our five senses.",
+      "author": "Robert Roten"
+    },
+    {
+      "text": "Something that must be seen to be believed; a visionary achievement in filmmaking that delights the eye and the mind alike.",
+      "author": "Eugene Novikov"
+    },
+    {
+      "text": "A feat of alchemy, blending modest parts into a stunning whole that really has no business working as brilliantly as it does.",
+      "author": "Michael Dequina"
+    },
+    {
+      "text": "The film's a ride. Granted, it's a ride with a decent and well-thought out story behind it, but a ride nonetheless.",
+      "author": "Widgett Walls"
+    },
+    {
+      "text": "What is The Matrix? Cyber-kinetic futuristic fun for the whole family!",
+      "author": "JoBlo"
+    },
+    {
+      "text": "If you haven't had such a reality-blurring experience, run -- don't walk -- to see this film!",
+      "author": "Matt Diehl"
+    },
+    {
+      "text": "Who would have thought that a Keanu Reeves movie could be intellectually as well as visually satisfying?",
+      "author": "Matt Easterbrook"
+    },
+    {
+      "text": "The Matrix does indeed have a plot and sense of \"mythos\" that grounds it and makes it more than the sum of all of its special effects wizardry.",
+      "author": "Greg Dean Schmitz"
+    },
+    {
+      "text": "This is like Ray Bradbury visits Stephen King when they're both a little moody. The special effects abound keeping you riveted to the flick, of course I still threw on the feedbag o'popcorn.",
+      "author": "Emily Blunt"
+    },
+    {
+      "text": "The deliciously inventive Wachowskis have delivered the syntax for a new kind of movie: technically mind-blowing, style merged perfectly with content and just so damn cool.",
+      "author": "Ian Nathan"
+    },
+    {
+      "text": "And just what is the Matrix? Well, that would be telling. And it would effectively cut out what little conceptual guts power this latest exercise in pure, crazy, graphic novel-inflected cool.",
+      "author": "Gemma Files"
+    },
+    {
+      "text": "Writer-directors [the Wachowskis] have crafted a stunning fusion of a Hong Kong action film and a cyberpunk graphic novel.",
+      "author": "Madeleine Williams"
+    },
+    {
+      "text": "The Matrix is the best movie so far this year and I can't see another movie who can top it.",
+      "author": "Matt Lawrence"
+    },
+    {
+      "text": "Dazzles the eye, overwhelms the ear, and even challenges the intellect... However, the movie rocks during its first-half exposition and all but goes down the sewer in the formulaic action-adventure, shoot-'em- up culmination.",
+      "author": "Harvey S. Karten"
+    },
+    {
+      "text": "A reminder of how exhilirating it is when Hollywood hits a home run.",
+      "author": "Carlo Cavagna"
+    },
+    {
+      "text": "It won't insult your intelligence; in fact, like Keanu, you'll spend most of the film trying to figure it out. As for the rest: saliva will be evaporating from your wide open mouth as your jaw lowers at the glass-shattering special effects.",
+      "author": "Ross Anthony"
+    },
+    {
+      "text": "If virtual reality is the flavor of the month, plug me in to something like The Matrix, and give me a world where the adventure is worth two hours of my time.",
+      "author": "Scott Renshaw"
+    },
+    {
+      "text": "It's astonishing that so much money, talent, technical expertise and visual imagination can be put in the service of something so stupid.",
+      "author": "Bob Graham"
+    },
+    {
+      "text": "Reeves and Fishburne can flip and scramble all they want. But to an audience inured to spectacle, flipping and scrambling demonstrations don’t raise the pulse in this convoluted yet rudimentary yarn.",
+      "author": "Lisa Schwarzbaum"
+    },
+    {
+      "text": "Where most effects-laden extravanganzas aspire to be nothing more than a live-action comic book, The Matrix sees things with the venturesome clarity of a graphic novel.",
+      "author": "Wesley Morris"
+    },
+    {
+      "text": "A more technically dazzling synthesis of action choreography and cutting-edge computer graphics has not been seen since James Cameron's T2.",
+      "author": "Rod Dreher"
+    },
+    {
+      "text": "This dazzling pop allegory is steeped in a dark, pulpy sensibility that transcends nostalgic pastiche and stands firmly on its own merits.",
+      "author": "Maitland McDonagh"
+    },
+    {
+      "text": "It is escapist entertainment in the hottest, most illusion-driven, fastest, tumultuous action style, bridging genres with ease (one-against-the-system/sci fi/film noir/action/apocalyptic fable) and creating its own style in the process.",
+      "author": "Andrew L. Urban"
+    },
+    {
+      "text": "You may get a headache trying to decipher the ponderous storyline, but the amazing imagery will likely soothe your pain.",
+      "author": "Edward Johnson-Ott"
+    },
+    {
+      "text": "The Matrix did not bore me. It interested me so much, indeed, that I wanted to be challenged even more.",
+      "author": "Roger Ebert"
+    },
+    {
+      "text": "When there was so much potential for an intelligent story here the Wachowski Brothers have opted to spend most of their screen time on mindless action.",
+      "author": "Mark R. Leeper"
+    },
+    {
+      "text": "A surreal, icky, post-apocalyptic cyberpunk hacker mind-trip of a movie.",
+      "author": "David N. Butterworth"
+    },
+    {
+      "text": "Its ultimate master plan is to actually make you forget that it pretty much borrows ideas from almost every movie of its type ever made.",
+      "author": "Dustin Putman"
+    },
+    {
+      "text": "The Matrix not only is a failure as a science-fiction movie -- long on explanation, short on inspiration -- but it doesn't do anything interesting with the futuristic vision that it takes forever to explain.",
+      "author": "Steven Rosen"
+    },
+    {
+      "text": "Rarely have so many startlingly original images been thrown into a single storyline.",
+      "author": "Marc Savlov"
+    },
+    {
+      "text": "What [the Wachowskis] are good at is mixing style and visuals, and what we see on the screen is groundbreaking and fun to watch.",
+      "author": "Dennis Schwartz"
+    },
+    {
+      "text": "Before its done, The Matrix has managed a neat trick: It has been too, too complicated (in its setup) and too simple (in its resolution).",
+      "author": "Robert Denerstein"
+    },
+    {
+      "text": "One of the most visually stunning films of all time, and a welcome reminder as to why sci-fi fans, such as myself, became sci-fi fans in the first place.",
+      "author": "Alex Sandell"
+    },
+    {
+      "text": "It shouldn’t make a lick of sense, let alone feel all of a piece, but The Matrix is actually one of the more lyrical sci-fi action thrillers ever made, in which space and time become love slaves to the directors’ witty visual fancies.",
+      "author": "David Edelstein"
+    },
+    {
+      "text": "Aimed specifically at a young, male audience, this challenging sci-fi adventure is big on visuals and short on story.",
+      "author": "Susan Granger"
+    },
+    {
+      "text": "The Matrix is one dandy piece of eye candy, even if the taste is a little flat.",
+      "author": "Drew McAnulty"
+    },
+    {
+      "text": "[The Wachowskis] carefully weave together a combination of brooding drama and reality-bending spectacle on par with Akira or Ghost in the Shell.",
+      "author": "Tor Thorsen"
+    },
+    {
+      "text": "The Matrix presents its story with such steely conviction and vivid imagination that the staler elements of the story come off as almost revelatory.",
+      "author": "David Luty"
+    },
+    {
+      "text": "Not only is the film elaborately plotted, it's ingeniously realized.",
+      "author": "Duane Dudek"
+    },
+    {
+      "text": "A movie so visually enthralling, so exciting and so elaborate that it deserves nothing short of universal acclaim. It's lavish, fascinating, beautiful, magnificently written, well directed, and effectively executed in every way.",
+      "author": "David Keyes"
+    },
+    {
+      "text": "[The Wachowskis] have created a fast-paced science fiction spectacular that's highly entertaining, at least for those who enjoy plenty of action, martial arts and gun play.",
+      "author": "Brian Webster"
+    },
+    {
+      "text": "Science fiction at its purest and highest level. [Full review in Spanish]",
+      "author": "Jorge Avila Andrade"
+    },
+    {
+      "text": "The special effects in The Matrix, the futuristic science fiction-thriller, are worth the price of a ticket. The confusing story leaves a bit to be desired, but overall, this is a solid movie that is fun to watch.",
+      "author": "Gary Brown"
+    },
+    {
+      "text": "The story? It's not bad, but it definitely takes a back seat to the astounding visuals.",
+      "author": "Jon Popick"
+    },
+    {
+      "text": "There's a kind of liberating, almost transforming energy in this film; it lights you up and sends you out all giddy with silliness.",
+      "author": "Stephen Hunter"
+    },
+    {
+      "text": "Despite its contradictions and faulty logic, The Matrix remains an exciting, technically state-of-the-art example of rich science fiction, and it’s worth plugging into.",
+      "author": "Bill Chambers"
+    },
+    {
+      "text": "The concept is sufficiently creepy to drive the plot, and the overlay of both Alice in Wonderland and timeless mythology adds a dash of legitimacy to the otherwise adolescent fantasy.",
+      "author": "Marty Mapes"
+    },
+    {
+      "text": "Fasten your seatbelts and put on your thinking caps because [the Wachowskis] are back, and they're about to take you on a wild ride, one quite unlike any you've been on before.",
+      "author": "Steve Rhodes"
+    },
+    {
+      "text": "The Wachowskis throw everything from Greek myths to Lewis Carroll to Japanese anime into the mix, but they get away with it thanks to Bill Pope's bullet-fast camerawork, John Paterson's dystopic urban set designs, and exhilarating martial arts sequences.",
+      "author": "Kevin Maynard"
+    },
+    {
+      "text": "Hollywood has finally successfully captured [Hong Kong]'s action-filmmaking style in a star named Keanu Reeves and writer-directors [The Wachowskis].",
+      "author": "Annlee Ellingson"
+    },
+    {
+      "text": "With enough visual bravado to sustain a steady element of surprise, The Matrix makes particular virtues out of eerily inhuman lighting effects, lightning-fast virtual scene changes and the martial arts stunts that are its single strongest selling point.",
+      "author": "Janet Maslin"
+    },
+    {
+      "text": "It's ambitious to a fault and the plot is so ridiculously convoluted that some audiences will leave the theaters scratching their heads... But there also hasn't been a science-fiction film this entertaining for a long time.",
+      "author": "Jeff Vice"
+    },
+    {
+      "text": "The film’s metaphysics are the stuff of late-night dorm-room debates, mixed with literary allusions to Alice in Wonderland and Kakfa and everything in between. Not so mindblowing if you’ve read a few books, but then, not everybody has read a few books.",
+      "author": "MaryAnn Johanson"
+    },
+    {
+      "text": "The movie is kinetic, atmospheric, visually stunning, and mind-bending.",
+      "author": "James Berardinelli"
+    },
+    {
+      "text": "A special effects extravaganza with an honest-to-goodness head on its shoulders. That's both a good and a bad thing.",
+      "author": "Bryant Frazer"
+    },
+    {
+      "text": "The Matrix is packed with paranoia, non-stop action, and reality-bending visuals. Throw in an interesting story about the fate of mankind over the next two centuries, and you've got a fun sci-fi action flick.",
+      "author": "Andrew Manning"
+    },
+    {
+      "text": "Tottering uncertainly between assaultive techno-thriller and sludge-paced, hokum-riddled talkfest, The Matrix at the same time successfully updates some intriguing themes in science fiction.",
+      "author": "Arthur Salm"
+    },
+    {
+      "text": "A lot of the fighting and shoot-out scenes are positively balletic and great fun to watch.",
+      "author": "Amy Taubin"
+    },
+    {
+      "text": "Special kudos to the mysterious Wachowski tag team, who have created a lurid, splashy nightmare for the end of the millennium.",
+      "author": "Michael O'Sullivan"
+    },
+    {
+      "text": "Yes, it is hokey. But The Matrix keeps its tongue in cheek, is peppered with good looking special effects, is designed in stylishly noir decor, and is generally well paced.",
+      "author": "Arthur Lazere"
+    },
+    {
+      "text": "A science-fiction movie so dense that it even confused the people who created it. Still, The Matrix flings around enough imaginative ideas and digitized bodies to make it a definite check-out-this-one for all science-fiction fans.",
+      "author": "Bob Fenster"
+    },
+    {
+      "text": "Its flaws are hardly obscure, but when watching it, I was gleefully overlooking them because in essence I was having so much damn fun. I really haven't seen a film this electrifying, this full of life, at least in this form, since, oh, Bound.",
+      "author": "Ted Prigge"
+    },
+    {
+      "text": "The Matrix is fun. It's thought-provoking, especially if you are touched with a pinch of paranoia. It's loud, explosive and a movie science fiction fans will appreciate.",
+      "author": "Bob Bloom"
+    },
+    {
+      "text": "A fun combination of cerebral sci-fi elements and stunningly impressive action sequences.",
+      "author": "Jim Judy"
+    },
+    {
+      "text": "The Matrix is further evidence that today's filmmakers are prepared to spend ever-increasing millions on special effects and technology with scant regard for the script.",
+      "author": "Graham Young"
+    },
+    {
+      "text": "It may bore you to death or blow your mind -- and it's long and convoluted enough to do both -- but it holds nothing back.",
+      "author": "Andrew O'Hehir"
+    },
+    {
+      "text": "With its cool gadgets, natty outfits and smashing action-set pieces, Matrix kicks serious butt, virtual and otherwise.",
+      "author": "E! Staff"
+    },
+    {
+      "text": "The Matrix is a wonderful film. The action is intensely involving, executed with technical wizardry, and at times evokes the rhythm of Star Wars.",
+      "author": "Ian Mantgani"
+    },
+    {
+      "text": "The Matrix is a curiosity, and it's definitely a good ride. It's a handsome picture with extremely slick photography, computer-enhanced stunts and neo-goth atmosphere. The problem is it could have been so much more.",
+      "author": "Rob Blackwelder"
+    },
+    {
+      "text": "An exercise in sheer and unadulterated coolness.",
+      "author": "James O'Ehley"
+    },
+    {
+      "text": "The erratic plotting would be a built-in turn-off in most movies, but the Wachowskis manage to somehow turn chaos into an always intriguing, frequently nightmarish look into the dismal future.",
+      "author": "James Sanford"
+    },
+    {
+      "text": "What makes the film weirdly compelling is the sheer audacity of its screenplay, which has the courage (or craziness) to rocket into a whole new category each time the story threatens to run down.",
+      "author": "David Sterritt"
+    },
+    {
+      "text": "It is filled with exciting, strange and new images. It is dark yet shines brilliantly in a sea of predictable and boring action-adventure science fiction films.",
+      "author": "Wesley Lovell"
+    },
+    {
+      "text": "The visuals are just amazing! And not just the slow motion, fancy camera work either. The mood which is set by the lighting and the angles used in the fight scenes both add to the action and the atmosphere.",
+      "author": "Scott Nash"
+    }
+  ],
+  "release_year": 1999,
+  "duration": 136,
+  "genres": [
+    "Sci-Fi",
+    "Action",
+    "Mystery & Thriller"
+  ],
+  "age_rating": "R",
+  "synopsis": "Neo believes that Morpheus, an elusive figure considered to be the most dangerous man alive, can answer his question -- What is the Matrix? Neo is contacted by Trinity, a beautiful stranger who leads him into an underworld where he meets Morpheus. They fight a brutal battle for their lives against a cadre of viciously intelligent secret agents. It is a truth that could cost Neo something more precious than his life.",
+  "popularity": 8.5,
+  "poster_url": "https://image.tmdb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"
+}

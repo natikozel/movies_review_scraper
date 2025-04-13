@@ -801,7 +801,232 @@ def main(args):
 if __name__ == '__main__':
     # List of 100 popular movies from different genres and eras
     movies = [
-        "Titanic"
+        # Modern Action
+    "The Avengers",
+    "Fast & Furious 7",
+    "Wonder Woman",
+    "Deadpool",
+    "Logan",
+    "Aquaman",
+    "Captain America: Civil War",
+    "Suicide Squad",
+    "Black Widow",
+    "The Hunger Games",
+
+    # Modern Comedy
+    "The Proposal",
+    "Crazy Rich Asians",
+    "Girls Trip",
+    "Game Night",
+    "Booksmart",
+    "Horrible Bosses",
+    "The Hangover Part II",
+    "Ted",
+    "We're the Millers",
+    "21 Jump Street",
+
+    # Modern Animation
+    "Encanto",
+    "Moana",
+    "Coco",
+    "Zootopia",
+    "Despicable Me",
+    "How to Train Your Dragon",
+    "Big Hero 6",
+    "The Lego Movie",
+    "Frozen II",
+    "Raya and the Last Dragon",
+
+    # Modern Drama/Romance
+    "The Fault in Our Stars",
+    "La La Land",
+    "A Star Is Born",
+    "Silver Linings Playbook",
+    "The Theory of Everything",
+    "Call Me by Your Name",
+    "The Imitation Game",
+    "The Perks of Being a Wallflower",
+    "Me Before You",
+    "The Shape of Water",
+
+    # Modern Horror/Thriller
+    "Don't Breathe",
+    "Bird Box",
+    "Us",
+    "A Quiet Place Part II",
+    "The Invisible Man",
+    "Split",
+    "Midsommar",
+    "The Witch",
+    "Ready or Not",
+    "Happy Death Day",
+
+    # Modern Sci-Fi
+    "Arrival",
+    "The Martian",
+    "Edge of Tomorrow",
+    "Gravity",
+    "Ex Machina",
+    "District 9",
+    "Tenet",
+    "Prometheus",
+    "Annihilation",
+    "Life",
+
+    # Modern Fantasy/Superhero
+    "Doctor Strange",
+    "Fantastic Beasts and Where to Find Them",
+    "Venom",
+    "Shazam!",
+    "Thor: Ragnarok",
+    "Black Panther: Wakanda Forever",
+    "Guardians of the Galaxy",
+    "Ant-Man",
+    "Justice League",
+    "Spider-Man: Far From Home",
+
+    # Familiar but Controversial/Mixed Reception
+    "The Last Jedi",
+    "Batman v Superman: Dawn of Justice",
+    "Fifty Shades of Grey",
+    "The Greatest Showman",
+    "Bohemian Rhapsody",
+    "Transformers",
+    "After",
+    "The Twilight Saga: Breaking Dawn",
+    "Cats",
+    "The Emoji Movie",
+
+    # Popular Netflix/Streaming Originals
+    "Red Notice",
+    "The Gray Man",
+    "Extraction",
+    "The Irishman",
+    "Bird Box",
+    "Don't Look Up",
+    "Army of the Dead",
+    "Marriage Story",
+    "The Adam Project",
+    "The Old Guard",
+
+    # Young Adult/Teen Films
+    "To All the Boys I've Loved Before",
+    "Love, Simon",
+    "Five Feet Apart",
+    "The Maze Runner",
+    "Divergent",
+    "The Kissing Booth",
+    "The Duff",
+    "Pitch Perfect",
+    "After We Collided",
+    "Ready Player One"
+
+        "The Godfather",
+        "Casablanca",
+        "Gone with the Wind",
+        "Citizen Kane",
+        "The Wizard of Oz",
+        "It's a Wonderful Life",
+        "Singin' in the Rain",
+        "Psycho",
+        "12 Angry Men",
+        "Lawrence of Arabia",
+
+        # Action & Adventure
+        "Die Hard",
+        "Raiders of the Lost Ark",
+        "The Dark Knight",
+        "Mad Max: Fury Road",
+        "Gladiator",
+        "Terminator 2: Judgment Day",
+        "The Matrix",
+        "Top Gun",
+        "John Wick",
+        "Mission: Impossible - Fallout",
+
+        # Drama
+        "The Shawshank Redemption",
+        "Schindler's List",
+        "Forrest Gump",
+        "Titanic",
+        "The Green Mile",
+        "A Beautiful Mind",
+        "The Silence of the Lambs",
+        "American Beauty",
+        "Fight Club",
+        "Good Will Hunting",
+
+        # Sci-Fi
+        "Star Wars: Episode IV - A New Hope",
+        "Interstellar",
+        "Blade Runner",
+        "E.T. the Extra-Terrestrial",
+        "2001: A Space Odyssey",
+        "Avatar",
+        "Back to the Future",
+        "Alien",
+        "The Fifth Element",
+        "Inception",
+
+        # Comedy
+        "The Hangover",
+        "Superbad",
+        "Bridesmaids",
+        "Groundhog Day",
+        "Airplane!",
+        "Anchorman",
+        "When Harry Met Sally",
+        "The Big Lebowski",
+        "Ghostbusters",
+        "Dumb and Dumber",
+
+        # Animated
+        "The Lion King",
+        "Toy Story",
+        "Spirited Away",
+        "Finding Nemo",
+        "Spider-Man: Into the Spider-Verse",
+        "Frozen",
+        "Shrek",
+        "Up",
+        "Inside Out",
+        "WALL-E",
+
+        # Horror
+        "The Shining",
+        "Get Out",
+        "The Exorcist",
+        "Halloween",
+        "A Quiet Place",
+        "The Conjuring",
+        "Hereditary",
+        "The Thing",
+        "It",
+        "The Babadook",
+
+        # Fantasy
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "Harry Potter and the Philosopher's Stone",
+        "Pan's Labyrinth",
+        "The Princess Bride",
+        "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "Jurassic Park",
+        "Edward Scissorhands",
+        "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "Coraline",
+        "The NeverEnding Story",
+
+        # Recent Hits (2018-2023)
+        "Everything Everywhere All at Once",
+        "Parasite",
+        "Oppenheimer",
+        "Joker",
+        "Barbie",
+        "Dune",
+        "Top Gun: Maverick",
+        "The Batman",
+        "Knives Out",
+        "Black Panther"
     ]
 
     # Process each movie

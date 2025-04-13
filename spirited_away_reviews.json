@@ -1,0 +1,914 @@
+{
+  "movie_name": "Spirited Away",
+  "movie_id": "spirited_away",
+  "total_reviews": 224,
+  "reviews": [
+    {
+      "text": "Aided by fine sound design and an exemplary musical score from regular Ghibli composer Joe Hisaishi, the film boasts the detail and visual scale that mark Miyazaki's inimitable style. Simply perfect, from beginning to end.",
+      "author": "Calum Baker"
+    },
+    {
+      "text": "With an overall presentation that truly elevates it beyond a film and into an experience, Spirited Away earns its status as Hayao Miyazaki ’s magnum opus.",
+      "author": "Justin Kim"
+    },
+    {
+      "text": "Hayao Miyazaki’s Spirited Away is perhaps the greatest of all animated movies. It’s bizarre yet beautiful, creepy yet whimsical, and chock full of rich themes and unforgettable characters and imagery. It is a bona fide masterpiece.",
+      "author": "Calum Cooper"
+    },
+    {
+      "text": "10-year-old Chihiro's adventurous coming-of-age journey as she conquers her fears and makes new friends against Spirited Away's dazzling animation is as delightful as it gets.",
+      "author": "Sukanya Verma"
+    },
+    {
+      "text": "It’s a testament to a passionate filmmaker whose voice transcends the medium, elevating animation to the realm of art. It’s also, in this critic’s opinion, Hayao Miyazaki’s undeniable masterpiece.",
+      "author": "Paul Emmanuel Enicola"
+    },
+    {
+      "text": "Spirited Away reminds me of how our friends, our work family, or the people we pass by in life can become more familial than our blood relations.",
+      "author": "Jeffrey Peterson"
+    },
+    {
+      "text": "Spirited Away is one of those films that you have to see at least once in your life: a milestone in animation that shines both in form and substance. [Full review in Spanish]",
+      "author": "Carla Monfort"
+    },
+    {
+      "text": "A careful reframing of the typical coming-of-age narrative, Spirited Away displays a fondness those infinitely awkward years, while showing us all how important they were in making us who we are today.",
+      "author": "Jordan Brooks"
+    },
+    {
+      "text": "As with every Miyazaki picture, Spirited Away wants to at once amaze and familiarize you with an impossible dream, but it remains unique within his oeuvre for cementing that narrative desire into the essential groundwork of the story.",
+      "author": "Brian Eggert"
+    },
+    {
+      "text": "Listen to Miyazaki's message. Be good. Be strong. Then sit back and bask in his brilliance.",
+      "author": "Kathryn Greenaway"
+    },
+    {
+      "text": "Visually, this is a magnificent example of Japanese animation. The story is another matter. At times, the shifting plot is almost too complex for explanation.",
+      "author": "Rick Bentley"
+    },
+    {
+      "text": "This is an animated film of graphic splendor, with its realistic, often painterly backgrounds and characters who are as fanciful as the Wild Things of Maurice Sendak.",
+      "author": "Malcolm Johnson"
+    },
+    {
+      "text": "In Miyazaki's hands, mundane actions like pulling a lever or pouring a cup of tea become beautiful endeavors.",
+      "author": "Leigh-Ann Jackson"
+    },
+    {
+      "text": "Spirited Away has all the hallmarks of great Japanese design and there are many, many moments of wit and breathtaking beauty.",
+      "author": "Eleanor O'Sullivan"
+    },
+    {
+      "text": "The film is strewn with casual poetry. Its colors, often blue and green, are muted and weak, like a tear-spattered love letter.",
+      "author": "Sukhdev Sandhu"
+    },
+    {
+      "text": "All in all, Spirited Away is a better animated feature film than anything to come out of Disney in the last 50 years.",
+      "author": "Jeet Heer"
+    },
+    {
+      "text": "Spirited Away is no secondhand fairytale retread; it's a fully imagined universe, populated by wondrous beings and haunting landscapes.",
+      "author": "Scott Von Doviak"
+    },
+    {
+      "text": "Spirited away is so visually imaginative that it bears its thematic burden without ever seeming weighed down by it.",
+      "author": "Kris Meen"
+    },
+    {
+      "text": "The plot starts suffering from dèjá vu before it's even half over. There are only so many octopus men, stink spirits and pig people you can take before they all start to blend together.",
+      "author": "Jeff Strickler"
+    },
+    {
+      "text": "Backgrounds have been fashioned with the delicacy of fine water colors. But for all that, Spirited Away left me pretty cold. Emotionally it's remote; narratively it seems to always be circling and never landing.",
+      "author": "Robert W. Butler"
+    },
+    {
+      "text": "Although you must admire Miyazaki's imagination, you crave cohesion in his storytelling... Spirited Away was a smash in Japan, but something gets lost in the translation here.",
+      "author": "George M. Thomas"
+    },
+    {
+      "text": "The fairy tale adventure is a wonderful exercise in storytelling imagination.",
+      "author": "Christian C. Rix"
+    },
+    {
+      "text": "It's the rare movie that completely creates its own world, envelops you in it, and leaves you dazed and amazed.",
+      "author": "Todd Lothery"
+    },
+    {
+      "text": "Spirited Away... should connect with almost anyone who sees it. The atmosphere is gentler and more in tune with the rhythms of universal myths and fairy tales.",
+      "author": "Noel Murray"
+    },
+    {
+      "text": "It held me transfixed for more than two hours, and I never sat back merely admiring Miyazaki's virtuosity.",
+      "author": "Philip French"
+    },
+    {
+      "text": "Yes, this is a children's movie, but it has a sense of magic and maturity that people of all ages can embrace and enjoy.",
+      "author": "Gary Wolcott"
+    },
+    {
+      "text": "Like a trip on the movie’s interurban, Spirited Away is less than expeditious, but it offers fascinating vistas to pass the time.",
+      "author": "Mark Jenkins"
+    },
+    {
+      "text": "Spirited Away stands as a work of unparalleled genius.",
+      "author": "Jason Solomons"
+    },
+    {
+      "text": "What makes Spirited Away an overflowing spectacle is Miyazaki's torrential inspiration.  [Full review in Spanish]",
+      "author": "Casimiro Torreiro"
+    },
+    {
+      "text": "Its funny, inexplicable transformations are closer to vintage Fleischer Bros than Disney.",
+      "author": "J. Hoberman"
+    },
+    {
+      "text": "The underlying worldview is… weird...but setting that aside, I loved this and look forward to revisiting it.",
+      "author": "Eve Tushnet"
+    },
+    {
+      "text": "It's a magical mystery tour through the mind of a master.",
+      "author": "Rob Aldam"
+    },
+    {
+      "text": "...tells a engrossing, original story in a way that's totally unique, and a perfect gift for anyone who loves movies or animation...",
+      "author": "Eddie Harrison"
+    },
+    {
+      "text": "An audacious viewing experience.",
+      "author": "Kevin Maher"
+    },
+    {
+      "text": "Spirited Away is the great treasure of 21st-century animation, and we may still be saying that when the 21st century ends.",
+      "author": "Nigel Andrews"
+    },
+    {
+      "text": "The magic of this film exists well beyond simple beautiful animated artwork and a moving, well-crafted story; it is how warmly it opens up so many elements of Japanese culture and belief to an international audience",
+      "author": "Alexandra Heller-Nicholas"
+    },
+    {
+      "text": "An essential recommendation. [Full review in Spanish]",
+      "author": "Ignacio Navarro"
+    },
+    {
+      "text": "It is another film which, whilst having a strong voice and being deeply effective, still appeals to a wide range of people.",
+      "author": "Kanishk Devgan"
+    },
+    {
+      "text": "Its predilection for comical freakishness undeniably sets it apart.",
+      "author": "Mike Massie"
+    },
+    {
+      "text": "It is a mix of the real and the surreal, enough to captivate the younger audiences and haunt the older ones.",
+      "author": "Ruhaan Shah"
+    },
+    {
+      "text": "Miyazaki's animation is breathtakingly beautiful and incredibly intricate.",
+      "author": "Kathi Maio"
+    },
+    {
+      "text": "Creative beyond all reason or expectation, this deserving winner of the Best Animated Feature Oscar is a phenomenal achievement.",
+      "author": "Matt Brunson"
+    },
+    {
+      "text": "Miyazaki has made a loopy, demanding work of art that asks your inner child to come out and play. There are few high-wire acts in all of moviedom as satisfying as that.",
+      "author": "Rubén Rosario"
+    },
+    {
+      "text": "Probably the most original movie I've ever seen.",
+      "author": "Rachel Wagner"
+    },
+    {
+      "text": "Spirited Away doesn't talk down to its young audience, or treat its viewers delicately.",
+      "author": "Austin Trunick"
+    },
+    {
+      "text": "he box office champion in Japan, this film is a genuine work of art.",
+      "author": "Dorothy Woodend"
+    },
+    {
+      "text": "[VIDEO ESSAY] Animation legend Hayao Miyazaki's divinely imaginative display of madcap surrealism is virtuosic in this episodic coming of age classic.",
+      "author": "Cole Smithey"
+    },
+    {
+      "text": "Part Alice in Wonderland and part Hansel and Gretel...",
+      "author": "Josh Larsen"
+    },
+    {
+      "text": "Knock me down with a feather, it turns out to be terrific; maybe not a masterpiece, but certainly aglitter with invention, excitement and a mysterious kind of wit.",
+      "author": "Anthony Quinn"
+    },
+    {
+      "text": "Vivid, amusing and genuinely awe-inspiring.",
+      "author": "Neil Norman"
+    },
+    {
+      "text": "Writer-director Hayao Miyazaki, who previously made the impressive Princess Mononoke, has created a wonderfully bizarre world filled with a gallery of creepy, and some not so-creepy, characters.",
+      "author": "David Stratton"
+    },
+    {
+      "text": "This one is an event, a huge accomplishment in the world of traditional animation and a powerful rebuttal to the notion that films for children must be simplistic and visually dull.",
+      "author": "Steven Horn"
+    },
+    {
+      "text": "Chihiro's escapades don't always proceed one from the other, but let yourself go and you'll be swept away as well.",
+      "author": "Sam Adams"
+    },
+    {
+      "text": "The impressive watercolour backgrounds and intense focus on the smallest details make Spirited Away more than a kid's flick. It will grab hold and impress, amaze and entertain before letting you go.",
+      "author": "Luisa Browett"
+    },
+    {
+      "text": "Spirited Away is unquestionably the best animated feature since Brad Bird's The Iron Giant.",
+      "author": "Christopher Borrelli"
+    },
+    {
+      "text": "What it does have is the same kind of free-floating, imaginative animation, taking wing for even wilder flights of fantasy.",
+      "author": "John Wooley"
+    },
+    {
+      "text": "Artful but not arty, Spirited Away is a handcrafted cartoon, as personal as an Utamaro painting, yet its breadth and heart give it an appeal that should touch American viewers of all ages.",
+      "author": "Richard Corliss"
+    },
+    {
+      "text": "Spirited Away is a masterwork, the latest and best in a long line from Japan's premieranimator.",
+      "author": "Mark Schilling"
+    },
+    {
+      "text": "Watching the Japanese cartoon epic Spirited Away is like strolling into Alice's Wonderland and seeing every wonder sprout up around you as if for the first time.",
+      "author": "Michael Sragow"
+    },
+    {
+      "text": "The result is nothing less than magical, a throwback to the very best of early Disney. If I can't remember the last time I was this enchanted by an animated film, it's because I was too young.",
+      "author": "Jack Mathews"
+    },
+    {
+      "text": "To watch Spirited Away feels like a special gift. It is a film of such startling imagination, originality, intelligence, and emotion that I feel inexplicable joy when the opening title card fades in.",
+      "author": "Christopher Runyon"
+    },
+    {
+      "text": "It's an amazing work, filled with a visual intelligence that's meticulously composed and obscenely clever.",
+      "author": "Michael Agger"
+    },
+    {
+      "text": "Miyazaki's luminescent, gorgeously realized world is relatively safe for children, but it also acknowledges blood, pain, dread, and death in ways that other animated films wouldn't dare.",
+      "author": "Tasha Robinson"
+    },
+    {
+      "text": "Spirited Away has much to say about many worthy things: the life of the spirit, materialist greed, the importance of words, the power of love.",
+      "author": "Joe Morgenstern"
+    },
+    {
+      "text": "Anything but your regular 'toon, it's a (literally) fantastic experience.",
+      "author": "Total Film Staff"
+    },
+    {
+      "text": "At times it's even vaguely reminiscent of The Wizard of Oz, only as if illustrated by Hieronymus Bosch. It's wonderful.",
+      "author": "Leah Rozen"
+    },
+    {
+      "text": "Director Hayao Miyazaki's insistence on hand-drawn graphics gives the CGI visuals an ethereal charm that ensures the story is always a pleasure to behold, even during its rare moments of inaction.",
+      "author": "David Parkinson"
+    },
+    {
+      "text": "...a gorgeously animated yet sporadically entertaining endeavor that isn't quite the instant classic one might've expected...",
+      "author": "David Nusair"
+    },
+    {
+      "text": "Enchanting and impressively crafted.",
+      "author": "Ted Shen"
+    },
+    {
+      "text": "Magnificent, spellbinding movie has a bit of edge.",
+      "author": "Liz Perle"
+    },
+    {
+      "text": "Arguably the most epic animated fantasy tale since The Lion King.",
+      "author": "Garth Franklin"
+    },
+    {
+      "text": "Full of riches, thematic and visual, and the best way to understand them is simply to watch the film and take it all in.",
+      "author": "Tim Brayton"
+    },
+    {
+      "text": "Spirited Away exalts the young girl Chihiro's uncanny experiences into an adventure that is as thrillingly ambiguous as it is vividly soundtracked and illustrated.",
+      "author": "Nick Davis"
+    },
+    {
+      "text": "Miyazaki once again captures that wonder and the awe of sheer fantasy and utterly amazing beauty and innocence.",
+      "author": "Felix Vasquez Jr."
+    },
+    {
+      "text": "Filmgoers of all ages should not pass up the opportunity to experience such a work of staggering imagination.",
+      "author": "Michael Dequina"
+    },
+    {
+      "text": "Magical is a word used casually about films like this, films about fantasy and childhood. Yet this one really does deserve it.",
+      "author": "Peter Bradshaw"
+    },
+    {
+      "text": "This persistently fascinating if slightly over-long fairytale is propelled by the seemingly boundless imagination of writer-director Hayao Miyazaki.",
+      "author": "Joe Lozito"
+    },
+    {
+      "text": "Spirited Away is wonderful.",
+      "author": "Daniel Etherington"
+    },
+    {
+      "text": "A fractured, knotted story about adjusting to new surroundings and having courage in the face of peril.",
+      "author": "Mark Halverson"
+    },
+    {
+      "text": "Miyazaki conjures up monsters and magic that might scare the pants off impressionable kids from eight to eighty. Miyazaki is the Pied Piper -- see Spirited Away and you'll follow him anywhere.",
+      "author": "Peter Travers"
+    },
+    {
+      "text": "Miyazaki has created a complete, complex world with this film, and it's certainly a magical journey. Very, very good entertainment.",
+      "author": "Jason Gorber"
+    },
+    {
+      "text": "Despite a dip midway through, this is a captivating fantasy that sets a new benchmark for animation.",
+      "author": "Patrick Peters"
+    },
+    {
+      "text": "Initially seems like a Through the Looking-Glass fantasy, but rapidly picks up a resonance, weight and complexity that make it all but Shakespearean.",
+      "author": "Tony Rayns"
+    },
+    {
+      "text": "I struggled to find the source of imperfection in this film",
+      "author": "Dragan Antulov"
+    },
+    {
+      "text": "Far and away the best film I've seen this year.",
+      "author": "Jeffrey Overstreet"
+    },
+    {
+      "text": "It is the perfect combination, wildly creative animation with a warm and subtle heart at its core.",
+      "author": "Daniel Kasman"
+    },
+    {
+      "text": "Not instructive, as Disney is, and not aloof, like anime. Spirited Away is fun without being a lesson, and it welcomes you in.",
+      "author": "Jake Euker"
+    },
+    {
+      "text": "Mostrando un profundo respeto por el mundo espiritual, Miyazaki logra una verdadera joya de la animacin que a veces raya en lo potico. [Full review in Spanish]",
+      "author": "Jorge Avila Andrade"
+    },
+    {
+      "text": "The wonders never stop.",
+      "author": "Jurgen Fauth"
+    },
+    {
+      "text": "Miyazaki confa en la inteligencia del pblico y en su capacidad de asombro, y ambas cosas las pone a prueba constantemente en este viaje extraordinario donde todo, cualquier cosa, puede pasar en cualquier momento. [Full review in Spanish.]",
+      "author": "Enrique Buchichio"
+    },
+    {
+      "text": "Even if CG cartoons come to dominate Japan as they do much of the world, there's a corner of the animation field that will be forever Miyazaki.",
+      "author": "Andrew Osmond"
+    },
+    {
+      "text": "One of the most impressive animated features of this year, or any other.",
+      "author": "Jamie Russell"
+    },
+    {
+      "text": "A genuinely magical experience that both adults and children will enjoy. See it -- you'll be glad you did.",
+      "author": "Matthew Turner"
+    },
+    {
+      "text": "Spirited Away transcends masterpiece status. Composed of layer upon layer, it creates its own terminology.",
+      "author": "Gabe Leibowitz"
+    },
+    {
+      "text": "Can at best be described as a surreal blend of Alice in Wonderland and The Wizard of Oz",
+      "author": "James O'Ehley"
+    },
+    {
+      "text": "como se David Lynch tivesse dirigido sua prpria verso de Alice no Pas das Maravilhas.",
+      "author": "Pablo Villaça"
+    },
+    {
+      "text": "To call this film inventive is to grossly understate its accomplishment.",
+      "author": "Bryant Frazer"
+    },
+    {
+      "text": "What separates Miyazaki's animation from everyone else's is the way he imagines his worlds.",
+      "author": "Blake Davis"
+    },
+    {
+      "text": "An explosion of original artwork, weird characters and thought-provoking action",
+      "author": "Mark Robison"
+    },
+    {
+      "text": "I could hardly wait for the next plot twist or astonishing set piece, not to mention what visual magic Miyazaki still had up his sleeve (and he has plenty!).",
+      "author": "Rich Cline"
+    },
+    {
+      "text": "Yes, Spirited Away is a triumph of imagination, but it's also a failure of storytelling.",
+      "author": "David Cornelius"
+    },
+    {
+      "text": "...its visual style is remarkably beauteous and its creative touches abundantly imaginative.",
+      "author": "John J. Puccio"
+    },
+    {
+      "text": "Much of what makes the film work lies in the combination of its small touches and emotionalism, making it something more than a film for people who like to get stoned and go watch freaky animation (though it almost certainly works on that level, too).",
+      "author": "Ken Hanke"
+    },
+    {
+      "text": "I hate to gush in the first sentence of a review, but I absolutely love this film.",
+      "author": "Mark Dujsik"
+    },
+    {
+      "text": "The most enchanting thing about Miyazaki's work is his desire to do just that -- enchant.",
+      "author": "Sandra Hall"
+    },
+    {
+      "text": "Another classic movie from the master of Japanese animation.",
+      "author": "Robert Roten"
+    },
+    {
+      "text": "One of the greatest animated films ever made.",
+      "author": "Wesley Lovell"
+    },
+    {
+      "text": "like a combination of 'The Wizard of Oz' and 'Alice in Wonderland' retold by a clever storyteller who incorporates his own details, twists and bits of humor into the plot.",
+      "author": "James Sanford"
+    },
+    {
+      "text": "It's a wonderful example of traditional Japanese anime, and a flat-out terrific film.",
+      "author": "Jean Lowerison"
+    },
+    {
+      "text": "Repeatedly reminded me of the later Oz books, with Chihiro's Dorothyesque role in a surreal and perilous fantasy land.",
+      "author": "Karina Montgomery"
+    },
+    {
+      "text": "As soft and strange as a dream.",
+      "author": "MaryAnn Johanson"
+    },
+    {
+      "text": "It's the sort of film that gives rise to the awed question, 'How did he do that?'",
+      "author": "Arthur Lazere"
+    },
+    {
+      "text": "Taking a page from \"Alice In Wonderland\" seems to have helped.",
+      "author": "Joshua Tyler"
+    },
+    {
+      "text": "Spirited Away is how you'll feel when you take in this surreal, intelligent movie.",
+      "author": "Linda Cook"
+    },
+    {
+      "text": "[A] fulfilling fantasy, chalk full of inspired transporting imagery, crucial to the success of animated films but in short supply of late.",
+      "author": "Nathaniel Rogers"
+    },
+    {
+      "text": "A rich and fantastic world awaits us in this extraordinary film from Hayao Miyazaki (and a crew of thousands), through which our little heroine has to progress and learn responsibility amidst great dangers and fearsome spirits.",
+      "author": "Urban Cinefile Critics"
+    },
+    {
+      "text": "The imagery is rich, colorful and imaginative -- as you'd expect from Miyazaki.",
+      "author": "Jack Garner"
+    },
+    {
+      "text": "We are thrust into a kaleidoscopic wonderland for more than two hours, quite long for an animated film. There's enough adventure and jeopardy in this film to fill five films of this nature.",
+      "author": "Josh Gilchrist"
+    },
+    {
+      "text": "It's a bloody shame that the anime film with the strongest theatrical push I can remember has to be this one.",
+      "author": "Widgett Walls"
+    },
+    {
+      "text": "Miyazaki's nonstop images are so stunning, and his imagination so vivid, that the only possible complaint you could have about Spirited Away is that there is no rest period, no timeout.",
+      "author": "Eleanor Ringel Cater"
+    },
+    {
+      "text": "I guess this is where I'm supposed to say how brilliant Spirited Away is... Personally, I'm at a loss.",
+      "author": "Stephen Himes"
+    },
+    {
+      "text": "Miyazaki still relies on hand drawings instead of the computer, and many of them look as rich as paintings. And what a parade of creatures!",
+      "author": "Ron Weiskind"
+    },
+    {
+      "text": "La cinta animada ms hermosa que he visto jams.",
+      "author": "Alex Ramirez"
+    },
+    {
+      "text": "Prepare to be Spirited Away by this amazing animated film.",
+      "author": "Gerry Shamray"
+    },
+    {
+      "text": "Filled with haunting imagery, subtly rendered characters and an emotional core absent from most anime, Spirited Away is a rich cinematic experience, a story that reads like direct translation of the director's dream...",
+      "author": "Philip Martin"
+    },
+    {
+      "text": "Spirited Away conjures up a beautiful, diverse, richly envisioned tale that constantly delights... even when it verges on the limits of coherence.",
+      "author": "Rob Vaux"
+    },
+    {
+      "text": "In scene after scene, Spirited Away unleashes so much wonder and visual imagination that you end up watching the movie in a state of rapturous, awestruck bliss.",
+      "author": "Rene Rodriguez"
+    },
+    {
+      "text": "It's perplexing but always enthralling.",
+      "author": "Jeff Vice"
+    },
+    {
+      "text": "I can't imagine any open-minded preteen losing interest in it.",
+      "author": "Lawrence Toppman"
+    },
+    {
+      "text": "For older kids -- anyone who loves great animation, in fact -- Spirited Away is a rare treasure.",
+      "author": "Margaret A. McGurk"
+    },
+    {
+      "text": "[Miyazaki] conjures up worlds that are wondrously bizarre yet follow their own peculiar logic.",
+      "author": "Sean P. Means"
+    },
+    {
+      "text": "It's easy to get lost amid the flow, as characters transform and magical powers emerge and disappear without warning.",
+      "author": "Phil Villarreal"
+    },
+    {
+      "text": "As surreal as a dream and as detailed as a photograph, as visually dexterous as it is at times imaginatively overwhelming.",
+      "author": "Duane Dudek"
+    },
+    {
+      "text": "This gorgeous epic is guaranteed to lift the spirits of the whole family.",
+      "author": "Peter Bernard"
+    },
+    {
+      "text": "Spirited Away is a wonderous tale for grade schoolers that never condescends or spoon feeds its themes. Miyazaki's characters and situations are so engaging that he can condemn greed and environmental negligence without ever sermonizing.",
+      "author": "Dan Lybarger"
+    },
+    {
+      "text": "Genius and nothing but -- that's what Miyazaki means.",
+      "author": "Marc Savlov"
+    },
+    {
+      "text": "Spirited Away ups the animation ante. It’s a test, a lesson, a mystery and an adventure, taking full advantage of the complex powers of anime and its freedom to go wherever the mind can imagine.",
+      "author": "Anita Schmaltz"
+    },
+    {
+      "text": "Let's keep it simple: Miyazaki is a genius, and this film is a masterpiece; go see it.",
+      "author": "Shawn Levy"
+    },
+    {
+      "text": "At the almost-two-hour mark, the film, which seems poised to keep going with yet another bravura sequence of magic, suddenly wraps everything up really fast.",
+      "author": "D.K. Holm"
+    },
+    {
+      "text": "Visually imaginative, thematically instructive and thoroughly delightful, it takes us on a roller-coaster ride from innocence to experience without even a hint of that typical kiddie-flick sentimentality.",
+      "author": "Jay Boyar"
+    },
+    {
+      "text": "That the story sometimes makes not a lick of sense is among its virtues, imparting as it does the exhilarating feeling that anything can happen.",
+      "author": "Steve Schneider"
+    },
+    {
+      "text": "A breathtakingly magical animated fable that lifts your spirits and carries you away to a world far beyond your wildest imagination.",
+      "author": "David N. Butterworth"
+    },
+    {
+      "text": "At its heart and most importantly, Spirited Away concerns a little girl learning to honour her friends and her family by valuing herself.",
+      "author": "Walter Chaw"
+    },
+    {
+      "text": "A true work of art from one of our greatest living filmmakers.",
+      "author": "Mark Palermo"
+    },
+    {
+      "text": "[Spirited Away is] the most deeply and mysteriously satisfying animated feature to come along in ages.",
+      "author": "Peter Rainer"
+    },
+    {
+      "text": "The colors, textures, and settings are impressively beautiful, and the overall effect is mystical and magical, familiar and dreamlike.",
+      "author": "Marty Mapes"
+    },
+    {
+      "text": "There is a force of visual rapture in Spirited Away. Kids can gape, but you can also feel some adults in the audience going into giddy sync, as if tapping into their childhoods-or nostalgic feelings for childhood dreams that now get a heightened playback.",
+      "author": "David Elliott"
+    },
+    {
+      "text": "Packed with strange beings amid painterly settings, Spirited Away delivers one of the most colorful fantasy worlds since the similarly surreal Yellow Submarine.",
+      "author": "Bruce Westbrook"
+    },
+    {
+      "text": "Children may not understand everything that happens -- I'm not sure even Miyazaki himself does -- but they will almost certainly be fascinated, and undoubtedly delighted.",
+      "author": "Terry Lawson"
+    },
+    {
+      "text": "Miyazaki floods the screen with beautiful scenes and enough fascinating creatures to put Pokemon to shame.",
+      "author": "Robert Denerstein"
+    },
+    {
+      "text": "One of [Miyazaki's] finest.",
+      "author": "Scott Thill"
+    },
+    {
+      "text": "Spirited Away is brilliant in its imagery and astonishing in its creativity. Many films are billed as voyages into fantasy, but this one actually delivers.",
+      "author": "Bill Muller"
+    },
+    {
+      "text": "'Alice's adventure through the looking glass and into zombie-land' is filled with strange and wonderful creatures.",
+      "author": "Cherryl Dawson and Leigh Ann Palone"
+    },
+    {
+      "text": "That rare movie that has the emotional and psychological depth to match its stunning surface.",
+      "author": "Tom Maurstad"
+    },
+    {
+      "text": "A film not to miss.",
+      "author": "Caffeinated Clint"
+    },
+    {
+      "text": "The closest American counterpart to Spirited Away is Alice in Wonderland, but no analogy will fully prepare you.",
+      "author": "Dan Fazio"
+    },
+    {
+      "text": "An exquisitely formed, flawlessly executed masterwork...As sheerly imaginative and groundbreakingly wondrous as any animated motion picture you are sure to have seen.",
+      "author": "Dustin Putman"
+    },
+    {
+      "text": "To say that Miyazaki's intelligent, painstaking, hand-crafted anime is magical, dazzling and brilliant is an understatement - it's incomparable, ingenious and inventive -just watch for a win at Osca-time!",
+      "author": "Susan Granger"
+    },
+    {
+      "text": "This is one heck of a movie, and one can see why it made all that money in Japan.",
+      "author": "Eric Lurio"
+    },
+    {
+      "text": "An animated film that is among the most delightful, imaginative stories I've seen all year.",
+      "author": "Eric D. Snider"
+    },
+    {
+      "text": "Miyazaki has created such a vibrant, colorful world, it's almost impossible not to be swept away by the sheer beauty of his images.",
+      "author": "Ethan Alter"
+    },
+    {
+      "text": "Although anime features aren't all the rage in a majority of American movie theaters, Spirited Away should be a legitimate excuse to change this pending sentiment.",
+      "author": "Frank Ochieng"
+    },
+    {
+      "text": "Spirited Away is a trip, in the literal, metaphorical and indeed lysergic senses of that word.",
+      "author": "Andrew O'Hehir"
+    },
+    {
+      "text": "For all its slapstick and even the occasional gross-out gag, Spirited Away is an animated film whose major delights are also its subtlest.",
+      "author": "Marshall Fine"
+    },
+    {
+      "text": "Steeped in lore and unabashedly surreal, the film is just charming enough for children and just bizarre enough for adults -- a perfect balance.",
+      "author": "Joe Baltake"
+    },
+    {
+      "text": "Even when Spirited Away follows the easy route, with true love as the solvent to most problems, it's so jam-packed with spectacular images, sights, and sounds that it conjures up a million dreams you've had (lovely, awesome, and terrifying) and tra",
+      "author": "Jeremiah Kipp"
+    },
+    {
+      "text": "...the fable-istic story of a little girl trapped in a parallel world of spirits left me unaffected and completely indifferent.",
+      "author": "Rob Blackwelder"
+    },
+    {
+      "text": "This fantastically weird cartoon is definitely one of the most intriguing movies of the year.",
+      "author": "Paul Salfen"
+    },
+    {
+      "text": "Miyazaki seems to have an inexhaustible supply of ideas to fill the screen and to fill screen time.",
+      "author": "Mark R. Leeper"
+    },
+    {
+      "text": "Miyazaki is one of world cinema's most wondrously gifted artists and storytellers.",
+      "author": "David Hunter"
+    },
+    {
+      "text": "Has few rivals as a work of visual imagination.",
+      "author": "Mike D'Angelo"
+    },
+    {
+      "text": "The shape-shifting creatures might be a little too imaginative for traditional audiences to get their heads around.",
+      "author": "Stacie Hougland"
+    },
+    {
+      "text": "Miyazaki has provided another triumph, and, in the midst of the quality fall-off of Disney's in-house animated projects, a reason for animation-lovers to rejoice.",
+      "author": "James Berardinelli"
+    },
+    {
+      "text": "Watching Spirited Away is like watching an Eastern imagination explode.",
+      "author": "Jeffrey Chen"
+    },
+    {
+      "text": "A smashing technical achievement coming out against greed, gluttony, and pre-adolescent whining.",
+      "author": "Harvey S. Karten"
+    },
+    {
+      "text": "Miyazaki understands the magic Disney intended, and he elevates it to a higher realm of dreamy, worldly mysticism that is appealing to children of all ages and temperaments.",
+      "author": "Peg Aloi"
+    },
+    {
+      "text": "It almost goes without saying that the animation is jaw dropping.",
+      "author": "Aaron Lazenby"
+    },
+    {
+      "text": "A cultural wildcard experience: wacky, different, unusual, even nutty.",
+      "author": "Desson Thomson"
+    },
+    {
+      "text": "Like old myths and wonder tales spun afresh.",
+      "author": "Jane Horwitz"
+    },
+    {
+      "text": "Even though Disney released this film, Spirited Away points up just how by-the-numbers the studio's fare can be.",
+      "author": "Claudia Puig"
+    },
+    {
+      "text": "Creating a rare story-world that follows a consistent logic yet allows for most anything to happen, Miyazaki again proves himself to be more genii than filmmaker.",
+      "author": "Frank Lovece"
+    },
+    {
+      "text": "Spirited Away is every bit as captivating for its sheer graphic power as it is for its message of go-get-'em-girl power.",
+      "author": "Geoff Pevere"
+    },
+    {
+      "text": "Children and parents will love Spirited Away, which has mythic quality and the familiarity of great children's literature.",
+      "author": "Chris Hewitt"
+    },
+    {
+      "text": "Miyazaki, the master animator and director of the enchanting Kiki's Delivery Service and Princess Mononoke, leads us through the looking glass as never before in Spirited Away.",
+      "author": "Tom Keogh"
+    },
+    {
+      "text": "An animation landmark as monumental as Disney's 1937 breakthrough Snow White and the Seven Dwarfs.",
+      "author": "Jeffrey M. Anderson"
+    },
+    {
+      "text": "A lovely, evocative tour de force.",
+      "author": "C.W. Nevius"
+    },
+    {
+      "text": "A two-hour feast of visual imagination, consistently rendered at the highest level of graphic art.",
+      "author": "Bob Strauss"
+    },
+    {
+      "text": "Spirited Away is one of the most richly imaginative and visually spectacular films you will see this year.",
+      "author": "Derek Tse"
+    },
+    {
+      "text": "This is one of the year's best films.",
+      "author": "Roger Ebert"
+    },
+    {
+      "text": "Hayao Miyazaki may be one of Japan's leading animators, but in his new film, Miyazaki's Spirited Away, he also envelops you in a wondrous landscape of archetypal magic.",
+      "author": "Kevin Courrier"
+    },
+    {
+      "text": "Spirited Away delivers chunks of Yellow Submarine and The Phantom Tollbooth -- a vividly timeless oddity suitable for many children and most stoners.",
+      "author": "Wesley Morris"
+    },
+    {
+      "text": "Spirited Away has the quality of a dream: It takes you places so foreign and fantastic you have no option but to yield completely to it and be spirited along.",
+      "author": "Don Irvine"
+    },
+    {
+      "text": "Spirited Away is too intense for the youngest viewers, but teenagers will enjoy it -- an ill-smelling 'stink-god' character is almost worthy of a Kevin Smith gross-out movie -- and grown-ups should find it diverting, if not exactly deep.",
+      "author": "David Sterritt"
+    },
+    {
+      "text": "Hayao Miyazaki's breathtakingly beautiful and poetic Spirited Away -- a Japanese cross between Alice in Wonderland and The Wizard of Oz -- is such a landmark in animation that labeling it a masterpiece almost seems inadequate.",
+      "author": "Lou Lumenick"
+    },
+    {
+      "text": "This animated adventure from genre superstar Hayao Miyazaki has spirit to spare.",
+      "author": "E! Staff"
+    },
+    {
+      "text": "Has an unfortunate animistic sensibility, seeing gods and spirits in all things… The most striking thing about Spirited Away, however, is its arresting visuals.",
+      "author": "Steven D. Greydanus"
+    },
+    {
+      "text": "I spent two hours staring at the screen in utter amazement.",
+      "author": "Eugene Novikov"
+    },
+    {
+      "text": "The magic (and original running time) of ace Japanimator Hayao Miyazaki's Spirited Away survives intact in BV's re-voiced version.",
+      "author": "Derek Elley"
+    },
+    {
+      "text": "The spark of special anime magic here is unmistakable and hard to resist.",
+      "author": "William Arnold"
+    },
+    {
+      "text": "The film is not recommended for toddlers and easily frightened little tykes. But for everyone else, kid or grown-up, this thrilling foray into magical realms is a must.",
+      "author": "Steven Rea"
+    },
+    {
+      "text": "A haunting and indelible fable that warms the chilly soul of Japanese anime and points the way for its American sponsor.",
+      "author": "Jan Stuart"
+    },
+    {
+      "text": "No one else conjures the phantasmagoric and shifting morality of dreams -- that fascinating and frightening aspect of having something that seems to represent good become evil -- in the way [Miyazaki] does.",
+      "author": "Elvis Mitchell"
+    },
+    {
+      "text": "Writing about a film like Spirited Away isn't about regurgitating information out for those who know little about it, but more of an experience in reminiscing.",
+      "author": "Erik Childress"
+    },
+    {
+      "text": "If you're dispirited by look-alike, sound-alike, think-alike movies, disturbed by an art form that seems not only to tolerate, but also to reward a paucity of imagination, you're not going to believe your luck.",
+      "author": "Kenneth Turan"
+    },
+    {
+      "text": "This English-language version... does full honor to Miyazaki's teeming and often unsettling landscape, and to the conflicted complexity of his characters.",
+      "author": "David Chute"
+    },
+    {
+      "text": "A must-see for Japanamation fans, anyone familiar with Japanese folklore, or anyone sick of the boring stories that typically accompany American animation.",
+      "author": "Jon Popick"
+    },
+    {
+      "text": "Every scene brings a new sets of wonders to delight and sometimes stagger the mind.",
+      "author": "Jeffrey Westhoff"
+    },
+    {
+      "text": "This instant classic spins a web that will snare anyone with an imagination.",
+      "author": "Tor Thorsen"
+    },
+    {
+      "text": "A work of beauty with a surprising capacity to be cute and cunning.",
+      "author": "Mary F. Pols"
+    },
+    {
+      "text": "A movie full of bewitching images and timeless fun and beauty.",
+      "author": "Michael Wilmington"
+    },
+    {
+      "text": "I might as well just come out and say it: Spirited Away is the best movie I've seen all year.",
+      "author": "Luke Y. Thompson"
+    },
+    {
+      "text": "Nothing short of wonderful with its ten-year-old female protagonist and its steadfast refusal to set up a dualistic battle between good and evil.",
+      "author": "Frederic and Mary Ann Brussat"
+    },
+    {
+      "text": "Not as visually awesome as 'Princess Mononoke,' but more appealing to youngsters. A wonderful combination of simplicity and spectacle.",
+      "author": "Betty Jo Tucker"
+    },
+    {
+      "text": "It's a beautiful experience, nearly perfect with a fragile flowing fluid score.",
+      "author": "Ross Anthony"
+    },
+    {
+      "text": "A triumph of psychological depth and artistic brilliance.",
+      "author": "Lisa Schwarzbaum"
+    },
+    {
+      "text": "An epic film of very bizarre proportions.",
+      "author": "JoBlo"
+    },
+    {
+      "text": "Kudos to the most enchanting film of the year.",
+      "author": "Jeanne Aufmuth"
+    },
+    {
+      "text": "When animators go to animator heaven, they will probably view drawings of the caliber of those in Sprited Away.",
+      "author": "Steve Rhodes"
+    },
+    {
+      "text": "An amazing piece of work.",
+      "author": "Richard Roeper"
+    },
+    {
+      "text": "It's easy to give this one credit for the mind-blowing creativity, but I can't recommend this to anyone who's not already a fan of Miyazaki or mind-expanding drugs...it's just not going to translate.",
+      "author": "John Venable"
+    },
+    {
+      "text": "Combines some wonderfully imaginative visuals with a plot that, to put it charitably, will seem loony to most American viewers.",
+      "author": "Frank Swietek"
+    },
+    {
+      "text": "Plot here takes a backseat to set pieces that flow into each other like a glorious stream of consciousness.",
+      "author": "Ed Gonzalez"
+    },
+    {
+      "text": "Even the worst Miyazaki picture is a remarkable achievement, and Spirited Away is one of his better films.",
+      "author": "Jeremy Heilman"
+    },
+    {
+      "text": "It is a film that speaks to the soul, as much as it speaks to all the ten-year old kids [Miyazaki] made it for.",
+      "author": "Vinita Ramani"
+    }
+  ],
+  "release_year": 2002,
+  "duration": 125,
+  "genres": [
+    "Fantasy",
+    "Adventure",
+    "Animation"
+  ],
+  "age_rating": "PG",
+  "synopsis": "10-year-old Chihiro (Daveigh Chase) moves with her parents to a new home in the Japanese countryside. After taking a wrong turn down a wooded path, Chihiro and her parents discover an amusement park with a stall containing an assortment of food. To her surprise, Chihiro's parents begin eating and then transform into pigs. In this supernatural realm, Chihiro encounters a host of characters and endures labor in a bathhouse for spirits, awaiting a reunion with her parents.",
+  "popularity": 9.6,
+  "poster_url": "https://image.tmdb.org/t/p/original/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg"
+}
