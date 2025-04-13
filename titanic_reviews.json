@@ -1,0 +1,98 @@
+{
+  "movie_name": "Titanic",
+  "movie_id": "titanic",
+  "total_reviews": 20,
+  "reviews": [
+    {
+      "text": "\"Thanks to its awe-inspiring set pieces and captivating romance, James Cameron’s Titanic remains just as powerful today as it was 25 years ago.\"",
+      "author": "Jack Walters"
+    },
+    {
+      "text": "Every time I watch the film it has a new piece or element that makes me fall in love with it even more. It is truly one of the greatest romances seen on film, largely thanks to the performers.",
+      "author": "Carson Timar"
+    },
+    {
+      "text": "'Titanic' isn’t shy about reaching for the heartstrings, but it’s so well made and acted that it’s impossible to look away from.",
+      "author": "Preston Barta"
+    },
+    {
+      "text": "Cameron is skilled at creating successful films that often perform exceptionally well at the box office, and Titanic was no exception.",
+      "author": "Allison Rose"
+    },
+    {
+      "text": "An awe-inspiring, life-changing love — the kind, perhaps, worth boarding the Titanic for.",
+      "author": "Patricia Karounos"
+    },
+    {
+      "text": "Still my second favourite film of all time. A masterpiece.",
+      "author": "David Griffiths"
+    },
+    {
+      "text": "The fact that we're still talking about Titanic over 25 years after its release speaks to the film and ship's staying power. Some issues with the fictional love story not withstanding, Titanic remains an epic achievement in filmmaking.",
+      "author": "Danielle Solzman"
+    },
+    {
+      "text": "As colossal as the ship itself.",
+      "author": "Mark Johnson"
+    },
+    {
+      "text": "Technically very good and with great visual achievements, but, in the end, it's a cheesy, fluffy narration full of meringue that doesn't satisfy. [Full review in Spanish]",
+      "author": "Erick Estrada"
+    },
+    {
+      "text": "Revisiting the iconic film was a blissful experience, which holds up against the test of time.",
+      "author": "Veronica Elizabeth Bruno"
+    },
+    {
+      "text": "Intimate and personal in a manner belying its scale, James Cameron’s work on Titanic holds up as well as ever.",
+      "author": "George Elkind"
+    },
+    {
+      "text": "Those shots of the boat sinking — the grand terror of it all — goodness gracious, man…the swooning, doomed romance…Garber by the clock…Leo the damn movie star…cinema! Cinema, I say! Cinema!",
+      "author": "Cory Woodroof"
+    },
+    {
+      "text": "James Cameron knows what he's doing, and with “Titanic”, he made a modern classic; simple and archetypal, but powerful. I'm sure I'll end up seeing it again (in 6K, 8K or even as a hologram) in five, ten, or even thirty years. Full review in Spanish.",
+      "author": "Sebastian Zavala Kahn"
+    },
+    {
+      "text": "It is a lighting-in-a-bottle moment in cinematic history where the stars aligned and came to represent what a perfect film could achieve when everything went exactly right.",
+      "author": "Lauren LaMagna"
+    },
+    {
+      "text": "You can say what you want about James Cameron, he makes movies people want to go see -- Whether they're about a blue-skinned indigenous tribe on a faraway planet or a love story set aboard a doomed luxury liner in 1912.",
+      "author": "Keith Garlington"
+    },
+    {
+      "text": "My favorite line in the movie comes from Kathy Bates’ Molly Brown, who instantly sizes up the tension between Billy Zane’s arrogant Cal and his betrothed Rose...",
+      "author": "Richard Roeper"
+    },
+    {
+      "text": "... a guilty-pleasure tear-jerker.",
+      "author": "Kevin Maher"
+    },
+    {
+      "text": "Cameron’s greatest strength is his unrelenting drive to amass a spectacle fitting of his source material. Titanic is a testament to a time when film tried to step outside the confines of the screen and change the very world around its walls.",
+      "author": "Ian Thomas Malone"
+    },
+    {
+      "text": "One of the greatest disaster films ever and certainly the one truly genuine blockbuster movie of the '90s.",
+      "author": "Dan DiNicola"
+    },
+    {
+      "text": "Perfectly linked, in logistical and emotional terms, the distinct perspectives within Titanic adjust themselves perfectly.  [Full review in Spanish]",
+      "author": "Juan Rodriguez Flores"
+    }
+  ],
+  "release_year": 1997,
+  "duration": 195,
+  "genres": [
+    "History",
+    "Drama",
+    "Romance"
+  ],
+  "age_rating": "PG-13",
+  "synopsis": "Two young lovers from completely different backgrounds meet and fall in love on the ill-fated maiden voyage of the unsinkable R.M.S. Titanic.",
+  "popularity": 6.9,
+  "poster_url": "https://image.tmdb.org/t/p/original/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+}

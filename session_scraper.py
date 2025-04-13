@@ -131,6 +131,43 @@ class RTSessionScraper:
                     movie_details['genres'] = genres
                     print(f"Found genres: {', '.join(movie_details['genres'])}")
             
+            # Extract age rating (PG, PG-13, R, etc.)
+            rating_elems = soup.select('[slot="metadataContentRating"], .meta-value:contains("Rating:"), .panel-body:contains("Rating"), div.metadata-row:contains("Rating")')
+            if not rating_elems:
+                # Try other selectors
+                rating_elems = soup.select('.content-rating')
+            if not rating_elems:
+                # Try to find elements containing "Rating" text
+                all_elems = soup.find_all(['div', 'span', 'p'])
+                rating_elems = [elem for elem in all_elems if 'Rating' in elem.get_text() and (
+                    'PG-13' in elem.get_text() or 
+                    'PG' in elem.get_text() or 
+                    'R ' in elem.get_text() or 
+                    'G ' in elem.get_text() or 
+                    'NC-17' in elem.get_text()
+                )]
+
+            if rating_elems:
+                for elem in rating_elems:
+                    text = elem.get_text().strip()
+                    # Define patterns for common rating formats
+                    rating_patterns = [
+                        r'Rating:\s*(PG-13|PG|R|G|NC-17|Not Rated|NR|TV-MA|TV-14|TV-PG|TV-G|TV-Y7|TV-Y)(?:\s|$)',
+                        r'Rated\s+(PG-13|PG|R|G|NC-17|Not Rated|NR|TV-MA|TV-14|TV-PG|TV-G|TV-Y7|TV-Y)(?:\s|$)',
+                        r'(PG-13|PG|R|G|NC-17|Not Rated|NR|TV-MA|TV-14|TV-PG|TV-G|TV-Y7|TV-Y)(?:\s|$)',
+                    ]
+                    
+                    for pattern in rating_patterns:
+                        match = re.search(pattern, text)
+                        if match:
+                            rating = match.group(1)
+                            movie_details['age_rating'] = rating
+                            print(f"Found age rating: {rating}")
+                            break
+                    
+                    if 'age_rating' in movie_details:
+                        break
+            
             # Extract synopsis
             synopsis_elem = soup.select_one('.synopsis-wrap [data-qa="synopsis-value"], [slot="description"] [slot="content"]')
             if synopsis_elem:
@@ -764,14 +801,14 @@ def main(args):
 if __name__ == '__main__':
     # List of 100 popular movies from different genres and eras
     movies = [
-    
+        "Titanic"
     ]
 
     # Process each movie
     for movie in movies:        
         args = Args(
             movie_name=movie, 
-            num_reviews=500, 
+            num_reviews=20, 
             output=f"data/{movie.lower().replace(' ', '_')}_reviews.json"
         )
         main(args)
