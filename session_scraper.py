@@ -808,7 +808,7 @@ if __name__ == '__main__':
     for movie in movies:        
         args = Args(
             movie_name=movie, 
-            num_reviews=20, 
+            num_reviews=500, 
             output=f"data/{movie.lower().replace(' ', '_')}_reviews.json"
         )
         main(args)
